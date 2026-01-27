@@ -16,3 +16,4 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 
 # The World
 [[2. The World/History/The Sundering War\|The Sundering War]]
+[[2. The World/Locations/Leonitar\|Leonitar]]
