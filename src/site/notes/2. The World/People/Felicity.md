@@ -22,6 +22,6 @@
 > Class | `=this.class` |
 > Character Role | `=this.character-role` |
 
-Formerly a protege of Maribel Merewyn, an Archmage of the Ring of Gold, Felicity was a bright and young woman. When [[Ovina Torunn \| Chancellor Ovina Torunn]] directed Syndicacy agents to attack the Kryn Ward to pull [[2. The World/Locations/Ophidia\|Ophidia]] into [[2. The World/History/The Sundering War\|The Sundering War]], she inadvertently kills Maribel Merewyn.
+Formerly a protege of Maribel Merewyn, an Archmage of the Ring of Gold, Felicity was a bright and young woman. When [[Ovina Torunn \| Chancellor Ovina Torunn]] directed [[Velissa & Vexalia \| Syndicacy agents]] to [[Attack on the Kryn Ward \| attack the Kryn Ward]] to pull [[2. The World/Locations/Ophidia\|Ophidia]] into [[2. The World/History/The Sundering War\|The Sundering War]], she inadvertently kills Maribel Merewyn.
 
-Driven by vengeance, she succeeds Maribel as an Archmage. In 754 AY, she succeeds in her quest, leading Force Grey in an assault that kills Chancellor Ovina Torunn.
+Driven by vengeance, she succeeds Maribel as an Archmage. In 754 AY, she succeeds in her quest, leading Force Grey in [[Operation Chisel \| an assault that kills Chancellor Ovina Torunn]].

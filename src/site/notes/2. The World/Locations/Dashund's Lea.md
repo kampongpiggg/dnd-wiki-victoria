@@ -4,8 +4,8 @@
 
 
 > [!abstract]+ Quote 
-> *"INSERT QUOTE HERE"* - **PERSON**
-
+> **Khan the Younger**: In case you haven't noticed, *Imperator*, our ally has betrayed us. The Assembly sells the Kingdom the same arms and armour they sell us. The Legion's advance has halted. It is only a matter of time before the Alastians launch a counter-attack. 
+> **Julian Yaeldrin**: And that's why you're *not* the Imperator, Khan. They may have stopped our advance, but there's a flaw in their defense. Do you see it? 
 
 
 > [!infobox]

@@ -3,11 +3,10 @@
 ---
 
 
-
-
 > [!abstract]+ Quote 
-> *"INSERT QUOTE HERE"* - **PERSON**
-
+> **Imperator Julian Yaeldrin**:Come now, Vicky. You really want to lead all these people to their deaths? I thought you were supposed to be the compassionate one. Withdraw, or you will all die here.
+> **General Victoria Parcival**: No, Julian. You are the one who will die here. And I will be the last thing you see.
+> **Imperator Julian Yaeldrin**: Very well, let us make famous that field out there. And this little town of Syllamere that will forever mark the place of your callow defeat.
 
 
 > [!infobox]

@@ -31,6 +31,6 @@ During the War, seeking to gain an edge over her enemies, she pushed her vassal 
 
 Over the course of the war, she became increasingly erratic, spiteful and paranoid, prompting her vassal houses, particularly the Tychonis, to begin a plot to remove her and install a new queen.
 
-After the attack on [[The Rarquet Assembly \| Rarquet]], the Dowager Queen vowed to lead the final assault into [[The Cer'Dorei Republic \| the Republic]]. She mustered her forces and placed them under the command of [[Victorian Parcival \| General Victorian Parcival]], and began the march on Cer'Dorei. 
+After the attack on [[The Rarquet Assembly \| Rarquet]], the Dowager Queen vowed to lead the final assault into [[The Cer'Dorei Republic \| the Republic]]. She mustered her forces and placed them under the command of [[2. The World/People/Victoria Parcival\| General Victorian Parcival]], and began the march on Cer'Dorei. 
 
 Unbeknownst to her, she had been poisoned gradually by the Tychonis. She dies halfway to the capital of the Republic. After her death, the war council crowns Victoria as her replacement. 
