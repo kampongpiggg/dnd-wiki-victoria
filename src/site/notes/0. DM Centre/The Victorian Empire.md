@@ -20,9 +20,3 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 # The World
 
 
-```juggl
-workspace: Main 
-height: 600px
-animate: True
-```
-
