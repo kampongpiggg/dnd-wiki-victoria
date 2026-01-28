@@ -15,7 +15,7 @@
 >    Info |    Description |
 > ---|---|
 > Type | Settlement |
-> Size | FILL |
+> Size | Large Town |
 > Region | FILL |
 > ###### Politics
 >    Info |   Description |

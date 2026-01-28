@@ -4,89 +4,17 @@
 
 
 
-> [!abstract]+ Quote 
-> *"INSERT QUOTE HERE"* - **PERSON**
-
-
-
 > [!infobox]
 > # Lion's Straits
 > ![harbor.jpg](/img/user/z_Attachments/harbor.jpg)
 > ###### Geography
 >    Info |    Description |
 > ---|---|
-> Type | Settlement |
-> Size | FILL |
-> Region | FILL |
-> ###### Politics
->    Info |   Description |
-> ---|---|
-> Govt | Imperial Autocracy (Empire) / FILL |
-> Ruler | The Victorian Emperor (Empire) / FILL |
-> ###### Organizations
-> Info | Description |
-> ---|---|
-> Guilds & Groups | FILL |
-> Temples | FILL |
-> ###### Society
-> Info |  Description |
-> ---|---|
-> Population | FILL |
-> Races | FILL | 
-> ###### Commerce
-> Info |  Type |
-> ---|---|
-> Exports | FILL |
-> Imports | FILL |
+> Type | Straits |
+> Region | Leucaria |
+> Points of Interest | Bay of Lions |
 
 
-This is a placeholder.
+The Lion's Straits is a narrow stretch of water 560 miles long. Its width varies across its body, extending as wide as 155 miles and as narrow as 40 miles at its narrowest point. It serves as the main shipping route between the Stormwreck and the Shining Sea, and is thus one of the most important trade routes in the world.
 
-## Description
-This is a placeholder.
-
-## Government
-This is a placeholder.
-
-## Culture
-This is a placeholder.
-
-## History
-Placeholder
-
-## Trade
-This is a placeholder.
-
-## Geography
-Placeholder
-
-### Placeholder Map
-![[z_Assets/Misc/MapPlaceholder.png\|Placeholder Map]]
-[[z_Assets/Misc/MapPlaceholder.png\|open outside]]
-
-Placeholder
-
-## Points of Interest
-Placeholder
-
-## Transportation
-Placeholder
-
-## Defenses
-This is a placeholder.
-
-## Notable Inhabitants
-Placeholder
-
-## Additional Details
-Placeholder
-
-`=this.region`
-
-
-`=link(this.region)`
-
-`=this.region`
-
-
-`=link(this.region)`
+The strategic significance of the strait has led to security concerns for major trading nations, and was the primary reason put forth by the newly minted [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] for selection of the capital of the new Victorian Empire.
