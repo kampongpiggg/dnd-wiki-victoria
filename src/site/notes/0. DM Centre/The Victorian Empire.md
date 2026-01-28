@@ -13,7 +13,16 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 # The Party
 
 
-
-# The World
+# Key Events
 [[2. The World/History/The Sundering War\|The Sundering War]]
 [[2. The World/Locations/Leonitar\|Leonitar]]
+
+# The World
+
+
+```juggl
+workspace: Main 
+height: 600px
+animate: True
+```
+
