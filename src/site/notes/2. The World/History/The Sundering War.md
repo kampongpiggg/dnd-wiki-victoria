@@ -11,7 +11,7 @@
 
 > [!infobox]
 > # The Sundering War
-> ![war_aftermath.jpg](/img/user/z_Attachments/war_aftermath.jpg)
+> ![sundering_war.jpg](/img/user/z_Attachments/sundering_war.jpg)
 > ###### Information
 > Info |  Description |
 > ---|---|
