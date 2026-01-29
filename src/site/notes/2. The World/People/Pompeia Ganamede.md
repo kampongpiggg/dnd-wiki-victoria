@@ -16,7 +16,7 @@
 > Sex | `=this.gender` |
 > Race | `=this.race` |
 > Age | `=this.age` |
-> Condition | Healthy |
+> Condition | Missing |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|

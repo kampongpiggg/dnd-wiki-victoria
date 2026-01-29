@@ -34,7 +34,7 @@
 > ###### Commerce
 > Info |  Type |
 > ---|---|
-> Exports | Grain, ale, clothing, livestock, wine, candle, silk, ceramics |
+> Exports | Ale, amber, candle, silk, ceramics |
 > Imports | Grain, ale, clothing, livestock, wine, candle, silk, ceramics |
 
 

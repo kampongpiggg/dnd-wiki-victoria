@@ -42,4 +42,4 @@ In Vregenheim, Force Grey assaulted the Citadel. While Syndicacy agents protecti
 ## Aftermath 
 A critically successful operation, the destruction of forges and smith as well as the death of the Chancellor Ovina resulted in the paralysis of the Rarquet war machine. Many historians agree that this was a lynchpin event in the Sundering War, stressing that the failure of this operation likely would have gravely changed the geopolitics of the continent. 
 
-Renewed by a sense of hope, Alastians and Ophidias alike set their sights on a counteroffensive.
+Renewed by a sense of hope, Alastians and Ophidias alike set their sights on [[2. The World/Locations/Syllamere\| a final counteroffensive.]]
