@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/locations/leonitar/"}
+{"dg-publish":true,"permalink":"/2. The World/Locations/Leonitar/"}
 ---
 
 > [!abstract]+ Quote 

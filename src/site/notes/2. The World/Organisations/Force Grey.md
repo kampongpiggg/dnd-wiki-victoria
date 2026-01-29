@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/organisations/force-grey/"}
+{"dg-publish":true,"permalink":"/2. The World/Organisations/Force Grey/"}
 ---
 
 

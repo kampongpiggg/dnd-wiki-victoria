@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/history/the-siege-of-dashund-s-lea/"}
+{"dg-publish":true,"permalink":"/2. The World/History/The Siege of Dashund's Lea/"}
 ---
 
 > [!abstract]+ Quote 

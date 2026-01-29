@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/history/operation-chisel/"}
+{"dg-publish":true,"permalink":"/2. The World/History/Operation Chisel/"}
 ---
 
 > [!abstract]+ Quote 

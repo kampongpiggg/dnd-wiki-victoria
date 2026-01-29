@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/people/the-victorian-emperor/"}
+{"dg-publish":true,"permalink":"/2. The World/People/The Victorian Emperor/"}
 ---
 
 

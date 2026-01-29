@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/people/gwendolyn-hamilton/"}
+{"dg-publish":true,"permalink":"/2. The World/People/Gwendolyn Hamilton/"}
 ---
 
 

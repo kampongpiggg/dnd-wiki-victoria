@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/organisations/the-victorian-revolutionary-guard/"}
+{"dg-publish":true,"permalink":"/2. The World/Organisations/The Victorian Revolutionary Guard/"}
 ---
 
 

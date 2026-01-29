@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/locations/the-rarquet-assembly/"}
+{"dg-publish":true,"permalink":"/2. The World/Locations/The Rarquet Assembly/"}
 ---
 
 

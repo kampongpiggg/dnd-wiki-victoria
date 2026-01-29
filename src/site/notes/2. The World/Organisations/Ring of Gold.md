@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/organisations/ring-of-gold/"}
+{"dg-publish":true,"permalink":"/2. The World/Organisations/Ring of Gold/"}
 ---
 
 

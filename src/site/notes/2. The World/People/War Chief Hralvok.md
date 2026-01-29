@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/people/war-chief-hralvok/"}
+{"dg-publish":true,"permalink":"/2. The World/People/War Chief Hralvok/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/organisations/hexeverel/"}
+{"dg-publish":true,"permalink":"/2. The World/Organisations/Hexeverel/"}
 ---
 
 

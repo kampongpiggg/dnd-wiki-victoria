@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/locations/dashund-s-lea/"}
+{"dg-publish":true,"permalink":"/2. The World/Locations/Dashund's Lea/"}
 ---
 
 
@@ -16,30 +16,29 @@
 > ---|---|
 > Type | Settlement |
 > Size | Large Town |
-> Region | FILL |
+> Region | Alastia |
 > ###### Politics
 >    Info |   Description |
 > ---|---|
-> Govt | Imperial Autocracy (Empire) / FILL |
-> Ruler | The Victorian Emperor (Empire) / FILL |
+> Govt | Feudal Monarchy |
+> Ruler | Lord Timmon, subservient to the King of Alastia |
 > ###### Organizations
 > Info | Description |
 > ---|---|
 > Guilds & Groups | FILL |
-> Temples | FILL |
 > ###### Society
 > Info |  Description |
 > ---|---|
-> Population | FILL |
-> Races | FILL | 
+> Population | 30,000+ |
+> Races | Humans, tieflings, half-orcs, halflings, dwarves, gnomes, half-elves | 
 > ###### Commerce
 > Info |  Type |
 > ---|---|
-> Exports | FILL |
-> Imports | FILL |
+> Exports | Grain, clothing, livestock, wine, candle, silk, ceramics |
+> Imports | Grain, clothing, livestock, wine, candle, silk, ceramics |
 
 
-This is a placeholder.
+**Dashund's Lea** is a major trading town on [[2. The World/Locations/The Kingdom of Alastia\|The Kingdom of Alastia]]'s northern front. A critically strategic city, it served a central hub in which supplies and reinforcements were funneled through to Alastia's northern frontier during [[2. The World/History/The Sundering War\|The Sundering War]]. After the birth of the unified Victorian Empire and the construction of Ulysses Pass, the town has lost its strategic use, but continued to facilitate the trading of luxuries such as wine, candle and silk.
 
 ## Description
 This is a placeholder.

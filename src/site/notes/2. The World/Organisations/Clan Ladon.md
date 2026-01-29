@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/organisations/clan-ladon/"}
+{"dg-publish":true,"permalink":"/2. The World/Organisations/Clan Ladon/"}
 ---
 
 

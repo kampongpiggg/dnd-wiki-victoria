@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/people/velissa-and-vexalia/"}
+{"dg-publish":true,"permalink":"/2. The World/People/Velissa & Vexalia/"}
 ---
 
 

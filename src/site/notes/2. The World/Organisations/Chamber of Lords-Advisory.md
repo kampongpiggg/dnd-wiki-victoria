@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/organisations/chamber-of-lords-advisory/"}
+{"dg-publish":true,"permalink":"/2. The World/Organisations/Chamber of Lords-Advisory/"}
 ---
 
 

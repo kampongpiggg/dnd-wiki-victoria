@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/history/the-sundering-war/"}
+{"dg-publish":true,"permalink":"/2. The World/History/The Sundering War/"}
 ---
 
 > [!abstract]+ Quote 

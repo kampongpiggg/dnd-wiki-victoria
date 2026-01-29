@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-dm-centre/the-victorian-empire/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/0. DM Centre/The Victorian Empire/","tags":["gardenEntry"]}
 ---
 
 

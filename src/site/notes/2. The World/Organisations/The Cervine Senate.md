@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/organisations/the-cervine-senate/"}
+{"dg-publish":true,"permalink":"/2. The World/Organisations/The Cervine Senate/"}
 ---
 
 

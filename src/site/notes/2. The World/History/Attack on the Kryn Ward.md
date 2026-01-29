@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/history/attack-on-the-kryn-ward/"}
+{"dg-publish":true,"permalink":"/2. The World/History/Attack on the Kryn Ward/"}
 ---
 
 > [!abstract]+ Quote 

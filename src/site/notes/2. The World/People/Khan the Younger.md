@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-the-world/people/khan-the-younger/"}
+{"dg-publish":true,"permalink":"/2. The World/People/Khan the Younger/"}
 ---
 
 
