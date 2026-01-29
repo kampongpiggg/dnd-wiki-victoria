@@ -5,7 +5,7 @@
 
 
 > [!abstract]+ Quote 
-> *"INSERT QUOTE HERE"* - **PERSON**
+> *"Don't you see? Ever since we've discovered Ether, we've managed to slip evolution's leash. We can cure almost any disease, keep even the weakest of us alive, see glimpses of the future and alter the very fabric of reality. The only difference between us and the gods is that they can travel across dimensions. But once we do... "* - **The Archmage Vesper Fang**
 
 
 
@@ -16,28 +16,27 @@
 >    Info |    Description |
 > ---|---|
 > Type | Settlement |
-> Size | FILL |
-> Region | FILL |
+> Size | Nation |
+> Region | Ophidia |
 > ###### Politics
 >    Info |   Description |
 > ---|---|
-> Govt | Imperial Autocracy (Empire) / FILL |
-> Ruler | The Victorian Emperor (Empire) / FILL |
+> Govt | Imperial Autocracy (Empire) · Magocracy (Nation) |
+> Ruler | The Victorian Emperor (Empire) · Ring of Gold (Nation) |
 > ###### Organizations
 > Info | Description |
 > ---|---|
-> Guilds & Groups | FILL |
-> Temples | FILL |
+> Guilds & Groups | Ring of Gold · Ring of Silver · Ring of Brass  |
 > ###### Society
 > Info |  Description |
 > ---|---|
-> Population | FILL |
-> Races | FILL | 
+> Population | 2,000,000 (Nation) · 300,000 (City)  |
+> Races | Tieflings, humans, half-orcs, halflings, bugbears, hobgoblins, goblins | 
 > ###### Commerce
 > Info |  Type |
 > ---|---|
-> Exports | FILL |
-> Imports | FILL |
+> Exports | Enhanced items & artifacts ranging from weapons and armor to jewelry and utility items  |
+> Imports | Grains, livestock, jewels, honey, sweet oil, ivory, incense, ore |
 
 
 This is a placeholder.

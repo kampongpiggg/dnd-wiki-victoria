@@ -19,8 +19,8 @@
 > ###### Politics
 >    Info |   Description |
 > ---|---|
-> Govt | Imperial Autocracy (Empire) / Democratic Republic (City) |
-> Ruler | The Victorian Emperor (Empire) / Chamber of Lords-Advisory (City) |
+> Govt | Imperial Autocracy (Empire) · Democratic Republic (City) |
+> Ruler | The Victorian Emperor (Empire) · Chamber of Lords-Advisory (City) |
 > ###### Organizations
 > Info | Description |
 > ---|---|

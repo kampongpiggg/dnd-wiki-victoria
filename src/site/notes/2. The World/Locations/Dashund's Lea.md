@@ -21,7 +21,7 @@
 >    Info |   Description |
 > ---|---|
 > Govt | Crown appointed feudal lord |
-> Ruler | Lord Timmon, subservient to the King of Alastia |
+> Ruler | Lord Timmon |
 > ###### Organizations
 > Info | Description |
 > ---|---|
