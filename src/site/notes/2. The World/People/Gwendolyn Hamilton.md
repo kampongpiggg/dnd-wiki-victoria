@@ -24,6 +24,6 @@
 > Class | Wizard |
 
 
-Queen Gwendolyn Hamilton was the queen consort of [[The Kingdom of Alastia \| Alastia]] and the wife of the late [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]], who was assassinated by elven assassins at the behest of [[Julian Yaeldrin \| Senator Julian Yaeldrin]] and [[Ovina Torunn \| Chancellor Ovina Torunn]]. 
+Queen Gwendolyn Hamilton was the queen consort of [[2. The World/Locations/The Kingdom of Alastia\|The Kingdom of Alastia]] and the wife of the late [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]], who was assassinated by elven assassins at the behest of [[../../z_Attachments/Julian.jpg| Senator Julian Yaeldrin]] and [[2. The World/People/Ovina Torunn\| Chancellor Ovina Torunn]]. 
 
-Despite being next in the line of succession and thus the rightful queen, she was denied the throne by [[Eleanor Hamilton \| the Dowager Queen Eleanor Hamilton]].
+Despite being next in the line of succession and thus the rightful queen, she was denied the throne by [[2. The World/People/Eleanor Hamilton\| the Dowager Queen Eleanor Hamilton]].

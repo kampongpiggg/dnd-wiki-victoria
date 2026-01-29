@@ -23,7 +23,7 @@
 > Alignment | Lawful Evil |
 > Class | Rogue |
 
-Dowager Queen Eleanor Hamilton was the dowager queen of [[../Locations/The Kingdom of Alastia \| Alastia]] and the mother of the late [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]], who was assassinated by elven assassins at the behest of [[2. The World/People/Julian Yaeldrin\| Senator Julian Yaeldrin]] and [[2. The World/People/Ovina Torunn\| Chancellor Ovina Torunn]]. 
+Dowager Queen Eleanor Hamilton was the dowager queen of [[2. The World/Locations/The Kingdom of Alastia\| Alastia]] and the mother of the late [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]], who was assassinated by elven assassins at the behest of [[2. The World/People/Julian Yaeldrin\| Senator Julian Yaeldrin]] and [[2. The World/People/Ovina Torunn\| Chancellor Ovina Torunn]]. 
 
 Despite not being next in the line of succession and thus the rightful queen, she denied the throne to the rightful queen [[2. The World/People/Gwendolyn Hamilton\|Gwendolyn Hamilton]] and seized power. This prompted [[2. The World/History/The Sundering War\|The Sundering War]], a major multi-theater international conflict across the continent.
 
