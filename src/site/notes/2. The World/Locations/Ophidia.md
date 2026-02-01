@@ -61,7 +61,6 @@ Placeholder
 
 ### Placeholder Map
 ![[z_Assets/Misc/MapPlaceholder.png\|Placeholder Map]]
-[[z_Assets/Misc/MapPlaceholder.png\|open outside]]
 
 Placeholder
 

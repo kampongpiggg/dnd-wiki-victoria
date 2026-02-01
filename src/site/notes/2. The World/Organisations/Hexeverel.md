@@ -13,18 +13,15 @@
 > Race | Human |
 > Members | Tychonis · Luxjaro · Einsensturm · Tokugane  · Xicoatl · Antarra |
 
+The **Hexeverel** is a prestigious institution of higher learning, an academy dedicated for the study of science and the arcane arts. They offer boarding school programmes for wizards, artificers, natural philosophers and engineers. It is considered one of the most premier schools in the world.
+
+## Description
+Located at the center of the Madrasa District, Hexeverel buildings are connected with one another by many small, colored, covered skybridges. Their facades are incredibly colorful, made from red sandstone, alabaster, pink quarts and purple amethysts. Almost half of the buildings are wizard towers.
+
+The Hexeverel also has a Great Hall, where many important lectures have been given.
+
 ## History
-
-Initially vassal houses of the Victorians,
-
-## Activities
-
-This is a placeholder.
-
-## Relationships
-
-This is a placeholder.
+Founded by six great wizards, 
 
 ## Notable Members
-
-This is a placeholder.
+Dean Augusta Aguefort
