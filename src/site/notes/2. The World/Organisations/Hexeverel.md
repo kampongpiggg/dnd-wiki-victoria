@@ -10,8 +10,7 @@
 > Type |  Stat |
 > ---|---|
 > Bases of Operation | [[2. The World/Locations/Leonitar\|Leonitar]] |
-> Race | Human |
-> Members | Tychonis · Luxjaro · Einsensturm · Tokugane  · Xicoatl · Antarra |
+> Race | Humans, elves, tieflings, dwarves, halflings, gnomes, half-elves, half-orcs, others  |
 
 The **Hexeverel** is a prestigious institution of higher learning in [[2. The World/Locations/Leonitar\|Leonitar]]. An academy dedicated for the study of science and the arcane arts, they offer boarding school programmes for wizards, artificers, natural philosophers and engineers. It is considered one of the most premier schools in the world.
 
@@ -21,7 +20,12 @@ Located at the center of the Madrasa District, Hexeverel buildings are connected
 The Hexeverel also has a Great Hall, where many important lectures have been given.
 
 ## History
-Founded by six great wizards, 
+Founded by six great wizards, the Hexeverel drove the rapid development of science and the arcane arts. Many breakthroughs happened on campus grounds, most notably the invention of printing and the illusory script and the art of dunamancy.
 
 ## Notable Members
-Dean Augusta Aguefort
+Dean Godric Hercinil
+Dean Salazar Aqrabus
+Dean Rowena Messanteu
+Dean Helga Chimeron
+Dean Arthur Aguefort
+Dean Isaac Newton
