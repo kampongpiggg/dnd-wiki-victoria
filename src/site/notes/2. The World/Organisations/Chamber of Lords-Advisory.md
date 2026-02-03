@@ -25,14 +25,20 @@ With the establishment of the Concord, their skill in diplomacy earned them key 
 ## The Houses
 These are the houses that serve in the Chamber of the Lords-Advisory:
 
-### House Tychonis
+###### House Tychonis
+The first sorcerers, the House of Tychonis is a house of shadow. Existing in a twilight state between life and death, they draw their power from their connection with the dead and undead. Their favored colors are black and gold.
 
-### House Luxjaro
+###### House Luxjaro
+The House of Luxjaro was the oldest and most powerful of the vassal houses. Originally the house in charge of administering the capital city of Alastia, the matriarch volunteered her scions for experimentation after the success of Ymir Tychonis. While it is unknown how they got their powers, it is suspected that their bloodline was mixed with divine ancestry of some kind. They have since established a new religion and serve as priests to proselytize.
 
-### House Eisensturm
+###### House Eisensturm
+Seeking to join the race for power, the House of Eisensturm propositioned the giants. Infused with the power of the storm giants, the House of Eisensturm wield the magic of the storm. They exert control over wind and weather, and are much more martial compared to the other houses in modern times.
 
-### House Tokugane
+###### House Tokugane
+House Tokugane exposed themselves to the realm of Mechanus, the plane of law and order. The energy suffused their bloodline with the cosmic force of order, allowing them to gain power over chaos. 
 
-### House Xicoatl
+###### House Xicoatl
+The last of the houses to get their powers, House Xicoatl gained their power by cannibalizing a dragon; an act of sacrilege that was quietly approved by War Chief Hralvok during the Sundering War. While they no longer need to feast on dragons, it is unknown how the bloodline maintains its magic as it is common for descendants to emerge without sorcerous power. 
 
-### House Antarra
+###### House Antarra
+It is unknown how the House Antarra gained their psionic powers, but most scholars acknowledge a certain alien influence to their bloodline. 
