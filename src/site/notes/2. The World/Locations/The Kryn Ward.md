@@ -3,11 +3,6 @@
 ---
 
 
-> [!abstract]+ Quote 
-> *"INSERT QUOTE HERE"* - **PERSON**
-
-
-
 > [!infobox]
 > # The Kryn Ward
 > ![kryn.jpg](/img/user/z_Attachments/kryn.jpg)

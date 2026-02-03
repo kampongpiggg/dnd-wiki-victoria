@@ -23,9 +23,9 @@ The Hexeverel also has a Great Hall, where many important lectures have been giv
 Founded by six great wizards, the Hexeverel drove the rapid development of science and the arcane arts. Many breakthroughs happened on campus grounds, most notably the invention of printing and the illusory script and the art of dunamancy.
 
 ## Notable Members
-Dean Godric Hercinil
-Dean Salazar Aqrabus
-Dean Rowena Messanteu
-Dean Helga Chimeron
-Dean Arthur Aguefort
-Dean Isaac Newton
+- Dean Godric Hercinil
+- Dean Salazar Aqrabus
+- Dean Rowena Messanteu
+- Dean Helga Chimeron
+- Dean Arthur Aguefort
+- Dean Isaac Newton
