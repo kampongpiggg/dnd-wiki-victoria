@@ -69,7 +69,20 @@ Docking at the port in the Bay of Lions is free - taxation is not levied on the 
 Placeholder
 
 ### Placeholder Map
-![[z_Assets/Misc/MapPlaceholder.png\|Placeholder Map]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Placeholder Map
+
+</div>
+
+
+
+
+</div></div>
+
 [[z_Assets/Misc/MapPlaceholder.png\|open outside]]
 
 Placeholder
