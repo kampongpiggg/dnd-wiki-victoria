@@ -7,7 +7,7 @@
 > # Chamber of Lords-Advisory
 > ![chamber_of_lords_advisory.png](/img/user/z_Attachments/chamber_of_lords_advisory.png)
 > ###### Basic Information
-> Type |  Stat |
+> Info | Description |
 > ---|---|
 > Bases of Operation | [[2. The World/Locations/Leonitar\|Leonitar]] |
 > Race | Human |
