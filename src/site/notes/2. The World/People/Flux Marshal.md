@@ -16,4 +16,4 @@
 
 **The Flux Marshal** is charged with commanding the royal fleet and serves as the Emperor's chief naval advisor. This includes arranging for the building and maintenance of warships, obtaining crews and commanding naval operations.
 
-In addition, given Leonitar's strategic location as a major trading hub, the Flux Marshal acts also as the master of the harbor district, regulating the flow of ships through the [[2. The World/Locations/Lion's Straits\|../Locations/Lion's Straits]].
+In addition, given Leonitar's strategic location as a major trading hub, the Flux Marshal acts also as the master of the harbor district, regulating the flow of ships through the [[2. The World/Locations/Lion's Straits\| Lion's Straits]].
