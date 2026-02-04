@@ -83,9 +83,7 @@ Placeholder
 
 </div></div>
 
-[[z_Assets/Misc/MapPlaceholder.png\|open outside]]
 
-Placeholder
 
 ## Points of Interest
 Placeholder

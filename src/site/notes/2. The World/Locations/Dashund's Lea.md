@@ -38,7 +38,7 @@
 > Imports | Grain, ale, clothing, livestock, wine, candle, silk, ceramics |
 
 
-**Dashund's Lea** is a major trading town on [[2. The World/Locations/The Kingdom of Alastia\|The Kingdom of Alastia]]'s northern front. A critically strategic city, it served a central hub in which supplies and reinforcements were funneled through to Alastia's northern frontier during [[2. The World/History/The Sundering War\|The Sundering War]]. After the birth of the unified Victorian Empire and the construction of Ulysses Pass, the town has lost its strategic use, but continued to facilitate the trading of luxuries such as wine, candle and silk.
+**Dashund's Lea** is a major trading town on [[2. The World/Locations/The Kingdom of Alastia\|The Kingdom of Alastia]]'s northern front. A critically strategic city, it served a central hub in which supplies and reinforcements were funneled through to Alastia's northern frontier during [[2. The World/History/The Sundering War\|The Sundering War]]. After the birth of [[2. The World/Locations/The Victorian Empire\| the unified Victorian Empire]] and the construction of Ulysses Pass, the town has lost its strategic use, but continued to facilitate the trading of luxuries such as wine, candle and silk.
 
 ## Description
 The outer walls of Dashund's Lea were 15 feet high, made of thick basic stonework and masonry. The northern gates had a portcullis held aloft by large chains. Outside the walls were fields where crop workers harvest various vegetables and crops.
