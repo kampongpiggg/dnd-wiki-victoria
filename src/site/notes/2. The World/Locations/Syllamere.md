@@ -64,4 +64,4 @@ The fighting lasted hours; as the sun began its descent, the outcome of the batt
 ## Aftermath
 The battle was the decisive engagement of the six-year long war. Upon the Imperator's defeaat, Pompeia Ganamede called for a ceasefire and surrendered; the Republic Legion was immediately taken as prisoners-of-war. Peace talks began immediately that night, although terms would not be finalized until two weeks later, in [[2. The World/Locations/Leonitar\|Leonitar]].
 
-The peace talks, now known as the Concord, saw the establishment of a new Empire with its capital in Leonitar. The sorcerers of Alastia, who moderated the Concord, were subsequently installed as the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] to administer the new capital city.
+The peace talks, now known as the Concord, saw the establishment of [[2. The World/Locations/The Victorian Empire\| a new Empire]] with its capital in Leonitar. The sorcerers of Alastia, who moderated the Concord, were subsequently installed as the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] to administer the new capital city.
