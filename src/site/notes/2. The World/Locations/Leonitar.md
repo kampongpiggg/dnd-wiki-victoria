@@ -63,7 +63,7 @@ Placeholder
 ## Trade
 A major trading hub due to its location overlooking the Lion's Straits, Leonitar served as an important rest and resupply point for both merchant caravans coming from the mainland seeking to distribute their wares across the oceans and naval ships looking to make port before continuing their journey. This also facilitated the development of industry within the city, as mineral-rich lands in the north would often send raw materials into the city for transformation.
 
-Docking at the port in the Bay of Lions is free - taxation is not levied on the goods passing through the Straits. However, due to the need for regulating the flow of ships, heavy fines and punishment await those who violate the commands of the Flux Marshal.
+Docking at the port in the Bay of Lions is free - taxation is not levied on the goods passing through the Straits. However, due to the need for regulating the flow of ships, heavy fines and punishment await those who violate the commands of the [[2. The World/People/Flux Marshal\|Flux Marshal]].
 
 ## Geography
 Placeholder
