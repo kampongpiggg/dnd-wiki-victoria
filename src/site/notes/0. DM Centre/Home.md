@@ -10,10 +10,13 @@
 Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian Empire, our homebrew D&D campaign setting. Created on 27 Jan 26, it records all of the lore and epic adventures our heroes have gone through. Enjoy the read!
 
 # The Party
-```
 
-```
-
+| Character Name | Titles    | Class (Subclass) | Player    |
+| -------------- | --------- | ---------------- | --------- |
+|                |      |                  | Brian     |
+|                |  |                  | Peng Hong |
+|                |   |                  | Shao Ping |
+|                |   |                  | Xian Hao  | 
 # The World
 
 ![../z_Attachments/The Known World.jpg](/img/user/z_Attachments/The%20Known%20World.jpg)
