@@ -29,7 +29,6 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 # Imperial Map
 ![../z_Attachments/imperial_map.jpg](/img/user/z_Attachments/imperial_map.jpg)
 
-
 # Quick Links
 
 - [[2. The World/History/The Timeline\| Timeline]]
