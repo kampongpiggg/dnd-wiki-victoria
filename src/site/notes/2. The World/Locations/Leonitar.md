@@ -15,7 +15,7 @@
 > ---|---|
 > Type | Settlement |
 > Size | Capital City |
-> Region | Bay of Lions |
+> Region | Alastia |
 > ###### Politics
 >    Info |   Description |
 > ---|---|
@@ -25,7 +25,7 @@
 > Info | Description |
 > ---|---|
 > Guilds & Groups | The Hexeverel |
-> Temples | `=this.religion`  |
+> Temples | Unknown |
 > ###### Society
 > Info |  Description |
 > ---|---|
@@ -87,4 +87,4 @@ There were also a large amount of mercenary companies for hire within the city; 
 The city is walled to the north to prevent a land assault, with arcane ballistae and cannons mounted upon its high brick walls. To its south, the Bay of Lions is defended by the Empire's Navy. Arcane traps, set in the bottom of the bay, can also be activated to repel a naval assault.
 
 ## Notable Inhabitants
-Leonitar has several armed forces to keep the peace throughout the city. The City Watch was the local police force, serving as a constabulary within the city with powers of arrest over its citizens. They were commanded by the Sightwarden, typically appointed by the Chamber. 
+- Empress Victoria Parcival

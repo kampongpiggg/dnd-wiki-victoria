@@ -25,7 +25,7 @@
 > ###### Organizations
 > Info | Description |
 > ---|---|
-> Guilds & Groups | FILL |
+> Guilds & Groups | Unknown |
 > ###### Society
 > Info |  Description |
 > ---|---|
