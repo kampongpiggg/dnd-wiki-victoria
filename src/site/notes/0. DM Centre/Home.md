@@ -27,7 +27,9 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 3.  **Driven by Institutions.** Since the Sundering War, many institutions have risen as instruments of control. Noble families empowered by sorcery dominated and regulate the economy, and by extension, regular life. Factions vie for power in the capital city of [[2. The World/Locations/Leonitar\|Leonitar]] through the art of politicking, each working against another in the shadows to further their own interests. Communities, and their internal prosperity and joy, shape the society's state: will the world become more dangerous by your actions, or will you forge a safer, more prosperous world.
 
 # Imperial Map
-![../z_Attachments/imperial_map.jpg](/img/user/z_Attachments/imperial_map.jpg)
+<img src="https://1drv.ms/i/c/e626d77259d66621/IQAOuvk0-3BITqMoL1cM1Iz5AYwOb9laNQhBGAhHZdmDgPM?e=yQXZvh" alt="Imperial Map" width="1000">
+
+[The Victorian Empire.jpg](https://1drv.ms/i/c/e626d77259d66621/IQAOuvk0-3BITqMoL1cM1Iz5AYwOb9laNQhBGAhHZdmDgPM?e=yQXZvh)
 
 # Quick Links
 
