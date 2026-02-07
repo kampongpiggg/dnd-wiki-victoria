@@ -28,8 +28,7 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 
 # Imperial Map
 
-<iframe src="http://1drv.ms/i/c/e626d77259d66621/IQD4qaODE9j7S42-Cmd2nEVkAXHh2Oixxf_C4QioSbdaAwU?e=EhpLzf" width = "720" height = "1000"></iframe>
-
+![../z_Attachments/imperialmap.jpg](/img/user/z_Attachments/imperialmap.jpg)
 
 # Quick Links
 
