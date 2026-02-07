@@ -21,5 +21,5 @@
 > Alignment | Lawful Good |
 > Class | Wizard |
 
-**Maribel Merewyn** was an Archmage of the Ring of Gold, the political entity in charge of governing [[2. The World/Locations/Ophidia\|Ophidia]]. She was killed in an attack on the Kryn Ward, orchestrated by [[2. The World/People/Ovina Torunn\|Ovina Torunn]]. She was succeeded by [[2. The World/People/Felicity\|Felicity]].
+**Maribel Merewyn** was an Archmage of the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]], the political entity in charge of governing [[2. The World/Locations/Ophidia\|Ophidia]]. She was killed in an attack on the Kryn Ward, orchestrated by [[2. The World/People/Ovina Torunn\|Ovina Torunn]]. She was succeeded by [[2. The World/People/Felicity\|Felicity]].
 
