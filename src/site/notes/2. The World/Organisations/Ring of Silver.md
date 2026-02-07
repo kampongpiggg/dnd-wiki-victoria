@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Ring of Silver
-> ![../../z_Attachments/wizard.png](/img/user/z_Attachments/wizard.png)
+> ![../../z_Attachments/ringofsilver.jpg](/img/user/z_Attachments/ringofsilver.jpg)
 > ###### Basic Information
 > Info | Description |
 > ---|---|
@@ -13,4 +13,4 @@
 > Race | Tieflings, humans, half-elves, half-orcs |
 > Members | Felicity (formerly) · Grace |
 
-The **Ring of Silver** were the eight apprentices of the Archmages of the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]]. They are referred to their title of "High Mage".
+The **Ring of Silver** were the eight apprentices of the Archmages of the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]]. They are referred to their title of "High Mage" and often wear masks.
