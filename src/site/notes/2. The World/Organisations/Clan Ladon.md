@@ -13,7 +13,7 @@
 > Race | Dragonborn |
 > Members | War Chief Hralvok |
 
-**Clan Ladon** was a nomadic clan in the Scorching Sands. Initially a clan of dragonborn, they expanded themselves in response to the formation of [[2. The World/Organisations/The Russett Pride\|The Russett Pride]] during [[2. The World/History/The Sundering War\| the Sundering War]] and absorbed other smaller clans in the Scorcing Sands. They are the current ruling power in [[2. The World/Locations/The Verdant Reach\| the Reach]]
+**Clan Ladon** was a nomadic clan in the Scorching Sands. Initially a clan of dragonborn, they expanded themselves in response to the formation of [[2. The World/Organisations/The Russett Pride\|The Russett Pride]] during [[2. The World/History/The Sundering War\| the Sundering War]] and absorbed other smaller clans in the Scorcing Sands. They are the current ruling power in [[2. The World/Locations/The Verdant Reach\| the Reach]].
 
 ## History
 After the successful experimentation of the Alastian vassal houses, the Imperator sought to even the battlefield by sending out diplomatic envoys to recruit various tribes in the Verdant Reach into the war effort. Initially reluctant to join the war, the Clan rejected the offer.
