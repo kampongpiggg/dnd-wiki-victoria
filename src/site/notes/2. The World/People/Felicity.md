@@ -21,7 +21,7 @@
 > Alignment | Neutral Good |
 > Class | Wizard |
 
-Formerly a protege and apprentice of [[2. The World/People/Maribel Merewyn\|Maribel Merewyn]], an Archmage of the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]], High Mage **Felicity** was a bright and young woman serving in the [[2. The World/Organisations/Ring of Silver\| Ring of Silver]]. When [[2. The World/People/Ovina Torunn\| Chancellor Ovina Torunn]] directed [[2. The World/People/Velissa & Vexalia\| Syndicacy agents]] to [[2. The World/History/Attack on the Kryn Ward\| attack the Kryn Ward]] and thus pull [[2. The World/Locations/Ophidia\|Ophidia]] into [[2. The World/History/The Sundering War\|The Sundering War]], she inadvertently kills Maribel Merewyn.
+Formerly a protege and apprentice of [[2. The World/People/Maribel Merewyn\|Maribel Merewyn]], an Archmage of the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]], High Mage **Felicity** was a bright and young woman serving in the [[2. The World/Organisations/Ring of Silver\| Ring of Silver]]. When [[2. The World/People/Ovina Torunn\| Chancellor Ovina Torunn]] directed [[2. The World/People/Vaxildan & Vexalia\| Syndicacy agents]] to [[2. The World/History/Attack on the Kryn Ward\| attack the Kryn Ward]] and thus pull [[2. The World/Locations/Ophidia\|Ophidia]] into [[2. The World/History/The Sundering War\|The Sundering War]], she inadvertently kills Maribel Merewyn.
 
 Driven by vengeance, she succeeds Maribel as an Archmage. In 754 AY, she succeeds in her quest, leading Force Grey in [[2. The World/History/Operation Chisel\| an assault that kills Chancellor Ovina Torunn]].
 
