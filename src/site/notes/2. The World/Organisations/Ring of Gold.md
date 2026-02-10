@@ -16,7 +16,7 @@
 The **Ring of Gold**, also known as the Archmages of the Octarion, were the eight archmages and current governing power of the nation of [[2. The World/Locations/Ophidia\|Ophidia]]. 
 
 ## History
-During the outbreak of the [[2. The World/History/The Sundering War\|The Sundering War]], the Ring of Gold condoned both the coup instituted by the Dowager Queen and the invasion by the Republic, but ultimately decided to maintain neutrality.
+During the outbreak of the [[2. The World/History/The Sundering War\|The Sundering War]], the Ring of Gold condemned both the coup instituted by the Dowager Queen and the invasion by the Republic, but ultimately decided to maintain neutrality.
 
 After the [[2. The World/History/Attack on the Kryn Ward\|Attack on the Kryn Ward]] which saw the death of the Archmage Maribel, the Ring of Gold promoted her protege and mentee [[2. The World/People/Felicity\|High Mage Felicity]] into her position. Even though they were attacked directly by [[2. The World/Locations/The Rarquet Assembly\| the Assembly]], many still voiced concern about joining the war. Assuming her mentor's station, the Archmage Felicity casted the tiebreaking vote for Ophidia's entry into the war.
 
