@@ -11,12 +11,13 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 
 # The Party
 
-| Character Name | Titles    | Class (Subclass) | Player    |
-| -------------- | --------- | ---------------- | --------- |
-|                |      |                  | Brian     |
-|                |  |                  | Peng Hong |
-|                |   |                  | Shao Ping |
-|                |   |                  | Xian Hao  | 
+| Character Name | Species | Class (Subclass) | Player    |
+| -------------- | ------- | ---------------- | --------- |
+| Unknown        | Unknown | Unknown          | Alexia    |
+| Unknown        | Unknown | Unknown          | Brian     |
+| Unknown        | Unknown | Unknown          | Peng Hong |
+| Unknown        | Unknown | Unknown          | Shao Ping |
+| Unknown        | Unknown | Unknown          | Xian Hao  |
 # The World
 
 ![../z_Attachments/The Known World.jpg](/img/user/z_Attachments/The%20Known%20World.jpg)
