@@ -13,18 +13,25 @@
 > Race | Human |
 > Members | Darius Khorvaire (formerly) · Ovina Torunn (formerly) · Eitri Lancaster |
 
+**The High Syndicacy** were the eight guild leaders who govern [[2. The World/Locations/The Rarquet Assembly\|The Rarquet Assembly]]. They hold court in the High Hall of the Citadel.
+
 ## History
 
 Initially vassal houses of the Victorians,
 
-## Activities
+## The Guilds
+Eight guilds make up the High Syndicacy. While they operate as a council, power is not evenly distributed. Instead, matters of deliberation are voted on by the guild leaders, who are responsible for the manufacturing and production of a type of magical item. Votes are commensurate with income; a guild leader gains more votes if their guilds generates greater income. 
 
-This is a placeholder.
+To facilitate innovation and efficiency, guilds are forced to compete with another in sales.
 
-## Relationships
+###### Experts in Arms
+Specializing in using magic to hurl energy, projectiles, and explosions on the battlefield, artificers in the Bronze Bombardiers and Brass Ballistics create weapons of destruction. Eldritch cannons, flamethrowers, force ballista are some of the products on sale.
 
-This is a placeholder.
+###### Expert in Automatons 
+Artificers in Pewter Patrol and the Tin Titans are smiths adept at repairing both material and personnel in battle. In recent years, they pivoted to the development of automatons, who serve as both offensive and protective companions.
 
-## Notable Members
+###### Experts in Armor 
+Specialists in enhancing armour, artificers in the Iron Bulwark and Steel Foundry creates magical armor that hones the wearer, unleash potent attacks and generate a formidable defense.
 
-This is a placeholder.
+##### Experts in Alchemy 
+Experts in combing reagents for mystical effects, artificers in Copper Cauldrons and Electrum Extractors offer capabilities to mass produce potions and elixirs.

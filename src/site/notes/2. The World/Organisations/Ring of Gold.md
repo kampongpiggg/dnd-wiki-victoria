@@ -13,7 +13,7 @@
 > Race | Human, Tieflings, Half-orcs, Halflings, Half-elves |
 > Members | Archmage Maribel Merewyn (Deceased) · Archmage Felicity (Deceased) · Archmage Grace |
 
-The **Ring of Gold**, also known as the Archmages of the Octarion, were the eight archmages and current governing power of the nation of [[2. The World/Locations/Ophidia\|Ophidia]]. 
+The **Ring of Gold**, also known as the Archmages of the Octarion, were the eight archmages and current governing power of the nation of [[2. The World/Locations/Ophidia\|Ophidia]]. Each Archmage was an unparalleled master in a school of wizardry.
 
 ## History
 During the outbreak of the [[2. The World/History/The Sundering War\|The Sundering War]], the Ring of Gold condemned both the coup instituted by the Dowager Queen and the invasion by the Republic, but ultimately decided to maintain neutrality.
