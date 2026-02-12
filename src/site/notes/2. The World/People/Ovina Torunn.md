@@ -3,8 +3,6 @@
 ---
 
 
-
-
 > [!infobox]
 > # Ovina Torunn
 > ![ovina.jpg](/img/user/z_Attachments/ovina.jpg)
@@ -22,6 +20,8 @@
 > ---|---|
 > Alignment | Lawful Evil |
 > Class | Artificer |
+
+**Chancellor Ovina Torunn** was a Chancellor
 
 ## Profile
 
