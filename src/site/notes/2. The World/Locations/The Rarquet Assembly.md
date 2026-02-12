@@ -83,6 +83,10 @@ Like most cities, public transportation was available throughout the city, altho
 ## Defenses
 The nation is primarily defended by the Sentries of Rarquet, a hybrid army of warforged automatons commanded by elvish wizards. Each city also has their own City Watch.
 
+![../../z_Attachments/warforged.png](/img/user/z_Attachments/warforged.png)
+
+In general, the warforged in the Sentries of Rarquet belong to three categories, depending on their functions: they could serve as diplomatic envoys, powerful juggernauts, or stealthy skirmishers. A group of six generally report to a elvish wizard, who would command these troops.
+
 From Dunhammer to Smith's Reef, each settlement is heavily walled. Signal braziers are also deployed all across the city of Dunhammer, ready to burn blue to warn of an attack.
 
 ## Points of Interest
