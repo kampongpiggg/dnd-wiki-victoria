@@ -7,7 +7,7 @@
 > # Hexeverel
 > ![hexeverel.jpg](/img/user/z_Attachments/hexeverel.jpg)
 > ###### Basic Information
-> Type |  Stat |
+> Info | Description |
 > ---|---|
 > Bases of Operation | [[2. The World/Locations/Leonitar\|Leonitar]] |
 > Race | Humans, elves, tieflings, dwarves, halflings, gnomes, half-elves, half-orcs, others  |

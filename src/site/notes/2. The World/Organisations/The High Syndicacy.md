@@ -7,7 +7,7 @@
 > # The High Syndicacy
 > ![high_syndicacy.jpg](/img/user/z_Attachments/high_syndicacy.jpg)
 > ###### Basic Information
-> Type |  Stat |
+> Info | Description |
 > ---|---|
 > Bases of Operation | Dunhammer |
 > Race | Human |

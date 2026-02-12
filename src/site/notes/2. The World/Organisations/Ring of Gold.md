@@ -7,7 +7,7 @@
 > # Ring of Gold
 > ![../../z_Attachments/wizard.png](/img/user/z_Attachments/wizard.png)
 > ###### Basic Information
-> Type |  Stat |
+> Info | Description |
 > ---|---|
 > Bases of Operation | Ophidia |
 > Race | Human, Tieflings, Half-orcs, Halflings, Half-elves |
