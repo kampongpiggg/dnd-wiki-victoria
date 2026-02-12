@@ -48,7 +48,7 @@ In response, the Imperator sent out diplomats into [[2. The World/Locations/The 
 ## Breaking the Stalemate
 By 752 AY, a brutal stalemate was reached, with massive losses on both sides. As possible talks of peace surfaced, Chancellor Ovina [[2. The World/History/Attack on the Kryn Ward\| sent agents into the Kryn Ward, bombing it with a powerful arcane device]]. This led to the death of the human archmage [[2. The World/People/Maribel Merewyn\| Maribel Merewyn]], an Archmage of the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]]. This forced [[2. The World/Locations/Ophidia\|Ophidia]] to enter the war, aligning with Alastia and seeking vengeance against Rarquet. 
 
-The entry of Ophidia turns the tide of the war, resulting in the destruction of key forges and smiths supporting the war effort. Most importantly, in 754 AY, [[2. The World/History/Operation Chisel\| an assault on the Assembly capital]] led by the [[2. The World/People/Felicity\| Archmage Felicity]], Maribel's former protege, the elite strike team known as [[2. The World/Organisations/Force Grey\|Force Grey]] kills Chancellor Ovina.
+The entry of Ophidia turns the tide of the war; the combined coalition force liberated Republic-occupied cities. Most importantly, in 754 AY, [[2. The World/History/Operation Chisel\| an assault on the Assembly capital]] led by the [[2. The World/People/Felicity\| Archmage Felicity]], Maribel's former protege, the elite strike team known as [[2. The World/Organisations/Force Grey\|Force Grey]] kills Chancellor Ovina.
 
 ##  The Fall of the Dowager Queen
 ![war_five_queens.jpg](/img/user/z_Attachments/war_five_queens.jpg)
