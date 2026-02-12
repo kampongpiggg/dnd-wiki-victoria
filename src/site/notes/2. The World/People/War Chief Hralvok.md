@@ -18,7 +18,7 @@
 > Age | 65 |
 > Condition | Healthy |
 > ###### Rules Info
-> Type |  Stat |
+> Info | Description |
 > ---|---|
 > Alignment | True Neutral |
 > Class | Barbarian |
