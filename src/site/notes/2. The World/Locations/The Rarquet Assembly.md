@@ -81,22 +81,15 @@ Like most cities, public transportation was available throughout the city, altho
 - Carriages were luxury vehicles that could accommodate up to 8 passengers comfortably; prices varied, but usually these vehicles were hired for the whole day. Depending on the luxury level of the carriage, these vehicles could fetch anywhere from 10 to 100 gold.
 
 ## Defenses
-This is a placeholder.
+The nation is primarily defended by the Sentries of Rarquet, a hybrid army of warforged automatons commanded by elvish wizards. Each city also has their own City Watch.
+
+From Dunhammer to Smith's Reef, each settlement is heavily walled. Signal braziers are also deployed all across the city of Dunhammer, ready to burn blue to warn of an attack.
 
 ## Points of Interest
-Placeholder
+- High Hall 
+- Citadel
 
 ## Notable Inhabitants
-Placeholder
-
-
-
-`=this.region`
-
-
-`=link(this.region)`
-
-`=this.region`
-
-
-`=link(this.region)`
+- Chancellor Darius Khorvaire
+- Chancellor Ovina Torunn 
+- Chancellor Eitri Lancaster
