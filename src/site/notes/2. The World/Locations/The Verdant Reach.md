@@ -19,7 +19,7 @@
 > ###### Politics
 >    Info |   Description |
 > ---|---|
-> Govt | Imperial Autocracy (Empire) · Chiefdom |
+> Govt | Imperial Autocracy (Empire) · Chiefdom (Nation) |
 > Ruler | The Victorian Emperor (Empire) · War Chief Hralvok (Nation) |
 > ###### Organizations
 > Info | Description |
