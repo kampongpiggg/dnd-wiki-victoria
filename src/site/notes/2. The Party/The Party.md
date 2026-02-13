@@ -5,12 +5,17 @@
 
 
 ### Alexia
-![../z_Attachments/Canvas - Template.png](/img/user/z_Attachments/Canvas%20-%20Template.png)
+![](https://1drv.ms/i/c/e626d77259d66621/IQTdunXohD9_QbzUYdeBwXtoAdqEiAXNGFdRlvKQPU_I8yY?width=2676&height=3205)
+
 ### Brian
-![../z_Attachments/Canvas - Template.png](/img/user/z_Attachments/Canvas%20-%20Template.png)
+![](https://1drv.ms/i/c/e626d77259d66621/IQTdunXohD9_QbzUYdeBwXtoAdqEiAXNGFdRlvKQPU_I8yY?width=2676&height=3205)
+
 ### Peng Hong
-![../z_Attachments/Canvas - Template.png](/img/user/z_Attachments/Canvas%20-%20Template.png)
+![](https://1drv.ms/i/c/e626d77259d66621/IQTdunXohD9_QbzUYdeBwXtoAdqEiAXNGFdRlvKQPU_I8yY?width=2676&height=3205)
+
 ### Shao Ping
-![../z_Attachments/Canvas - Template.png](/img/user/z_Attachments/Canvas%20-%20Template.png)
+![](https://1drv.ms/i/c/e626d77259d66621/IQTdunXohD9_QbzUYdeBwXtoAdqEiAXNGFdRlvKQPU_I8yY?width=2676&height=3205)
+
 ### Xian Hao
-![../z_Attachments/Canvas - Template.png](/img/user/z_Attachments/Canvas%20-%20Template.png)
+![](https://1drv.ms/i/c/e626d77259d66621/IQTdunXohD9_QbzUYdeBwXtoAdqEiAXNGFdRlvKQPU_I8yY?width=2676&height=3205)
+
