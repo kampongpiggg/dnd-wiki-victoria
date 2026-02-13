@@ -52,7 +52,7 @@ The town is governed primarily by House Timmon, a minor noble house appointed by
 Trade - primarily driven by the Rarquet Assembly and the local Alastians - has led to the proliferation of dwarven culture throughout the town. Aside from forges and smiths, a large amount of taverns exist within the town, dedicated mostly to the dwarven appetite: a third of the crops grown in Dashund's Lea are potatoes, carrots and turnips, and it is estimated that almost a quarter of the town's imports is dwarven ale.
 
 ## History
-In 750 AY, in a bid to break the stalemate of the Sundering War, [[2. The World/People/Julian Yaeldrin\| Imperator Julian Yaeldrin]] took a contingent of 300 men to lay siege to the city, intending to sack it and deny further supplies and reinforcements to the Alastian northern front. This led to [[../History/The Siege of Dashund's Lea \| Siege of Dashund's Lea]], a two-day military engagement that resulted in the fall of the town.
+In 750 AY, in a bid to break the stalemate of the Sundering War, [[2. The World/People/Julian Yaeldrin\| Imperator Julian Yaeldrin]] took a contingent of 300 men to lay siege to the city, intending to sack it and deny further supplies and reinforcements to the Alastian northern front. This led to [[2. The World/History/The Siege of Dashund's Lea\| Siege of Dashund's Lea]], a two-day military engagement that resulted in the fall of the town.
 
 The fall of Dashund's Lea marked a critical point in the Sundering War as the Republic not only broke the year-long stalemate, but cemented an advantage that would put them ahead for much of the war.
 
