@@ -17,7 +17,7 @@
 >    Info |    Description |
 > ---|---|
 > Type | Nation |
-> Size | 2.500,000 |
+> Size | 2,500,000 |
 > Races | Dwarves, Elves, Gnomes, Halflings, Humans, Half-elves, Half-orcs |
 > ###### Politics
 >    Info |   Description |
