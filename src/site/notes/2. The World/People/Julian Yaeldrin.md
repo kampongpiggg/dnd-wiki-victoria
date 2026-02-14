@@ -35,10 +35,13 @@ In the Legion, the pair battled giantkind in the Savage Peaks. During this time,
 
 It is unknown when he met [[2. The World/People/Khan the Younger\|Khan the Younger]], but most historians believe that Julian began his rise to power first assigned as a man-at-arms in service of [[2. The World/People/Pompeia Ganamede\|Pompeia Ganamede]]. Some believed that [[2. The World/People/Pompeia Ganamede\|Pompeia Ganamede]] and him became lovers, but none could deny their effectiveness. Together, the trio not only struck up a close friendship, but began to exert substantial influence in Nike, eventually becoming Senators.
 
-
-
 ## The Sundering War 
 ### Crisis in Alastia 
+Sometime before 749 AY, Julian Yaeldrin met [[2. The World/People/Ovina Torunn\|Ovina Torunn]]. Together, they hatched a plot to incite a war between [[2. The World/Locations/The Kingdom of Alastia\|The Kingdom of Alastia]] and [[2. The World/Locations/The Cer'Dorei Republic\|The Cer'Dorei Republic]]. Julian sought to use this opportunity to engineer a national emergency and be installed as Imperator, subsequently proving his efficacy through conquest. On the other hand, Ovina Torunn sought to increase the sale of automatons under her guild the Tin Titans, thereby increasing her number of votes in the High Syndicacy. 
+
+The pair instructed the elven assassins [[2. The World/People/Vaxildan & Vexalia\|Vaxildan & Vexalia]] to assassinate [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]], the King of Alastia. The assassins succeeded; by the laws of succession, the throne was to pass to his wife, the half-elf [[2. The World/People/Gwendolyn Hamilton\|Gwendolyn Hamilton]]. As Julian had predicted, the [[2. The World/People/Eleanor Hamilton\| Dowager Queen Eleanor Hamilton]] used this opportunity to seize the throne, citing her daughter-in-law's elven heritage as an excuse that she was unfit to rule, seeing that the assassins were elven. 
+
+The violation of the laws of succession, particularly that of a half-elf, was condemned by both [[2. The World/Locations/Ophidia\|Ophidia]] and the Republic. In addition, Julian, Pompeia and Khan the Younger began advocating for a national emergency and foreign intervention. They succeeded, and Julian is installed as the Imperator.
 
 ### The Siege of Dashund's Lea 
 
