@@ -70,4 +70,4 @@ The two parties attempted to broker a peace. Julian offered peace, but demanded 
 Combat started at midday, lasting for hours. As the sun began its descent, the outcome of the battle became abundantly clear. Refusing to heed the advice of Pompeia, Julian continued battling the General in single combat. She eventually, with a swift strike, decapitated the Imperator.
 
 ## Legacy
-His death saw the abolishment of his office. The Senate was subsequently rebuilt, led by Khan the Younger. 
+Historians estimate that the war he had incited saw the deaths of more than a third of the continent. After his death, the office of the Imperator was abolished. The Senate was subsequently rebuilt, led by Khan the Younger. 
