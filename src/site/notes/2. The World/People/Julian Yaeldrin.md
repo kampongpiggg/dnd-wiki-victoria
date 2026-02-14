@@ -53,6 +53,11 @@ The siege was short and brutal. For two days wave after wave of bolts rained dow
 
 The fall of Dashund's Lea marked a critical point in the Sundering War with Cer'Dorei breaking the year-long stalemate and cementing an advantage that would put them ahead for much of the war.
 
+### Diplomacy in the Reach
+The loss of Dashund's Lea dealt a significant blow to Alastia. In response, the Dowager Queen Eleanor Hamilton forced her vassal houses to experiment with various cosmic forces. While many died, these houses eventually gained powerful sorcerous abilities. These sorcerers began unleashing their power in the battlefield, wrecking havoc and causing significant casualties in the Legion.
+
+In a bid to bolster their numbers, the Imperator sent out several envoys, led by [[2. The World/People/Pompeia Ganamede\|Pompeia Ganamede]] to treat with the warlords of [[2. The World/Locations/The Verdant Reach\| the Verdant Reach]]. While many rejected the offer, three clans - the leonin, centaur and aarakocra - agreed to join the effort on the promise that the Republic would help them take control of the Reach after the war. These clans united to become [[2. The World/Organisations/The Russett Pride\|The Russett Pride]], and began raiding Alastia.
+
 ### Massacre in the Senate
 
 ### Death and Defeat
