@@ -3,7 +3,7 @@
 ---
 
 > [!timeline|t-1] **The Arrival** _Year 0_
-> Fleeing the destruction of their home planet *Argo*, the beings that would become the gods crash-lands on the planet of Parvaterra. They find the planet inhabited by monstrous creatures, which hunted the Argonites for food.
+> Fleeing the destruction of their home planet *Argo*, the beings that would become the gods crash-lands on the planet of Parvaterra. They find the planet inhabited by monstrous creatures and giants, which hunted the Argonites for food.
 
 > [!timeline|t-r t-2] **Birth of Champions** *12 ADY*
 > As the attempt to civilize Parvaterra continued, the Argonites suffer heavily losses; out of the 100 that arrived, only 30 remained. Their leader, Pellux, decides to create champions and guardians, so as to improve their capabilities against the monsters of Parvaterra. Using their generational ship's power module, some of the ancient astronauts shaped life out of mud and water, giving rise to the first of the creator races. The Argonites, now gods, not only guided life with technological advancement like irrigation, animal husbandry, writing, mining, masonry, pottery and archery, but also empowered them, granting their divine power.

@@ -29,6 +29,6 @@ During the war, Pompeia served as the Imperator's right hand woman. She was ofte
 
 After the massacre at the Senate, she rode south with the Imperator, mustering with the forces at [[2. The World/Locations/Syllamere\|Syllamere]]. She was present at the parlay before the battle, which unfortunately could not achieve terms. 
 
-During the battle, she led a phalanx of Legion, which was broken by Alastian cavalry. As the outcome of the battle became clear, it was reported she ran to the Imperator's side, urging him to retreat. This advice fell on deaf ears as the Imperator charged [[2. The World/People/Victoria Parcival\| General Victoria Parcival]], engaging in the duel that will end his life.
+During the battle, she led a phalanx of Legion, which was broken by Alastian cavalry. As the outcome of the battle became clear, it was reported she ran to the Imperator's side, urging him to retreat. This advice fell on deaf ears as the Imperator charged [[2. The World/People/Victoria Parcival\| General Victoria Parcival]], engaging in the duel that ended his life.
 
-Her whereabouts is currently unknown.
+Her whereabouts are currently unknown.
