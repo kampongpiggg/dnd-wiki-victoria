@@ -51,6 +51,8 @@ The behind cannons and automatons, favoring the small contingent armed with forc
 
 The siege was short and brutal. For two days wave after wave of bolts rained down upon the city walls. Any attempt to send word out for aid was stopped: carrier pigeons were shot out of the sky, messengers were caught and slaughtered publicly before the walls. After two days, the city walls gave way. Soldiers reported that the Imperated, with a deafening roar, charged into the city, sacking it violently. Almost all of the defenders of the City were executed. By the time the Alastians knew Dashund's Lea had fallen, the majority of the Republic military had already caught up, fortifying themselves within the city.
 
+The fall of Dashund's Lea marked a critical point in the Sundering War with Cer'Dorei breaking the year-long stalemate and cementing an advantage that would put them ahead for much of the war.
+
 ### Massacre in the Senate
 
 ### Death and Defeat
