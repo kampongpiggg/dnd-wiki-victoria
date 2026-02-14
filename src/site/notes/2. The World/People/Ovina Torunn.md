@@ -21,7 +21,7 @@
 > Alignment | Lawful Evil |
 > Class | Artificer |
 
-**Chancellor Ovina Torunn** was a Chancellor of [[2. The World/Organisations/The High Syndicacy\| the High Syndicacy]] of [[2. The World/Locations/The Rarquet Assembly\| the Rarquet Assembly]]. Popularly known as the Tin Vulture, she was a skilled manipulator and orchestrated a huge conflict via assassinations and rumours, effectively beginning the [[2. The World/History/The Sundering War\|The Sundering War]].
+**Chancellor Ovina Torunn** was a Chancellor of [[2. The World/Organisations/The High Syndicacy\| the High Syndicacy]] of [[2. The World/Locations/The Rarquet Assembly\| the Rarquet Assembly]]. Popularly known as the Tin Vulture, she was a skilled manipulator and orchestrated the Alastian succession crisis via assassinations and rumours, effectively beginning the [[2. The World/History/The Sundering War\|The Sundering War]].
 
 ## Early Life and Rise to Power
 As a young dwarf, Ovina Torunn was a bright and intelligent girl brought up in The Smith's Reef. Her talent with steelworking and forging earned her a Citadel scholarship, which saw her move to Dunhammer for an artificer apprenticeship. In Dunhammer, she was trained by Darius Khorvaire, the guild leader of the Tin Titans.
