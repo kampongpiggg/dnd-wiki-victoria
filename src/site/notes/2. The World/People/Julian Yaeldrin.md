@@ -60,8 +60,14 @@ In a bid to bolster their numbers, the Imperator sent out several envoys, led by
 ### Massacre in the Senate
 By 755 AY, Cer'Dorei was losing. Ophidia had entered the war and liberated the occupied Alastian territories; the Rarquet Assembly had surrendered following the death of the Chancellor Ovina Torunn.  Notably, the Senate began calling for the removal of Julian to sue for peace.
 
-Furious, the Imperator gathered his loyalists and assaulted the Senate during the Vote of No Confidence. The resultant massacre saw the deaths of all Senators, with only Pompeia Ganamede and Khan the Younger surviving. He then mustered his forces at [[2. The World/Locations/Syllamere\|Syllamere]], planning to meet the oncoming coalition army headon.
+Furious, the Imperator gathered his loyalists and assaulted the Senate during the Vote of No Confidence. The resultant massacre saw the deaths of all Senators, with only Pompeia Ganamede and Khan the Younger surviving. He then mustered his forces at [[2. The World/Locations/Syllamere\|Syllamere]], planning to meet the oncoming coalition army head-on.
 
 ### Death and Defeat
+Upon his arrival at Syllamere, he sent a missive intended for the Dowager Queen to parlay. Unknown to him, the Dowager Queen had already been murdered; the missive was instead received by General [[2. The World/People/Victoria Parcival\|Victoria Parcival]].
+
+The two parties attempted to broker a peace. Julian offered peace, but demanded the continued sovereignty of the Cer'Dorei Republic. Refusing to accept the Imperator getting away with inciting the war, the General refused terms.
+
+Combat started at midday, lasting for hours. As the sun began its descent, the outcome of the battle became abundantly clear. Refusing to heed the advice of Pompeia, Julian continued battling the General in single combat. She eventually, with a swift strike, decapitated the Imperator.
 
 ## Legacy
+His death saw the abolishment of his office. The Senate was subsequently rebuilt, led by Khan the Younger. 
