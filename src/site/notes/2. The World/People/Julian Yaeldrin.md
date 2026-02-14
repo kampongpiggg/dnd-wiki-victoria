@@ -33,7 +33,9 @@ Their enlistment gave the siblings a chance for food and survival; in tears, Jul
 
 In the Legion, the pair battled giantkind in the Savage Peaks. During this time, Julian  and Azula Yaeldrin began to earn marks of prestige, rising up the ranks. While both siblings were extremely proficient at felling giants, Azula was unfortunately caught in an avalanche during a ranging expedition. 
 
-It is unknown when he met [[2. The World/People/Khan the Younger\|Khan the Younger]], but most historians believe that Julian began his rise to power first assigned as a man-at-arms in service of [[2. The World/People/Pompeia Ganamede\|Pompeia Ganamede]]. Together, the trio not only struck up a close friendship, but began to exert substantial influence in Nike. Many believed that [[2. The World/People/Pompeia Ganamede\|Pompeia Ganamede]] and him were lovers.
+It is unknown when he met [[2. The World/People/Khan the Younger\|Khan the Younger]], but most historians believe that Julian began his rise to power first assigned as a man-at-arms in service of [[2. The World/People/Pompeia Ganamede\|Pompeia Ganamede]]. Some believed that [[2. The World/People/Pompeia Ganamede\|Pompeia Ganamede]] and him became lovers, but none could deny their effectiveness. Together, the trio not only struck up a close friendship, but began to exert substantial influence in Nike, eventually becoming Senators.
+
+
 
 ## The Sundering War 
 ### Crisis in Alastia 
