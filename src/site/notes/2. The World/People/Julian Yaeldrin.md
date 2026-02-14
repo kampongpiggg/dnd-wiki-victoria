@@ -44,6 +44,9 @@ The pair instructed the elven assassins [[2. The World/People/Vaxildan & Vexalia
 The violation of the laws of succession, particularly that of a half-elf, was condemned by both [[2. The World/Locations/Ophidia\|Ophidia]] and the Republic. In addition, Julian, Pompeia and Khan the Younger began advocating for a national emergency and foreign intervention. They succeeded, and Julian is installed as the Imperator.
 
 ### The Siege of Dashund's Lea 
+Leading the Legion in a brutal and rapid advance, the war effort went particularly well initially. However, because of the concurrent sale of arms, armour, and more importantly automatons by the Rarquet Assembly to Alastia, the advance into Alastia stalled. This stalemate went on for months with heavy attrition on both sides. Pressure began to mount in the Senate, as more people began to fear a counter-attack.
+
+To circumvent this, Julian decided to lead a small force of 300 men to lay [[2. The World/History/The Siege of Dashund's Lea\| lay siege to Dashund's Lea]]. The [[2. The World/Locations/Dashund's Lea\| town]] was a critical chokepoint where supplies flowed from the Alastian heartland to the frontlines. It was believed that the capture of this city would starve out Coatlan and Ryoko. As this decisive act demanded that the troops bypass multiple, larger cities along the way, the Imperator decided to close in with a small force for speed and stealth. He reportedly left behind cannons and automatons, favoring the small contingent armed with force ballistae. 
 
 ### Massacre in the Senate
 
