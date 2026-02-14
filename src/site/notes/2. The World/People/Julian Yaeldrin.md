@@ -46,8 +46,7 @@ The violation of the laws of succession, particularly that of a half-elf, was co
 ### The Siege of Dashund's Lea 
 Leading the Legion in a brutal and rapid advance, the war effort went particularly well initially. However, because of the concurrent sale of arms, armour, and more importantly automatons by the Rarquet Assembly to Alastia, the advance into Alastia stalled. This stalemate went on for months with heavy attrition on both sides. Pressure began to mount in the Senate, as more people began to fear a counter-attack.
 
-To circumvent this, Julian decided to lead a small force of 300 men to lay [[2. The World/History/The Siege of Dashund's Lea\| lay siege to Dashund's Lea]]. The [[2. The World/Locations/Dashund's Lea\| town]] was a critical chokepoint where supplies flowed from the Alastian heartland to the frontlines. It was believed that the capture of this city would starve out Coatlan and Ryoko. As this decisive act demanded that the troops bypass multiple, larger cities along the way, the Imperator decided to close in with a small force for speed and stealth. He reportedly left 
-The behind cannons and automatons, favoring the small contingent armed with force ballistae. 
+To circumvent this, Julian decided to lead a small force of 300 men to lay [[2. The World/History/The Siege of Dashund's Lea\| lay siege to Dashund's Lea]]. The [[2. The World/Locations/Dashund's Lea\| town]] was a critical chokepoint where supplies flowed from the Alastian heartland to the frontlines. It was believed that the capture of this city would starve out Coatlan and Ryoko. As this decisive act demanded that the troops bypass multiple, larger cities along the way, the Imperator decided to close in with a small force for speed and stealth. He reportedly left  behind cannons and automatons, favoring the small contingent armed with force ballistae. 
 
 The siege was short and brutal. For two days wave after wave of bolts rained down upon the city walls. Any attempt to send word out for aid was stopped: carrier pigeons were shot out of the sky, messengers were caught and slaughtered publicly before the walls. After two days, the city walls gave way. Soldiers reported that the Imperated, with a deafening roar, charged into the city, sacking it violently. Almost all of the defenders of the City were executed. By the time the Alastians knew Dashund's Lea had fallen, the majority of the Republic military had already caught up, fortifying themselves within the city.
 
@@ -59,6 +58,9 @@ The loss of Dashund's Lea dealt a significant blow to Alastia. In response, the 
 In a bid to bolster their numbers, the Imperator sent out several envoys, led by [[2. The World/People/Pompeia Ganamede\|Pompeia Ganamede]] to treat with the warlords of [[2. The World/Locations/The Verdant Reach\| the Verdant Reach]]. While many rejected the offer, three clans - the leonin, centaur and aarakocra - agreed to join the effort on the promise that the Republic would help them take control of the Reach after the war. These clans united to become [[2. The World/Organisations/The Russett Pride\|The Russett Pride]], and began raiding Alastia.
 
 ### Massacre in the Senate
+By 755 AY, Cer'Dorei was losing. Ophidia had entered the war and liberated the occupied Alastian territories; the Rarquet Assembly had surrendered following the death of the Chancellor Ovina Torunn.  Notably, the Senate began calling for the removal of Julian to sue for peace.
+
+Furious, the Imperator gathered his loyalists and assaulted the Senate during the Vote of No Confidence. The resultant massacre saw the deaths of all Senators, with only Pompeia Ganamede and Khan the Younger surviving. He then mustered his forces at [[2. The World/Locations/Syllamere\|Syllamere]], planning to meet the oncoming coalition army headon.
 
 ### Death and Defeat
 
