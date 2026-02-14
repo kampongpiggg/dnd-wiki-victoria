@@ -21,3 +21,8 @@ After the empowerment of several Alastian houses through cosmic exposure, the Im
 While many tribes rejected the offer (most notably the dragonborns of [[2. The World/Organisations/Clan Ladon\|Clan Ladon]]), some did not. Founded by the unification of the leonin, centaur and aarakocra tribes who accepted the Imperator's offer of conquest, the Pride elected Qreqerr as their Skald. Given their Pride's strategic location in the Russett Jungle and its proximity to Ryoko, they began conducting raids against Alastia.
 
 The Pride was ultimately disbanded after [[2. The World/Locations/Syllamere\| the battle outside Syllamere]], where Hralvok slain Qreqerr in single combat. As the tribes scattered, Clan Ladon took power in the Reach and was established as the ruling entity during the establishment of the Concord.
+
+## Notable Members
+- Skald Qreqerr
+- Delissandro 
+- Krir
