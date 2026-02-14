@@ -46,7 +46,7 @@ Filled with sprawling villas, amphitheaters and symmetrical plazas, Syllamere's 
 The city had a massive aqueduct, constructed over massive plains to draw water from the mountains. It was beneath this aqueduct where the final battle of the Sundering War was fought, marking it one of the most important battle sites in the 8th Century.
 
 ## Government
-The town is administered by House Alarion, a former elven diplomat. They remain in power to this day.
+The town is administered by the Alarions, a former elven family known for diplomacy. They remain in power to this day.
 
 ## History
 By 754 AY, after the decisive [[2. The World/History/Operation Chisel\| Operation Chisel]] crippled the Rarquet war machine and killed [[2. The World/People/Ovina Torunn\| the Chancellor Ovina Torunn]], the Cer'Dorei Republic's advantage was broken. While the Republic still held many territories, the combined might of the Alastians, Ophidians and Clan Ladon mustered for a counteroffensive. 
