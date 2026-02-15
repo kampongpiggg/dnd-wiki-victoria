@@ -5,20 +5,20 @@
 > [!timeline|t-1] **The Arrival** _Year 0_
 > Fleeing the destruction of their home planet *Argo*, the beings that would become the gods crash-lands on the planet of Parvaterra. They find the planet inhabited by monstrous creatures and giants, which hunted the Argonites for food.
 
-> [!timeline|t-r t-2] **Birth of Champions** *12 ADY*
+> [!timeline|t-r t-2] **Birth of Champions** *12 AY*
 > As the attempt to civilize Parvaterra continued, the Argonites suffer heavily losses; out of the 100 that arrived, only 30 remained. Their leader, Pellux, decides to create champions and guardians, so as to improve their capabilities against the monsters of Parvaterra. Using their generational ship's power module, some of the ancient astronauts shaped life out of mud and water, giving rise to the first of the creator races. The Argonites, now gods, not only guided life with technological advancement like irrigation, animal husbandry, writing, mining, masonry, pottery and archery, but also empowered them, granting their divine power.
 
-> [!timeline|t-l t-2] **The Defeat of the Baba Yaga** _72 ADY_
+> [!timeline|t-l t-2] **The Defeat of the Baba Yaga** _72 AY_
 > The last monstrous creature - *the Baba Yaga* - is captured by the champions of the gods. She is imprisoned in a special dimension devised by Melora, a technique used on similar monstrous creatures the Argonites could not kill. This dimension will grow to become the Feywild.
 
-> [!timeline|t-r t-3] **The Golden Bloom** *275 ADY*
+> [!timeline|t-r t-3] **The Golden Bloom** *275 AY*
 > After the defeat of the monstrous creatures of the land, the fledgling gods, and their creations, began a golden age of prosperity and expansion. Civilization flourished without the threat of possible extinction, leading to mortal life accelerating both scientific and arcane research. While the gods had taught life the basics, mortal life rapidly advanced without divine guidance: celestial navigation, iron working, ship building and mathematics developed in rapid succession. During this time, the gods walked freely amongst the world, interacting and mingling with mortals freely. As agriculture advanced the population skyrocketed; some gods even had offspring with mortals, giving birth to subraces like aasimars and tieflings.
 
-> [!timeline|t-l t-4] **Discovery of the Ether** *387 ADY*
+> [!timeline|t-l t-4] **Discovery of the Ether** *387 AY*
 > As civilization grew, mortal life continued expansion. By this time, the cities that would grow to become the great powers of the continent were founded. However, magic was kept relatively separate from scientific and technological developments, creating a growing divide between those who were capable of wielding divine magic and those who were not. This growing tension would come to a head when mortals discovered the Ether; a burning, global lattice of magical energy througout Gaia. This resulted in a theological conflict between the divine and mortals; the gods wanted their chosen to continue to lead the world, while mortals were unhappy with the inequities of their station. While this did not result in direct conflict, the seeds of discord and unrest were planted. The gods stood by while mortals continued in their arcane research. During this time, mortals increasingly tested the limits of arcane power, challenging and defying the gods who had created them.
 
-> [!timeline|t-r t-9] **The Sundering War** *749 ADY - 755 ADY*
+> [!timeline|t-r t-9] **The Sundering War** *749 AY - 755 AY*
 > Orchestrated by Senator Julian Yaeldrin of Cer'Dorei and Chancellor Ovina Torunn of The Rarquet Assembly, the Sundering War was a major multi-theater international conflict across the continent between The Kingdom of Alastia and The Cer'Dorei Republic. Sparked by tensions arising from a succession crisis in Alastia, the war escalated as both sides sought allies to gain an edge over the other, eventually embroiling the continent in full-blown conflict. The war comes to a brutal end in 755 AY, as the combined might of the Alastians, the Ophidians and Clan Ladon defeats the Imperator in the field outside of Syllamere. It is estimated that the Sundering War wiped out 30 to 45% of the population on the Leucaria continent.
 
-> [!timeline|t-l t-10] **The Establishment of the Victorian Empire** *755 ADY*
+> [!timeline|t-l t-10] **The Establishment of the Victorian Empire** *755 AY*
 > After the end of the war, a Concord was reached: the nations would form a combined empire, unifying under a central government administered by [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. Each nation would levy 30% of their taxes and 20% of their armies to the empire to bolster recovery and, more urgently, continental defense. A new law of succession regarding the Victorian Emperor was also passed, ensuring a rotation of power amongst the nations. The Empire was then named after its first Emperor, the hero of the Concord, General Victoria Percival.
