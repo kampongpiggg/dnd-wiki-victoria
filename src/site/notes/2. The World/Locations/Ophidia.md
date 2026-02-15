@@ -31,7 +31,7 @@
 > Info |  Description |
 > ---|---|
 > Population | 2,000,000 (Nation) · 300,000 (City)  |
-> Races | Tieflings, humans, half-orcs, halflings, bugbears, hobgoblins, goblins | 
+> Races | Tieflings, humans, half-orcs, changelings, halflings, bugbears, hobgoblins, kalashtar, goblins | 
 > ###### Commerce
 > Info |  Type |
 > ---|---|
