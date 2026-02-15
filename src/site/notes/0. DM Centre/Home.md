@@ -9,8 +9,6 @@
 
 Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian Empire, our homebrew D&D campaign setting. It also serves as a record of the lore and shenanigans of our heroes as they go on adventures in this world.
 
-
-
 # The Party
 
 | Character Name | Species | Class (Subclass) | Player    |
