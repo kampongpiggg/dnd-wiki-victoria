@@ -47,8 +47,18 @@ Its people are primarily dressed in togas and laurel wreaths, but are known to i
 ## Government
 The three major elements of the Republic were the [[2. The World/Organisations/The Cervine Senate\|Senate]], the Legion, and the provincial government. 
 
+Each individual settlement was administered by local magistrates, who were responsible for keeping law and order and extracting revenue. Local independence incentivized compliance, as magistrates who were cooperative with the Imperial government often enjoyed reduced taxation.
+
+Membership in the Senate was determined in a hybrid, and largely democratic, nature. Popular consensus appointed 80 seats of the 100 seat vacancy. High-ranking magistrates and a small number of aristocratic nobles were given reign to appoint another 20. Senate membership is for life to ensure continuity and longevity of vision for the governance of the Republic. However, given the long lifespan of elves, it is often that many Senate members stay in power for centuries.
+
+The Legion was used to enforce the will of the Senate; rebelling communities and settlements were kept in line by the Legion, a brutal and efficient fighting force famed for their discipline. 
+
 ## Culture
-This is a placeholder.
+Known for their practicality, diligence and sense of duty, the Cer'Dorei people take on hardship with a smile on their face. Their stoic approach to the difficulties of life has enabled them to flourish, turning a land beset by giants in the Savage Peaks to one of the most prosperous in the land.
+
+Culture in the Republic was highly urbanised; almost half of its population lived in densely packed cities. This imbued a certain amount of hustle and bustle to her cities as citizens attended public baths, chariot races and even gladiatorial combat for entertainment. The other half lived in farmlands in Forum Tritici, an agricultural settlement responsible for providing much of the grain and livestock necessary in the Empire. Because of the sharp difference in livelihood, there is a significant disparity with many cityfolk considering the farmers to be beneath them.
+
+Despite the class differences and social disparity, cityfolk and farmers alike are united in their love for the Republic. In some instances, this fervor can boil over from patriotism to nationalistic pride.
 
 ## History
 Placeholder
