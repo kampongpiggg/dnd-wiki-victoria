@@ -61,31 +61,14 @@ Culture in the Republic was highly urbanised; almost half of its population live
 Despite the class differences and social disparity, cityfolk and farmers alike are united in their love for the Republic. In some instances, this fervor can boil over from patriotism to nationalistic pride.
 
 ## History
-Placeholder
+Sometime before 749AY, Senator [[2. The World/People/Julian Yaeldrin\|Julian Yaeldrin]] orchestrated a plot with Chancellor Ovina Torunn of the Rarquet Assembly to assassinate the King of Alastia [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]]. This was meant to incite a war between the Republic and [[2. The World/Locations/The Kingdom of Alastia\|The Kingdom of Alastia]] so that Yaeldrin could not only convince the Senate to install him as the Imperator of Cer'Dorei, but also increase Cer'Dorei's territories and bring glory to the Republic.
+
+After the assassins [[2. The World/People/Vaxildan & Vexalia\|Vaxildan & Vexalia]] assassinated the [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]] and the Dowager Queen [[2. The World/People/Eleanor Hamilton\|Eleanor Hamilton]]
 
 ## Trade
 This is a placeholder.
 
 ## Geography
-Placeholder
-
-### Placeholder Map
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# Placeholder Map
-
-</div>
-
-
-
-
-</div></div>
-
-[[z_Assets/Misc/MapPlaceholder.png\|open outside]]
-
 Placeholder
 
 ## Points of Interest
