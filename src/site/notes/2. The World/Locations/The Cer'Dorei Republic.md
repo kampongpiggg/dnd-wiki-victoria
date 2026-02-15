@@ -79,13 +79,20 @@ As the most fertile land in [[2. The World/Locations/The Victorian Empire\|The V
 ## Transportation
 Like most cities, public transportation was available throughout the city, although nobles and people of high import often travelled privately. Public transportation options included drays, hire-coaches and carriages.
 
-In Nike, the River Tigris cuts across the city; as such, water transportation like gondolas were also available.
+In Nike, the River Tigris cuts across the city; as such, water transportation like gondolas were also available for hire.
 
 ## Defenses
-This is a placeholder.
+While a majority of the cities in the Republic were not walled, those that were had living walls. Rather than stacking bricks, Republic builders used Ether and fae magic to feed the earth, coaxing a continuous ridge of white marble from the ground. The walls, if breached, released a sap in a pressurized spray that could temporarily paralyzed attackers. If given enough time, the walls were also capable of self-repair.
+
+Serving complementary to the Legion was the Nikean Cavalry, warriors mounted on massive elks and stags that would that provided support, scouting and flanking to the heavy infantry. In combat formations, they would serve as flank guards or pursuit forces. 
+
 
 ## Points of Interest
-Placeholder
+- The Colosseum
+- The Parthenon
 
 ## Notable Inhabitants
-Placeholder
+- Imperator Julian Yaeldrin (deceased)
+- Senator Pompeia Ganamede (formerly)
+- Senator Khan the Younger 
+- Senator Aelwyn Alarion
