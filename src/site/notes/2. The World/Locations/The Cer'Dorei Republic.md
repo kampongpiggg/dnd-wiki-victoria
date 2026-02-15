@@ -31,11 +31,13 @@
 > ###### Commerce
 > Info |  Description |
 > ---|---|
-> Exports | Grain, livestock, wine |
+> Exports | Grain,fruit, livestock, wine |
 > Imports | Iron, leather, specialty metals, silk |
 
 
 **The Cer'Dorei Republic**, also known as Cer'Dorei or the Republic, is a nation in [[2. The World/Locations/The Victorian Empire\|The Victorian Empire]]. Located on the north of the continent where the land is most fertile, Cer'Dorei serves as the granary of the continent and provides grain and livestock for much of the Empire. They are ruled by [[2. The World/Organisations/The Cervine Senate\|The Cervine Senate]].
+
+It is the most populous nation in the Empire.
 
 ## Description
 Marble colonnades decorate the vaulted entrances to azure blue pools of the public baths. Sprawling villas, beautiful amphitheaters and symmetrical plazas decorate all of the Republic's cities. These structures were not built for the moment; it is said that when the Cer'Dorei builds, their buildings stand for centuries. 
@@ -72,32 +74,18 @@ As the war continued, Cer'Dorei's advantage in the war began to wane slowly. By 
 The Cer'Dorei Legion was defeated at the battle of Syllamere. As the last surviving member of the Senate, Khan the Younger surrendered on behalf of the Republic and represented their interests in the negotiation of the Concord.
 
 ## Trade
-This is a placeholder.
-
-## Geography
-Placeholder
-
-## Points of Interest
-Placeholder
+As the most fertile land in [[2. The World/Locations/The Victorian Empire\|The Victorian Empire]], the Republic grow the lion's share of the grains, fruit and livestock that feed the Empire. Blessed with vast, blooming fields of crops, flowers and animals, its citizens toil endlessly to feed not only themselves but the less fertile parts of the Empire. Its core exports are grain, fruit, wine and livestock.
 
 ## Transportation
-Placeholder
+Like most cities, public transportation was available throughout the city, although nobles and people of high import often travelled privately. Public transportation options included drays, hire-coaches and carriages.
+
+In Nike, the River Tigris cuts across the city; as such, water transportation like gondolas were also available.
 
 ## Defenses
 This is a placeholder.
 
+## Points of Interest
+Placeholder
+
 ## Notable Inhabitants
 Placeholder
-
-## Additional Details
-Placeholder
-
-`=this.region`
-
-
-`=link(this.region)`
-
-`=this.region`
-
-
-`=link(this.region)`
