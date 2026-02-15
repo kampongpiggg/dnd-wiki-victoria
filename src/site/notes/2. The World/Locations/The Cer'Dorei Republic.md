@@ -69,6 +69,8 @@ The initial stages of this armed intervention was successful; Imperator Julian Y
 
 As the war continued, Cer'Dorei's advantage in the war began to wane slowly. By 755 AY, Ophidia's entry into the war led to the liberation of Coatlan and Ryoko, and the successful [[2. The World/History/Operation Chisel\|Operation Chisel]] led to the surrender of [[2. The World/Locations/The Rarquet Assembly\|The Rarquet Assembly]]. As defeat seemed imminent for the Republic, the Senate began calling for the removal of Julian Yaeldrin as the Imperator. During the Vote of No Confidence, the Imperator and his loyalists attacked and massacred the Senate, leaving behind only Pompeia Ganamede and Khan the Younger. Julian Yaeldrin then mustered his forces at [[2. The World/Locations/Syllamere\|Syllamere]], treating with the oncoming coalition force led by [[2. The World/People/Victoria Parcival\|General Victoria Parcival]].
 
+The Cer'Dorei Legion was defeated at the battle of Syllamere. As the last surviving member of the Senate, Khan the Younger surrendered on behalf of the Republic and represented their interests in the negotiation of the Concord.
+
 ## Trade
 This is a placeholder.
 
