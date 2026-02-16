@@ -52,7 +52,9 @@ As the second most populous state in the Empire, and the nation with the largest
 Meritocracy is a key value for the people of Alastia. They believe that the best and brightest should succeed regardless of race, religion or class status, an opinion shared by their [[2. The World/Locations/The Rarquet Assembly\|Rarquet]] neighbours. Where they differ would be their views on equality: the Alastian believes that all should be given the same opportunity to excel, while the Rarquesian would not think twice about exploiting unequal starting points.
 
 ## History
-Placeholder
+In 742 AY, King [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]] married the commoner half-elf Gwendolyn Maegyr against the wishes of the Dowager Queen [[2. The World/People/Eleanor Hamilton\|Eleanor Hamilton]]. Because of her low birth and elven heritage, this caused significant friction in the court, a result not only from the disapproval of the Dowager Queen but also the slight experienced by the vassal houses.
+
+After the death of King Arthur Hamilton at the hands of the elven assassins [[2. The World/People/Vaxildan & Vexalia\|Vaxildan & Vexalia]], the Dowager Queen [[2. The World/People/Eleanor Hamilton\|Eleanor Hamilton]] seized power, displacing the rightful queen by the laws of succession [[2. The World/People/Gwendolyn Hamilton\|Gwendolyn Hamilton]]. This led to international outrage from both [[2. The World/Locations/Ophidia\|Ophidia]] and [[2. The World/Locations/The Cer'Dorei Republic\|The Cer'Dorei Republic]]. In response, the Republic decided to launch an armed intervention, seeking to remove the Dowager Queen and replace the rightful queen Gwendolyn. This led to the outbreak of [[2. The World/History/The Sundering War\|The Sundering War]].
 
 ## Trade
 This is a placeholder.
