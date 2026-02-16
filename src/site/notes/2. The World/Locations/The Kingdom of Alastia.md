@@ -42,7 +42,7 @@ The powerful vassal houses under the King of Alastia meant that many of her town
 ![../../z_Attachments/ryoko.jpg|300](/img/user/z_Attachments/ryoko.jpg)
 
 ## Government
-Formerly, Alastia was ruled by the King of Alastia. This 
+Formerly, Alastia was ruled by the King of Alastia. The monarchy was abolished after [[2. The World/History/The Sundering War\|The Sundering War]] and the establishment of the Concord.
 
 ## Culture
 Although Alastia is the second most populous state in the Empire, it has the largest land size. This contributed not only to a diversity in species, but also in culture.
