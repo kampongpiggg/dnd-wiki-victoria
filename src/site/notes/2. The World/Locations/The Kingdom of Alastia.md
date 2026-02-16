@@ -56,6 +56,8 @@ In 742 AY, King [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]] married
 
 After the death of King Arthur Hamilton at the hands of the elven assassins [[2. The World/People/Vaxildan & Vexalia\|Vaxildan & Vexalia]], the Dowager Queen [[2. The World/People/Eleanor Hamilton\|Eleanor Hamilton]] seized power, displacing the rightful queen by the laws of succession [[2. The World/People/Gwendolyn Hamilton\|Gwendolyn Hamilton]]. This led to international outrage from both [[2. The World/Locations/Ophidia\|Ophidia]] and [[2. The World/Locations/The Cer'Dorei Republic\|The Cer'Dorei Republic]]. In response, the Republic decided to launch an armed intervention, seeking to remove the Dowager Queen and replace the rightful queen Gwendolyn. This led to the outbreak of [[2. The World/History/The Sundering War\|The Sundering War]].
 
+Initially, the rapid advance of the Republic Legion was stalled outside Ryoko by the successful deployment of the warforged automatons acquired from [[2. The World/Locations/The Rarquet Assembly\|The Rarquet Assembly]]. However, this stalemate did not last long. The Imperator [[2. The World/People/Julian Yaeldrin\|Julian Yaeldrin]] bypassed Ryoko and Coatlan, instead capturing [[2. The World/Locations/Dashund's Lea\|Dashund's Lea]] in a [[2. The World/History/The Siege of Dashund's Lea\| two-day siege]]. The fall of such a strategic location led to the starvation and surrender of Ryoko and Coatlan. By 751 AY, Cer'Dorei had occupied a third of Alastian territories.
+
 ## Trade
 This is a placeholder.
 
