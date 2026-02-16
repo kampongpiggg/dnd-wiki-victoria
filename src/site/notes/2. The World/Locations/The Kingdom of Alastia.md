@@ -58,6 +58,12 @@ After the death of King Arthur Hamilton at the hands of the elven assassins [[2.
 
 Initially, the rapid advance of the Republic Legion was stalled outside Ryoko by the successful deployment of the warforged automatons acquired from [[2. The World/Locations/The Rarquet Assembly\|The Rarquet Assembly]]. However, this stalemate did not last long. The Imperator [[2. The World/People/Julian Yaeldrin\|Julian Yaeldrin]] bypassed Ryoko and Coatlan, instead capturing [[2. The World/Locations/Dashund's Lea\|Dashund's Lea]] in a [[2. The World/History/The Siege of Dashund's Lea\| two-day siege]]. The fall of such a strategic location led to the starvation and surrender of Ryoko and Coatlan. By 751 AY, Cer'Dorei had occupied a third of Alastian territories.
 
+To break Cer'Dorei's advantage, the Dowager Queen forced her vassal houses to expose themselves to various cosmic forces, gaining powerful sorcerous abilities. This turned the tide of battle momentarily, resulting in heavy losses of Cer'Dorei. 
+
+In 754 AY, after the entry of Ophidia liberated Republic-occupied cities and the successful [[2. The World/History/Operation Chisel\|Operation Chisel]] led to the surrender of Rarquet, the coalition force of Ophidia and Alastia began preparing for a final offensive into the Republic. The Dowager Queen mustered her forces, placing them under the command of [[2. The World/People/Victoria Parcival\| General Victoria Parcival]], and began the march on Cer'Dorei. While the host win battles along the way, the Dowager Queen eventually took ill and passed halfway to the Republic. The war council crowns General Victoria Parcival as her replacement.
+
+In 755 AY, the combined might of the Alastians, the Ophidians and Clan Ladon defeats the Imperator outside [[2. The World/Locations/Syllamere\|Syllamere]]. Following Cer'Dorei's surrender, peace talks began shortly after in the city of Caliburn's Rock. To prevent a future war, a Concord was reached: the nations would form a combined [[2. The World/Locations/The Victorian Empire\| Victorian Empire]] under [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. Imperial power would be rotated amongst the nations, and laws of succession were crystallized to ensure smooth transition of power.
+
 ## Trade
 This is a placeholder.
 
