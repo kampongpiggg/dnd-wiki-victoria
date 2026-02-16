@@ -55,7 +55,7 @@ Education is free, and mandatory. Youths in the city must be registered to a gui
 
 Because of its ethnic and species diversity, festivals and celebrations were commonplace. These festivals and celebrations often served as opportunities for artists and artisans to display and showcase their work. As a result, Leonitar attracts many aspiring and talented individuals to come and contribute to its great culture.
 
-Unfortunately, the city was not without its flaws. Because of its sheer size, the city requires a large population of working class folks to keep it going; many of these folks, mostly half-orcs, cannot afford to live in the posh districts, often living in cramped conditions in Uruk Alley.
+Unfortunately, the city was not without its flaws. Because of its sheer size, the city requires a large population of working class folks to keep it going; many of these folks cannot afford to live in the posh districts of Gallamor and Excalibur Plaza, often living in cramped conditions in Caliburn's Rock.
 
 ## History
 Formerly Caliburn's Rock - the capital of the Kingdom of Alastia - the city was renamed after the Sundering War.
