@@ -39,10 +39,10 @@ The **Kingdom of Alastia** is a nation in [[2. The World/Locations/The Victorian
 ## Description
 The powerful vassal houses under the King of Alastia meant that many of her towns and cities were uniquely designed. In the [[2. The World/Locations/Leonitar\| capital]], copper domes and gilded spires form the staple of architecture, but in Ryoko, these are traded in for red timber framed buildings with bilateral symmetry, curved roofs and enclosed courtyards.
 
-![../../z_Attachments/ryoko.jpg|350](/img/user/z_Attachments/ryoko.jpg)
+![../../z_Attachments/ryoko.jpg](/img/user/z_Attachments/ryoko.jpg)
 
 ## Government
-Formerly, Alastia was ruled by the King of Alastia. The monarchy was abolished after [[2. The World/History/The Sundering War\|The Sundering War]] and the establishment of the Concord.
+Formerly, Alastia was ruled by the King of Alastia. The monarchy was abolished after [[2. The World/History/The Sundering War\|The Sundering War]] and the establishment of the Concord; affairs of the state are now governed by the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], a council made up of the former vassal houses of the Hamiltons.
 
 ## Culture
 Although Alastia is the second most populous state in the Empire, it has the largest land size. This contributed not only to a diversity in species, but also in culture.
