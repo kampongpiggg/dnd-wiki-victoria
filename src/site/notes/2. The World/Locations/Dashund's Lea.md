@@ -46,7 +46,7 @@ The outer walls of Dashund's Lea were 15 feet high, made of thick basic stonewor
 In the interior, the city was made primarily of gray stone, a testament to the city's age. While a city in the Kingdom, it was not uncommon to see dwarves and gnomes of Rarquet, given its proximity to the border of the two countries. A central market - called the Pentamarket - drives trade in the area. 
 
 ## Government
-The town is governed primarily by House Timmon, a minor noble house appointed by the King of Alastia. After the war the house still remains in control, albeit answering to the Victorian Emperor instead of the now-defunct King of Alastia.
+Initially under the governance of House Tychonis, after the war the town is governed primarily by House Timmon, a minor house appointed by House Tychonis.
 
 ## Culture
 Trade - primarily driven by the Rarquet Assembly and the local Alastians - has led to the proliferation of dwarven culture throughout the town. Aside from forges and smiths, a large amount of taverns exist within the town, dedicated mostly to the dwarven appetite: a third of the crops grown in Dashund's Lea are potatoes, carrots and turnips, and it is estimated that almost a quarter of the town's imports is dwarven ale.

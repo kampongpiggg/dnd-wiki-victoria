@@ -37,7 +37,7 @@
 The **Kingdom of Alastia** is a nation in [[2. The World/Locations/The Victorian Empire\|The Victorian Empire]]. Located in the south of the continent overlooking [[2. The World/Locations/Lion's Straits\|Lion's Straits]], the Kingdom of Alastia is the current leader of the Concord. It is the seat of the Concordant Throne and the home of the [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. They are administered by the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], under the direct jurisdiction of the Emperor.
 
 ## Description
-This is a placeholder.
+The powerful vassal houses under the King of Alastia meant that many of her towns and cities were uniquely designed. In the capital, copper domes and gilded spires form the staple of architecture; but in further settlements, 
 
 ## Government
 This is a placeholder.
