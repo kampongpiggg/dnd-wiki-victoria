@@ -39,7 +39,7 @@ The **Kingdom of Alastia** is a nation in [[2. The World/Locations/The Victorian
 ## Description
 The powerful vassal houses under the King of Alastia meant that many of her towns and cities were uniquely designed. For instance, in the [[2. The World/Locations/Leonitar\| capital]], copper domes and gilded spires form the staple of architecture, but in Ryoko, these are traded in for red timber framed buildings with bilateral symmetry, curved roofs and enclosed courtyards.
 
-![../../z_Attachments/ryoko.jpg|600](/img/user/z_Attachments/ryoko.jpg)
+![../../z_Attachments/ryoko.jpg|550](/img/user/z_Attachments/ryoko.jpg)
 
 ## Government
 Formerly, Alastia was ruled by the King of Alastia. The monarchy was abolished after [[2. The World/History/The Sundering War\|The Sundering War]] and the establishment of the Concord; affairs of the state are now the duties of the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], a council made up of the former vassal houses of the Hamiltons. 
@@ -65,7 +65,7 @@ In 754 AY, after the entry of Ophidia liberated Republic-occupied cities and the
 In 755 AY, the combined might of the Alastians, the Ophidians and Clan Ladon defeats the Imperator outside [[2. The World/Locations/Syllamere\|Syllamere]]. Following Cer'Dorei's surrender, peace talks began shortly after in the city of Caliburn's Rock. To prevent a future war, a Concord was reached: the nations would form a combined [[2. The World/Locations/The Victorian Empire\| Victorian Empire]] under [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. Imperial power would be rotated amongst the nations, and laws of succession were crystallized to ensure smooth transition of power. The capital was selected to be Caliburn's Rock for its strategic maritime value but renamed to Leonitar to promote equal ownership of the capital amongst the nations.  Leadership of the Alastian state was passed to the newly formed [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], while the Queen of Alastia Victoria Parcival became the first Empress of the Victorian Empire.
 
 ## Trade
-This is a placeholder.
+This is a placeholder. 
 
 ## Transportation
 Placeholder
