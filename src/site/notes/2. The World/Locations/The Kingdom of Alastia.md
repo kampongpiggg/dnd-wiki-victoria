@@ -44,10 +44,10 @@ The powerful vassal houses under the King of Alastia meant that many of her town
 ## Government
 Formerly, Alastia was ruled by the King of Alastia. The monarchy was abolished after [[2. The World/History/The Sundering War\|The Sundering War]] and the establishment of the Concord; affairs of the state are now the duties of the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], a council made up of the former vassal houses of the Hamiltons. 
 
-Alastia also serves as *primus inter pares* of the Empire; its capital Leonitar is the home of the Concordant Throne and seat of the [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. Although the office of the Emperor passes between the nations, the seat of power remains in Leonitar.
+Imperial power is also tied intrinsically to the Kingdom. Alastia serves as the *primus inter pares* of the Empire; its capital Leonitar is the home of the Concordant Throne and seat of the [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. Although the office of the Emperor passes between the nations, the seat of power remains in Leonitar. 
 
 ## Culture
-Although Alastia is the second most populous state in the Empire, it has the largest land size. This contributed not only to a diversity in species, but also in culture.
+As the second most populous state in the Empire, and the nation with the largest land size, 
 
 ## History
 Placeholder
