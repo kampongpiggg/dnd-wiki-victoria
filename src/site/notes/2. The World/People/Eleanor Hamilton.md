@@ -31,16 +31,17 @@ After the ascension of [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]] 
 Against the wishes of the Dowager Queen, King Arthur insisted on his marriage to Gwendolyn, making her Queen Consort. This upset both the Dowager Queen and the vassal houses, leading to an undercurrent of tension in the court. Dowager Queen would often snipe at the Queen Gwendolyn with condescending remarks about her birth and class status.
 
 ## The Sundering War
-In 749 AY, after the death of [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]] at the hands of [[2. The World/People/Vaxildan & Vexalia\|Vaxildan & Vexalia]], despite not being next in the line of succession, the Dowager Queen denied the throne to the rightful [[2. The World/People/Gwendolyn Hamilton\|Gwendolyn Hamilton]] and seized power. 
+###### A Crisis in Alastia
+In 749 AY, after the death of [[2. The World/People/Arthur Hamilton\|Arthur Hamilton]] at the hands of [[2. The World/People/Vaxildan & Vexalia\|Vaxildan & Vexalia]], despite not being next in the line of succession, the Dowager Queen denied the throne to the rightful [[2. The World/People/Gwendolyn Hamilton\|Gwendolyn Hamilton]] and seized power. This violated the laws of succession, resulting in international outrage. As an act of foreign intervention, the Imperator [[2. The World/People/Julian Yaeldrin\|Julian Yaeldrin]] led the [[2. The World/Locations/The Cer'Dorei Republic\|The Cer'Dorei Republic]] in an invasion into Alastia. 
 
-This prompted [[2. The World/History/The Sundering War\|The Sundering War]].
+###### The Siege of Dashund's Lea
+When approached by Chancellor [[2. The World/People/Ovina Torunn\|Ovina Torunn]]'s envoys to buy automatons, the Dowager Queen agreed. The warforged was able to stall the advance of the Republic Legion outside Ryoko. In a risky gamble, the Imperator led his forces to [[2. The World/Locations/Dashund's Lea\|../Locations/Dashund's Lea]], capturing it after a [[2. The World/History/The Siege of Dashund's Lea\| two-day siege]]. 
 
-During the War, seeking to gain an edge over her enemies, she pushed her vassal houses - the nobles who would become the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] - to experiment and consort with various sources of power. This resulted in the creation of several sorcerous bloodlines. 
+The fall of Dashund's Lea resulted in the loss of a third of Alastian territories. The former rulers, House Tychonis, fled back to the capital. In a bid to break the Republic's upper hand, and as punishment for losing the city, the Dowager Queen forcefully exposed the young heir of the house the Lady Ymir Tychonis to the Shadowfell. The exposure supercharged her, imbuing her soul with powerful dark magic and turning her into the first sorcerer. The successful experimentation pushed the other vassal houses to join the experimentation, granting them [[2. The World/Organisations/Chamber of Lords-Advisory\| various sorcerous abilities]].
 
-Over the course of the war, she became increasingly erratic, spiteful and paranoid, prompting her vassal houses, particularly the Tychonis, to begin a plot to remove her and install a new queen.
+###### The Fall of the Dowager Queen
+By 754 AY, after the successful [[2. The World/History/Operation Chisel\|Operation Chisel]] saw the surrender of [[2. The World/Locations/The Rarquet Assembly\| Rarquet]], the possibility of the war coming to an end with an Alastian-Ophidian victory became imminent. However, over the course of the war, the Dowager Queen had become increasingly erratic, spiteful and paranoid. This prompted her vassal houses to begin a plot to remove her and install a new Queen.
 
-After the [[2. The World/History/Operation Chisel\|attack]] on [[2. The World/Locations/The Rarquet Assembly\| Rarquet]], the Dowager Queen vowed to lead [[2. The World/Locations/Syllamere\| the final assault]] into [[2. The World/Locations/The Cer'Dorei Republic\| the Republic]]. She mustered her forces and placed them under the command of General [[2. The World/People/Victoria Parcival\|Victoria Parcival]], and began the march on Cer'Dorei. 
-
-Unbeknownst to her, she had been poisoned gradually by the Tychonis. She dies halfway to the capital of the Republic. After her death, the war council crowns Victoria as her replacement. 
+To end the war, the Dowager Queen vowed to lead [[2. The World/Locations/Syllamere\| the final assault]] into [[2. The World/Locations/The Cer'Dorei Republic\| the Republic]]. She mustered her forces under the command of General [[2. The World/People/Victoria Parcival\|Victoria Parcival]], and began the march on Cer'Dorei. Unbeknownst to her, she had already been poisoned by the Tychonis. She dies halfway to the capital of the Republic. After her death, the war council crowns Victoria as her replacement. 
 
 ## Legacy
