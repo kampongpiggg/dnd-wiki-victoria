@@ -78,6 +78,3 @@ Placeholder
 
 ## Notable Inhabitants
 Placeholder
-
-## Additional Details
-Placeholder
