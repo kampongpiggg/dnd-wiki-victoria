@@ -47,7 +47,9 @@ Formerly, Alastia was ruled by the King of Alastia. The monarchy was abolished a
 Imperial power is also tied intrinsically to the Kingdom. Alastia serves as the *primus inter pares* of the Empire; its capital Leonitar is the home of the Concordant Throne and seat of the [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. Although the office of the Emperor passes between the nations, the seat of power remains in Leonitar. 
 
 ## Culture
-As the second most populous state in the Empire, and the nation with the largest land size, 
+As the second most populous state in the Empire, and the nation with the largest land size, culture is extremely diverse in the Kingdom of Alastia. A melting pot of races and backgrounds, the Kingdom was generally welcome to all persuasions.
+
+Meritocracy is a key value for the people of Alastia. They believe that the best and brightest should succeed regardless of race, religion or class status, an opinion shared by their [[2. The World/Locations/The Rarquet Assembly\|Rarquet]] neighbours. Where they differ would be their views on equality: the Alastian believes that all should be given the same opportunity to excel, while the Rarquesian would not think twice about exploiting unequal starting points.
 
 ## History
 Placeholder
