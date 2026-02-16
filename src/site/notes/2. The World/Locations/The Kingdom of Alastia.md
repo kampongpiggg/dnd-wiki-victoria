@@ -39,7 +39,7 @@ The **Kingdom of Alastia** is a nation in [[2. The World/Locations/The Victorian
 ## Description
 The powerful vassal houses under the King of Alastia meant that many of her towns and cities were uniquely designed. In the [[2. The World/Locations/Leonitar\| capital]], copper domes and gilded spires form the staple of architecture, but in Ryoko, these are traded in for red timber framed buildings with bilateral symmetry, curved roofs and enclosed courtyards.
 
-![../../z_Attachments/ryoko.jpg|450](/img/user/z_Attachments/ryoko.jpg)
+![../../z_Attachments/ryoko.jpg|300](/img/user/z_Attachments/ryoko.jpg)
 
 ## Government
 Formerly, Alastia was ruled by the King of Alastia. This 
