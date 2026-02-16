@@ -37,12 +37,14 @@
 The **Kingdom of Alastia** is a nation in [[2. The World/Locations/The Victorian Empire\|The Victorian Empire]]. Located in the south of the continent overlooking [[2. The World/Locations/Lion's Straits\|Lion's Straits]], the Kingdom of Alastia is the current leader of the Concord. It is the seat of the Concordant Throne and the home of the [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. They are administered by the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], under the direct jurisdiction of the Emperor.
 
 ## Description
-The powerful vassal houses under the King of Alastia meant that many of her towns and cities were uniquely designed. In the [[2. The World/Locations/Leonitar\| capital]], copper domes and gilded spires form the staple of architecture, but in Ryoko, these are traded in for red timber framed buildings with bilateral symmetry, curved roofs and enclosed courtyards.
+The powerful vassal houses under the King of Alastia meant that many of her towns and cities were uniquely designed. For instance, in the [[2. The World/Locations/Leonitar\| capital]], copper domes and gilded spires form the staple of architecture, but in Ryoko, these are traded in for red timber framed buildings with bilateral symmetry, curved roofs and enclosed courtyards.
 
-![../../z_Attachments/ryoko.jpg](/img/user/z_Attachments/ryoko.jpg)
+![../../z_Attachments/ryoko.jpg|500](/img/user/z_Attachments/ryoko.jpg)
 
 ## Government
-Formerly, Alastia was ruled by the King of Alastia. The monarchy was abolished after [[2. The World/History/The Sundering War\|The Sundering War]] and the establishment of the Concord; affairs of the state are now governed by the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], a council made up of the former vassal houses of the Hamiltons.
+Formerly, Alastia was ruled by the King of Alastia. The monarchy was abolished after [[2. The World/History/The Sundering War\|The Sundering War]] and the establishment of the Concord; affairs of the state are now the duties of the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], a council made up of the former vassal houses of the Hamiltons. 
+
+Alastia also serves as the spiritual leader of the Empire; its capital Leonitar is the home of the Concordant Throne and 
 
 ## Culture
 Although Alastia is the second most populous state in the Empire, it has the largest land size. This contributed not only to a diversity in species, but also in culture.
