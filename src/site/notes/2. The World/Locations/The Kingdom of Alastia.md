@@ -65,15 +65,27 @@ In 754 AY, after the entry of Ophidia liberated Republic-occupied cities and the
 In 755 AY, the combined might of the Alastians, the Ophidians and Clan Ladon defeats the Imperator outside [[2. The World/Locations/Syllamere\|Syllamere]]. Following Cer'Dorei's surrender, peace talks began shortly after in the city of Caliburn's Rock. To prevent a future war, a Concord was reached: the nations would form a combined [[2. The World/Locations/The Victorian Empire\| Victorian Empire]] under [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. Imperial power would be rotated amongst the nations, and laws of succession were crystallized to ensure smooth transition of power. The capital was selected to be Caliburn's Rock for its strategic maritime value but renamed to Leonitar to promote equal ownership of the capital amongst the nations.  Leadership of the Alastian state was passed to the newly formed [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], while the Queen of Alastia Victoria Parcival became the first Empress of the Victorian Empire.
 
 ## Trade
-As
+While Alastia has its own farmlands, the migration of individuals into the seat of imperial power has led to an explosion in population. This led to an increase in the amount of grain, livestock, leather, ore and timber into the nation, most of which is sent to Leonitar. This population explosion led by mass migration in search of opportunity has also led to many setting up workshops and emporiums, bringing their unique talents and crafts to Alastia.
+
+Moreover due to its strategic location overlooking the [[2. The World/Locations/Lion's Straits\|Lion's Straits]] Alastia serves as the egress of Empire exports into the world. Rarquet inventions, Cer'Dorei wine and Ophidian artifacts alike pass through Alastia to Leonitar, which then goes out into the world.
+
 ## Transportation
-Placeholder
+A network of stone-paved roads connected the cities of Alastia. While nobles and people of high import often travelled privately, public transportation was available throughout the city. The options included:
+- Drays, which were two-floored collective carriages that held a large number of seats and travelled through preset trajectories across the main boulevards. Fares varied between 2 and 4 copper.
+- Hire-coaches, which were two-wheeled, two-seat carriages that could be called and dispatched to specific locations. Hire-coach drivers often roamed the city streets in search for passengers, who could call a free coach with a shout. Fares are often agreed upon in advance, and rarely exceeded 1 gold.
+- Carriages were luxury vehicles that could accommodate up to 8 passengers comfortably; prices varied, but usually these vehicles were hired for the whole day. Depending on the luxury level of the carriage, these vehicles could fetch anywhere from 10 to 100 gold.
 
 ## Defenses
 This is a placeholder.
 
 ## Points of Interest
-Placeholder
+- [[2. The World/Locations/Leonitar\|Leonitar]]
+- [[2. The World/Locations/Dashund's Lea\|Dashund's Lea]]
+- Ryoko
+- Coatlan
+- Hexeverel
+
 
 ## Notable Inhabitants
-Placeholder
+- Empress [[2. The World/People/Victoria Parcival\|Victoria Parcival]]
+- [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]]

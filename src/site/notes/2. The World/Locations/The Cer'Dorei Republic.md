@@ -31,7 +31,7 @@
 > ###### Commerce
 > Info |  Description |
 > ---|---|
-> Exports | Grain,fruit, livestock, wine |
+> Exports | Grain, fruit, livestock, wine |
 > Imports | Iron, leather, specialty metals, silk |
 
 
@@ -83,6 +83,8 @@ Like most cities, public transportation was available throughout the city, altho
 
 In Nike, the River Tigris cuts across the city; as such, water transportation like gondolas were also available for hire.
 
+The cities are interconnected via stone-paved roads; the oldest of which is called the Appian Way.
+
 ## Defenses
 While a majority of the cities in the Republic were not walled, those that were had living walls. Rather than stacking bricks, Republic builders used Ether and fae magic to feed the earth, coaxing a continuous ridge of white marble from the ground. The walls, if breached, released a sap in a pressurized spray that could temporarily paralyzed attackers. If given enough time, the walls were also capable of self-repair.
 
@@ -91,6 +93,7 @@ Serving complementary to the Legion was the Nikean Cavalry, warriors mounted on 
 ## Points of Interest
 - The Colosseum
 - The Parthenon
+- [[2. The World/Locations/Syllamere\|Syllamere]]
 
 ## Notable Inhabitants
 - Imperator Julian Yaeldrin (deceased)

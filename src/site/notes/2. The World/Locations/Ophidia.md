@@ -90,6 +90,7 @@ While some of her cities are walled, some are not. Instead, these cities are pow
 
 ## Points of Interest
 - [[2. The World/Locations/The Kryn Ward\|The Kryn Ward]]
+- The Forest of the Fae
 - Unknown
 
 ## Notable Inhabitants
