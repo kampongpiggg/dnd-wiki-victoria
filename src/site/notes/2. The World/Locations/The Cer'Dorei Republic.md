@@ -76,6 +76,8 @@ The Cer'Dorei Legion was defeated at the battle of Syllamere. As the last surviv
 ## Trade
 As the most fertile land in [[2. The World/Locations/The Victorian Empire\|The Victorian Empire]], the Republic grow the lion's share of the grains, fruit and livestock that feed the Empire. Blessed with vast, blooming fields of crops, flowers and animals, its citizens toil endlessly to feed not only themselves but the less fertile parts of the Empire. Its core exports are grain, fruit, wine and livestock.
 
+While it does not see as much maritime traffic as Lion's Marina, Nike's harbour is indubitably the second busiest port in the world. Notably, Nike' harbour serves as a much needed rest point for ships going to and coming from the Savage Frontier and the Shattered Teeth, and serves as an ingress for trade flowing north to south. 
+
 ## Transportation
 Like most cities, public transportation was available throughout the city, although nobles and people of high import often travelled privately. Public transportation options included drays, hire-coaches and carriages.
 
@@ -85,7 +87,6 @@ In Nike, the River Tigris cuts across the city; as such, water transportation li
 While a majority of the cities in the Republic were not walled, those that were had living walls. Rather than stacking bricks, Republic builders used Ether and fae magic to feed the earth, coaxing a continuous ridge of white marble from the ground. The walls, if breached, released a sap in a pressurized spray that could temporarily paralyzed attackers. If given enough time, the walls were also capable of self-repair.
 
 Serving complementary to the Legion was the Nikean Cavalry, warriors mounted on massive elks and stags that would that provided support, scouting and flanking to the heavy infantry. In combat formations, they would serve as flank guards or pursuit forces. 
-
 
 ## Points of Interest
 - The Colosseum

@@ -65,8 +65,7 @@ In 754 AY, after the entry of Ophidia liberated Republic-occupied cities and the
 In 755 AY, the combined might of the Alastians, the Ophidians and Clan Ladon defeats the Imperator outside [[2. The World/Locations/Syllamere\|Syllamere]]. Following Cer'Dorei's surrender, peace talks began shortly after in the city of Caliburn's Rock. To prevent a future war, a Concord was reached: the nations would form a combined [[2. The World/Locations/The Victorian Empire\| Victorian Empire]] under [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]. Imperial power would be rotated amongst the nations, and laws of succession were crystallized to ensure smooth transition of power. The capital was selected to be Caliburn's Rock for its strategic maritime value but renamed to Leonitar to promote equal ownership of the capital amongst the nations.  Leadership of the Alastian state was passed to the newly formed [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], while the Queen of Alastia Victoria Parcival became the first Empress of the Victorian Empire.
 
 ## Trade
-This is a placeholder. 
-
+As
 ## Transportation
 Placeholder
 
