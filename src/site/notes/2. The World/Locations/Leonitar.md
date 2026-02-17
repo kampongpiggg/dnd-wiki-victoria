@@ -82,7 +82,7 @@ Leonitar has several armed forces to keep the peace throughout the city. The Cit
 
 However, being the seat of imperial power, the Emperor's royal guards - the [[2. The World/Organisations/The Victorian Revolutionary Guard\| Victorian Revolutionary Guard ]] - also operate in the city. They are less concerned with the day-to-day problems of the city, and more focused on protection of the city and the royal Emperor. As an elite unit of spellcasters and martials, they are also often deployed to different parts of the Empire to deal with extraordinary threats.
 
-There were also a large amount of mercenary companies for hire within the city; Leonitar also benefited an unusually large native population of adventurers who were often more than willing to deal with any threats to their home cities.
+There were also a large amount of mercenary companies for hire within the city; Leonitar also benefited an unusually large native population of adventurers who were often more than willing to deal with any threats to their home city.
 
 The city is walled to the north to prevent a land assault, with arcane ballistae and cannons mounted upon its high brick walls. To its south, the Bay of Lions is defended by the Empire's Navy. Arcane traps, set in the bottom of the bay, can also be activated to repel a naval assault.
 
