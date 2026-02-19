@@ -38,7 +38,7 @@
 > Exports | Grain, livestock, dyes, wine|
 > Imports | Grain, livestock, leather goods, ceramics |
 
-**Syllamere** was a large border town in [[2. The World/Locations/The Cer'Dorei Republic\|The Cer'Dorei Republic]], most famous for its heritage as the site of defeat of the [[2. The World/People/Julian Yaeldrin\| Imperator Julian Yaeldrin]] at the end of [[2. The World/History/The Sundering War\| The Sundering War]]. 
+**Syllamere** was a large border town in [[2. The World/Locations/The Cer'Dorei Republic\|The Cer'Dorei Republic]], most famous for its heritage as the site of defeat of the [[2. The World/People/Julian Yaeldrin\| Imperator Julian Yaeldrin]] at the end of [[2. The World/History/The Sundering War\| The Sundering War]] by [[2. The World/People/Victoria Parcival\|General Victoria Parcival]].
 
 ## Description
 Filled with sprawling villas, amphitheaters and symmetrical plazas, Syllamere's beauty was not uncommon in the Republic. Beautifully decorated marble colonnades adorned buildings, a graceful and elegant display of the signature staple in Cer'Dorei design.
