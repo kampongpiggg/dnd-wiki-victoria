@@ -41,7 +41,7 @@ In general, the Reach can be divided into two regions: the Scorching Sands is a 
 
 Wildlife roam freely in the Reach, and greatly differs in location. Camels, meerkates and snakes can be found commonly in the Sands, but the most dangerous is the Dunewinder - huge, monstrous sandworms that move about under the desert. In the Jungle, displacer beasts and owlbears hunt for prey.
 
-To the north, the Reach is bordered by the Cer'Dorei Republic, and freezing winter wastelands known only as the Savage Frontier.
+To the north, the Reach is bordered by the Cer'Dorei Republic, and freezing winter wastelands known only as the Blasted Waste.
 
 ## Government
 As a political entity, Clan Ladon serves as the rulers of the Reach, under the leadership of the War Chief Hralvok. Having absorbed many of the smaller clans during the Sundering War, Clan Ladon is also the largest tribe in the Reach.
