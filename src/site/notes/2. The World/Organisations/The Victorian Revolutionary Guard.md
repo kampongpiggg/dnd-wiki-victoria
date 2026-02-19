@@ -11,25 +11,31 @@
 > ---|---|
 > Bases of Operation | Leonitar |
 > Race | Human, elves, half-elves, half-orcs |
-> Members | Lord Commander Otto Einsensturm · Dame Brienne Tarth · Dame Thaisha Fang · Dame Naradriel Silverhand · Sir Maladark Blade · Sir Lucan Rothenel · Sir Rendar Bolt |
+> Leader | Lord Commander Otto Einsensturm |
 
-
-However, being the seat of imperial power, the Emperor's royal guards - the [Victorian Revolutionary Guard](app://obsidian.md/Organisations/The%20Victorian%20Revolutionary%20Guard) - also operate in the city. They are less concerned with the day-to-day problems of the city, and more focused on protection of the city and the royal Emperor. As an elite unit of spellcasters and martials, they are also often deployed to different parts of the Empire to deal with extraordinary threats.
-
-Additionally, the Emperor's royal guards - [[2. The World/Organisations/The Victorian Revolutionary Guard\|The Victorian Revolutionary Guard]] - also operate in the kingdom, although they primarily keep their operations within the capital city. Their chief responsibility is the protection of the capital and the Emperor, but can often be deployed to different parts of the Empire to deal with extraordinary threats. 
+The **Victorian Revolutionary Guard** are the royal guards of the [[2. The World/People/The Victorian Emperor\| Emperor]]. They are charged with a dual mandate - the protection of the Concord, above all else, and the protection of the Emperor. Their armor, often customized to the individual knight, is stylized in white and gold. As an elite unit of spellcasting martials, they are also often deployed to different parts of the Empire to deal with extraordinary threats.
 
 ## History
+Founded after [[2. The World/History/The Sundering War\|The Sundering War]], the Revolutionary Guard was founded to protect the delicate peace brought about by the Concord. They also have a secondary mandate to serve as the Emperor's guards. As of 790 AY, there are about 150 knights in their service.
 
-Initially vassal houses of the Victorians,
+Although they are headquartered in [[2. The World/Locations/Leonitar\|Leonitar]], they are generally unconcerned with the daily problems of the city, preferring to leave such matters to the jurisdiction of the City Watch. 
 
-## Activities
+## Organizational Structure
+In peacetime, the Revolutionary Guard is charged with the protection of the Concord and the Emperor; on a daily basis, this entails training recruits, commanding and staffing Imperial garrisons throughout the continent, investigating potential threats to the Concord and the protection of the Emperor.
 
-This is a placeholder.
+In war, the Guard is expected to command the levied Imperial forces against rebelling nation states. They also to coordinate between participating national forces.
 
-## Relationships
+To facilitate this, the Lord Commander - usually a sitting member of the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] - oversees the many garrisons and branches of the Imperial Army. The Army is made up of three branches:
+- Recruiting and Training.
+- Garrison Defense
+- Intelligence
 
-This is a placeholder.
 
 ## Notable Members
-
-This is a placeholder.
+- Lord Commander Otto Einsensturm
+- Dame Brienne Tarth
+- Dame Thaisha Fang
+- Dame Naradriel Silverhand
+- Sir Maladark Blade
+- Sir Lucan Rothenel
+- Sir Rendar Bolt

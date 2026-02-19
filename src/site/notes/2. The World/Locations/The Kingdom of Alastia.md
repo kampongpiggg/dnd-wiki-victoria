@@ -78,7 +78,7 @@ A network of stone-paved roads connected the cities of Alastia. While nobles and
 ## Defenses
 Aside from the local City Watch to enforce the will of the governing authority, Alastia is also home to the Imperial Army. With the unmistakable blue-and-yellow standard, this was the army formed from the levied militaries of the nations of the Concord. Training for the Imperial Army is generally carried ou in Alastia; thereafter, the army would be sent to various outposts throughout the land to keep the peace. Used primarily for deterrence, the Army act on the orders of the Emperor and would be used against any nation who breaks the Concord.
 
-Additionally, the Emperor's royal guards - [[2. The World/Organisations/The Victorian Revolutionary Guard\|The Victorian Revolutionary Guard]] - also operate in the kingdom, although they primarily keep their operations within the capital city. Their chief responsibility is the protection of the capital and the Emperor, but can often be deployed to different parts of the Empire to deal with extraordinary threats. 
+Additionally, the Emperor's royal guards - [[2. The World/Organisations/The Victorian Revolutionary Guard\|The Victorian Revolutionary Guard]] - also operate in the kingdom, although they primarily keep their operations within the capital city. Their chief responsibility is the protection of the Concord and the Emperor, but can often be deployed to different parts of the Empire to deal with extraordinary threats. 
 
 ## Points of Interest
 - [[2. The World/Locations/Leonitar\|Leonitar]]

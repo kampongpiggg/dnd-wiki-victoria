@@ -78,9 +78,9 @@ While nobles and people of high import often travelled privately, public transpo
 - Carriages were luxury vehicles that could accommodate up to 8 passengers comfortably; prices varied, but usually these vehicles were hired for the whole day. Depending on the luxury level of the carriage, these vehicles could fetch anywhere from 10 to 100 gold.
 
 ## Defenses
-Leonitar has several armed forces to keep the peace throughout the city. The City Watch was the local police force, serving as a constabulary within the city with powers of arrest over its citizens. They were commanded by the Sightwarden, typically appointed by the Chamber. 
+Leonitar has several armed forces to keep the peace throughout the city. The City Watch was the local police force, serving as a constabulary within the city with powers of arrest over its citizens. They were commanded by the Warden, typically appointed by the Chamber. 
 
-However, being the seat of imperial power, the Emperor's royal guards - the [[2. The World/Organisations/The Victorian Revolutionary Guard\| Victorian Revolutionary Guard ]] - also operate in the city. They are less concerned with the day-to-day problems of the city, and more focused on protection of the city and the royal Emperor. As an elite unit of spellcasters and martials, they are also often deployed to different parts of the Empire to deal with extraordinary threats.
+However, being the seat of imperial power, the Emperor's royal guards - the [[2. The World/Organisations/The Victorian Revolutionary Guard\| Victorian Revolutionary Guard ]] - also operate in the city. They are less concerned with the day-to-day problems of the city, and more focused on protection of the Concord and the royal Emperor. As an elite unit of spellcasting martials, they are also often deployed to different parts of the Empire to deal with extraordinary threats.
 
 There were also a large amount of mercenary companies for hire within the city; Leonitar also benefited an unusually large native population of adventurers who were often more than willing to deal with any threats to their home city.
 

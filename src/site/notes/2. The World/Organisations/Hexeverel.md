@@ -25,9 +25,10 @@ Founded by six great wizards, the Hexeverel drove the rapid development of scien
 Following the unification of the continent after the Sundering War, it is common that a member of the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]] would serve as Dean.
 
 ## Notable Members
-- Dean Godric Hercinil
-- Dean Salazar Aqrabus
-- Dean Rowena Messanteu
-- Dean Helga Chimeron
-- Dean Arthur Eggford
-- Dean Isaac Newton
+- Founder Godric Hercinil
+- Founder Salazar Aqrabus
+- Founder Rowena Messanteu
+- Founder Helga Chimeron
+- Founder Arthur Eggford
+- Founder Isaac Newton
+- Dean Grace
