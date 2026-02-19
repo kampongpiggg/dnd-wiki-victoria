@@ -26,16 +26,16 @@ In peacetime, the Revolutionary Guard is charged with the protection of the Conc
 In war, the Guard is expected to command the levied Imperial forces against rebelling nation states. They also to coordinate between participating national forces.
 
 To facilitate this, the Lord Commander - usually a sitting member of the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] - oversees the many garrisons and branches of the Imperial Army. The Army is made up of three branches:
-- Recruiting and Training.
-- Garrison Defense
-- Intelligence
+- The Cadet Corps is responsible for the recruitment and training of the soldiers that would join the Revolutionary Guard. They are led by the Chief Instructor, Dame Brienne Tarth.
+- The Castellanate commands the Imperial Army garrisoned throughout the continent. While their primary responsibility is to defend against threats to the Concord and the Emperor, often in the form of insurrections and rebellions, sometimes they lend the strength of the Imperial Army to deal with problems locally, such as monsters terrorizing a village or a horde of undead marching on a town. Each garrison is commanded by a Castellan, who reports directly to the Lord Commander.
+- The Eyes of the Emperor is the investigative and intelligence branch of the Guard, often tasked with investigating plots or mysteries that could potentially threaten the Concord. They are led by the Sightwarden, Sir Maladark Blade.
 
 
 ## Notable Members
 - Lord Commander Otto Einsensturm
+- Sir Maladark Blade
 - Dame Brienne Tarth
 - Dame Thaisha Fang
 - Dame Naradriel Silverhand
-- Sir Maladark Blade
 - Sir Lucan Rothenel
 - Sir Rendar Bolt
