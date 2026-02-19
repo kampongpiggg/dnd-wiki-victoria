@@ -52,7 +52,7 @@ The entry of Ophidia turns the tide of the war; the combined coalition force lib
 
 ##  The Fall of the Dowager Queen
 ![war_five_queens.jpg](/img/user/z_Attachments/war_five_queens.jpg)
-Now on the cusp of victory, the Dowager Queen vowed to lead the final assault into the Republic; she mustered her forces, placing them under the command of [[2. The World/People/Victoria Parcival\| General Victorian Parcival]], and began the march on Cer'Dorei. While they win battles and territories along the way, the Dowager Queen only made it halfway before she took ill. Unbeknownst to her, she had been poisoned gradually by her vassal house - the Tychonis - who wanted to install a new leader that was less paranoid and aggressive. When she dies along the journey, the war council crowns Victoria as her replacement. 
+Now on the cusp of victory, the Dowager Queen vowed to lead the final assault into the Republic; she mustered her forces, placing them under the command of [[2. The World/People/Victoria Parcival\| General Victorian Parcival]], and began the march on Cer'Dorei. While they win battles and territories along the way, the Dowager Queen only made it halfway before she took ill. Unbeknownst to her, she had been poisoned gradually by her vassal house - the Luxjaro - who wanted to install a new leader that was less paranoid and aggressive. When she dies along the journey, the war council crowns Victoria as her replacement. 
 
 The war finally comes to a brutal end in 755 AY, as the combined might of the Alastians, the Ophidians and Clan Ladon defeats the Imperator in the field outside of [[2. The World/Locations/Syllamere\|Syllamere]]. It is estimated that the Sundering War wiped out 30 to 45% of the population on the Leucaria continent.
 
