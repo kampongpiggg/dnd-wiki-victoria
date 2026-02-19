@@ -13,7 +13,7 @@
 > Race | Human, elves, half-elves, half-orcs |
 > Leader | Lord Commander Otto Einsensturm |
 
-The **Victorian Revolutionary Guard** are the royal guards of the [[2. The World/People/The Victorian Emperor\| Emperor]]. They are charged with a dual mandate - the protection of the Concord, above all else, and the protection of the Emperor. Their armor, often customized to the individual knight, is stylized in white and gold. As an elite unit of spellcasting martials, they are also often deployed to different parts of the Empire to deal with extraordinary threats.
+The **Victorian Revolutionary Guard** are the royal guards of the [[2. The World/People/The Victorian Emperor\| Emperor]]. They are charged with a dual mandate - the protection of the Concord, above all else, and the protection of the Emperor. Their armor, often customized to the individual knight, is stylized in white and gold. As an elite unit of spellcasting martials, they are also often deployed to different parts of [[2. The World/Locations/The Victorian Empire\| Empire]] to deal with extraordinary threats.
 
 ## History
 Founded after [[2. The World/History/The Sundering War\|The Sundering War]], the Revolutionary Guard was founded to protect the delicate peace brought about by the Concord. They also have a secondary mandate to serve as the Emperor's guards. As of 790 AY, there are about 150 knights in their service.
