@@ -43,9 +43,13 @@ An incredibly diverse land, the Empire is made up of five smaller nation states.
 Each entity oversaw regional economy, maintained security, performed diplomacy and kept law and order. They hold ultimate legal authority in their states, but all entities are under the authority of the Emperor.
 
 ## History
-After the Sundering War led to the deaths of a third of life on the Leucaria continent, 
+After the Sundering War led to the deaths of a third of life on the Leucaria continent, the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] proposed the Concord: a peace treaty born from the formation of a continent-wide Empire. All the nations would combine to form a unified Empire, under the command of [[2. The World/People/The Victorian Emperor\| The Victorian Emperor]].
 
+Firstly, power over the Empire would be rotated amongst the nations; control of the throne as the Emperor would be seen as a service and duty to lead the Empire, instead of a position for absolute control. This prompted new laws for succession - imperial power would not be isolated within specific bloodlines, but instead passed on by selection from the previous Emperor. Several legal restrictions were imposed on who could be selected to inherit the throne - candidates selected must be a current, sovereign ruler of one of the nations in the Empire, no child of an Emperor is eligible, and no citizen of the current Emperor's nation is eligible.
 
+Second, each nation would levy 30% of their taxes and 50% of their armies to the Empire to not only bolster rebuilding the war-torn areas and recovery of the people but keep continental peace from lingering tensions and rising crime. This was also done to ensure no other nation would go to war with another again, as they would face the combined might of the other four states.
+
+After the terms of the Concord was ratified, the nations united under the blue-and-yellow banner of the Empire. The Empire was subsequently named after its first Emperor, the hero of the Concord, General Victoria Parcival.
 
 ## Points of Interest
 - [[2. The World/Locations/Leonitar\|Leonitar]]
