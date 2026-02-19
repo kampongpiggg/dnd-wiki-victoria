@@ -49,7 +49,7 @@ Firstly, power over the Empire would be rotated amongst the nations; control of 
 
 Second, each nation would levy 30% of their taxes and 50% of their armies to the Empire to not only bolster rebuilding the war-torn areas and recovery of the people but keep continental peace from lingering tensions and rising crime. This was also done to ensure no other nation would go to war with another again, as they would face the combined might of the other four states.
 
-After the terms of the Concord was ratified, the nations united under the blue-and-yellow banner of the Empire. The Empire was subsequently named after its first Emperor, the hero of the Concord, General Victoria Parcival. With her leadership, the continent enjoyed 35 years of peace and prosperity.
+After the terms of the Concord was ratified, the nations united under the blue-and-yellow banner of the Empire. The Empire was subsequently named after its first Emperor, the hero of the Concord, [[2. The World/People/Victoria Parcival\| General Victoria Parcival]]. With her leadership, the continent enjoyed 35 years of peace and prosperity.
 
 ## Points of Interest
 - [[2. The World/Locations/Leonitar\|Leonitar]]
