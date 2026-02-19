@@ -23,6 +23,8 @@
 > Alignment | Lawful Good |
 > Class | Fighter |
 
+General **Victoria Parcival** was a leader in the Alastian army and the first [[2. The World/People/The Victorian Emperor\| Victorian Emperor]].
+
 ## Profile
 
 This is a placeholder.
