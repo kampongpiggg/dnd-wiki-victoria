@@ -29,5 +29,5 @@ Following the unification of the continent after the Sundering War, it is common
 - Dean Salazar Aqrabus
 - Dean Rowena Messanteu
 - Dean Helga Chimeron
-- Dean Arthur Aguefort
+- Dean Arthur Eggford
 - Dean Isaac Newton
