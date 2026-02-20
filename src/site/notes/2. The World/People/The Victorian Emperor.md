@@ -18,4 +18,4 @@
 The **Victorian Emperor** is the monarch and head-of-state of [[2. The World/Locations/The Victorian Empire\|The Victorian Empire]]. They are charged with the leadership of the Concord, wielding supreme political authority over all five nations of the Concord. They direct imperial policies, enact imperial laws and enforce them through the command of the Imperial Army. They sit on the Concordant Throne in the capital city of [[2. The World/Locations/Leonitar\|Leonitar]], in the royal palace of Castle Lazuli.
 
 # Titles
-The title of Emperor often comes with 
+The title of Emperor simultaneously possesses the title of 
