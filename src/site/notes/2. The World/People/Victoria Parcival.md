@@ -17,7 +17,7 @@
 > Race | Human |
 > Age | 80 |
 > Condition | Healthy |
-> Titles | Healthy |
+> Titles | Concordant Emperor of the Nations of Victoria · Guardian of the Realm · Architect of the Concord · Bolt of Coatlan · Valkyrie of Syllamere · Victor of the Sundering War |
 > ###### Rules Info
 > Info | Description |
 > ---|---|

@@ -30,3 +30,12 @@ The titles of the first Victorian Emperor, General [[2. The World/People/Victori
 5. The Valkyrie of Syllamere,
 6. Victor of the Sundering War
 
+# Succession
+Laws of imperial succession were enacted during the creation of the Concord to ensure a smooth transition of power and foster continental unification and recovery after the war. 
+
+Control of the Empire is seen as a service and duty to the people, which is then rotated amongst the nations. The Emperor chooses who succeeds them, subject to the following rules:
+1. The successor must be chosen from a current, sovereign ruler of one of the nations in the Empire,
+2. The successor cannot be a citizen from the current Emperor's nation,
+3. The successor cannot be a child of an Emperor.
+
+An heir must always be named, in the event of a sudden or untimely death. The current inheritor named is the Archmage Grace of the Ring of Gold, Dean of the Hexeverel.
