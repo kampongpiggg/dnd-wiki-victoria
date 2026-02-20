@@ -23,3 +23,5 @@ After the [[2. The World/History/Attack on the Kryn Ward\|Attack on the Kryn War
 The entry of Ophidia into the Sundering War facilitated in the liberation of Ryoko and Coatlan as Republic and Assembly forces were pushed out from the cities they were occupying. In spite of this massive victory, Alastia and Ophidia had insufficient forces for a counteroffensive. In response, the Ring of Gold approved for [[2. The World/Organisations/Force Grey\|Force Grey]] to scout behind enemy lines and identify high-value sites for a simultaneous assault to criple Rarquet and Cer'Dorei.
 
 After the successful execution of [[2. The World/History/Operation Chisel\|Operation Chisel]], the Ring of Gold sent Force Grey to lead their army in the march towards Cer'Dorei as they set their sights on [[2. The World/Locations/Syllamere\| a final counteroffensive]].
+
+## Membership and Appointment

@@ -30,10 +30,3 @@ After his death, Khan the Younger surrendered and began rebuilding the Senate. H
 Members of the Senate were appointed in a hybrid, largely democractic fashion. Popular consensus appointed 80 seats, while high-ranking magistrates and aristocratic nobles appointed the other 20. Senate membership is for life, ensuring continuity and longevity of vision for the governance of the Republic.
 
 Debates were held in order of seniority. After all members have had an opportunity to speak, a vote would be called, often done via voice or a show of hands.
-
-
-## Notable Members
-- Julian Yaeldrin (deceased)
-- Pompeia Ganamede (formerly, currently missing)
-- Khan the Younger
-- Aelwyn Alarion
