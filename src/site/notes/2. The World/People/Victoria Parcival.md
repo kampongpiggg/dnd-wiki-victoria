@@ -17,6 +17,7 @@
 > Race | Human |
 > Age | 80 |
 > Condition | Healthy |
+> Titles | Healthy |
 > ###### Rules Info
 > Info | Description |
 > ---|---|
