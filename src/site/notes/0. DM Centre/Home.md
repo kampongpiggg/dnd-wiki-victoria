@@ -11,14 +11,14 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 
 # The Party
 
-| Character Name  | Species  | Class (Subclass)              | Player    |
-| --------------- | -------- | ----------------------------- | --------- |
-| Lived Amadeus   | Wood Elf | Rogue (Swashbuckler)          | Alexia    |
-| Wukong          | Simian   | Paladin (Oath of Glory)       | Brian     |
-| Raphael Antarra | Human    | Sorcerer (Aberrant Mind)      | Peng Hong |
-| Wang Lei        | Human    | Paladin (Oath of Prosperity)  | Shao Ping |
-| Hazel           | Harengon | Cleric (Trickery Domain)      | Siew Han  |
-| Albus Potter    | Human    | Wizard (School of Abjuration) | Xian Hao  | 
+| Character Name  | Species  | Class (Subclass)              | Background | Player    |
+| --------------- | -------- | ----------------------------- | ---------- | --------- |
+| Lived Amadeus   | Wood Elf | Rogue (Swashbuckler)          | Noble      | Alexia    |
+| Wukong          | Simian   | Paladin (Oath of Glory)       | Charlatan  | Brian     |
+| Raphael Antarra | Human    | Sorcerer (Aberrant Mind)      | Noble      | Peng Hong |
+| Wang Lei        | Human    | Paladin (Oath of Prosperity)  | Soldier    | Shao Ping |
+| Hazel           | Harengon | Cleric (Trickery Domain)      | Guide      | Siew Han  |
+| Albus Potter    | Human    | Wizard (School of Abjuration) | Noble      | Xian Hao          |
 # The World
 
 ![../z_Attachments/The Known World.jpg](/img/user/z_Attachments/The%20Known%20World.jpg)
