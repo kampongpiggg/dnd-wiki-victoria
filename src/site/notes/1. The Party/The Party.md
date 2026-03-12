@@ -80,7 +80,7 @@ Being a member of the Ring of Silver, Salazar comes into contact with other nobl
 This is a placeholder.
 
 ###### Character Details
-![](https://i.imgur.com/U0sO2As.jpeg)
+![](https://i.imgur.com/ds4mxgb.jpeg)
 
 ### Sidekicks
 ![](https://1drv.ms/i/c/e626d77259d66621/IQTMOle_87ScTqwok2ax5Ny0AVp3MLLHYXWn7vg5As2xlhI)
