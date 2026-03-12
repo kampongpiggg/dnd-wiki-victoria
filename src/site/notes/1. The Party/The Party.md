@@ -28,6 +28,8 @@ A member of House Antarra, one of the six noble sorcerous houses that make up th
 
 Rumor has it that there is an informal competition amongst the scions, who are now racing against one another for the right of succession. For those in the business of knowing such matters, Raphael can be said to be firmly in the lead. 
 
+As part of his normal duties with the Chamber of Lords-Advisory, he was recently sent to negotiate a tripartite trade agreement between Alastia, Ophidia and Cer'Dorei on mining in the Russett Jungle. This effort was led by himself, Vilde Amadeus of the Cervine Senate, and Salazar Black of the Ring of Silver. 
+
 ###### Personality
 Raphael is driven to fulfil his family's mysterious mission, and is under tremendous pressure to do so. After all, none of the others in contention for succession were part of the "Golden Cohort" - the colloquial term used to refer to the most talented group of sorcerers the Society of the Six ever produced. 
 
@@ -42,7 +44,7 @@ Wang Lei should not be alive. Abandoned in the Russett Jungles when he was a lit
 
 With his natural talents, and under the rigorous guidance from his foster father, Wang Lei enlisted in the Victorian Revolutionary Guard and climbed the ranks at an astounding pace. By 16, he earned the rank of a Lietenant, becoming Deputy Commander of Summer's Outpost under his father. During this time, while training in the Jungle, he found a tiger cub, who had similarly been orphaned by the cruelty of the world. As his foster father once did, Wang Lei took the cub in and trained it.
 
-Now, Wang Lei and his tiger, lead the charge into the heart of the Jungle. To keep the Empire safe, they hunt the monsters in the treeline and civilize the wild for travelers. As part of his duties, Wang Lei frequently hired Hazel to track and capture brigands and bandits in the forest. Lately, the two of them have been tracking a charlatan, known only as the Monkey King, who has been pulling off small cons in Coatlan.
+Now, Wang Lei and his tiger, lead the charge into the heart of the Jungle. To keep the Empire safe, they hunt the monsters in the treeline and civilize the wild for travelers. As part of his duties, Wang Lei would frequently hire Hazel to track and capture brigands and bandits in the forest. Lately, the two of them have been tracking a charlatan, known only as the Monkey King, who has been pulling off small cons in Coatlan.
 
 ###### Personality
 Unlike traditional knights, Wang Lei is much more easygoing. Coming from a small town, camaraderie is something he holds dearly. He prefers to lead with humor and honesty, which earned him the respect of his subordinates. He communicates openly and directly, which is both a strength in leadership but a flaw in politics. 
@@ -56,7 +58,7 @@ Born into a family of guides in the warrens of the Russett Jungle, Hazel has nev
 
 After reaching maturity, she has been plying her family's trade as a forest guide. However, the Graying, a wasting disease afflicting everyone who's ever been raised from the dead, has  severely reduced tourism in the Jungle as much of the previous demographic consisted of adventurers seeking quests. This has compelled Hazel to head further and further from her warren, bringing her into contact with citizens of other nations. 
 
-Sir Wang Lei, Deputy Castellan of Summer's Outpost and Lieutenant of the Imperial Army garrisoned in the Jungle, frequently hired Hazel to track and capture brigands and bandits in the forest. Lately, the two of them have been tracking a charlatan, known only as the Monkey King, who has been pulling off small cons in Coatlan.
+In partnership with the Imperial Army, Hazel would often work with Sir Wang Lei, Deputy Castellan of Summer's Outpost and Lieutenant of the Imperial Army garrisoned in the Jungle, to track and capture brigands and bandits in the forest. Lately, the two of them have been tracking a charlatan known for pulling off small cons in Coatlan known only as the Monkey King.
 
 ###### Personality
 Hazel is cocksure; despite being bad at navigation, she is strangely unaware of her own failings and has unfounded confidence in her own pathfinding abilities.
