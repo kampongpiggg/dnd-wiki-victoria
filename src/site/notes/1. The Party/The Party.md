@@ -5,36 +5,52 @@
 
 
 ### Alexia
-![](https://1drv.ms/i/c/e626d77259d66621/IQTdunXohD9_QbzUYdeBwXtoAdqEiAXNGFdRlvKQPU_I8yY?width=2676&height=3205)
+###### Biography
+This is a placeholder. 
+
+###### Personality
+This is a placeholder. 
+
+###### Character Details
+![](https://i.imgur.com/KJxJYFk.jpeg)
 
 ### Brian
-![](https://1drv.ms/i/c/e626d77259d66621/IQTdunXohD9_QbzUYdeBwXtoAdqEiAXNGFdRlvKQPU_I8yY?width=2676&height=3205)
+###### Biography
+This is a placeholder.
+###### Personality
+This is a placeholder.
+###### Character Details
+![](https://i.imgur.com/LakFNZq.jpeg)
 
 ### Peng Hong is Raphael Antarra, Scion of House Antarra
-###### Personality
-Raphael is driven to fulfil his family's mysterious mission, and is under tremendous pressure to do so. After all, none of the others in contention for succession were part of the "Golden Cohort" - the colloquial term used to refer to the most talented group of sorcerers the Society of the Six ever produced. 
-
-To that end, he understands that leadership requires power. Not just magical prowess or organizational competence, but the power of secrets and information often wielded in noble circles. He takes his mission seriously, and would plan for the most effective solution before acting.
-
 ###### Biography
 A member of House Antarra, one of the six noble sorcerous houses that make up the Chamber of Lords-Advisory, Raphael is one of four scions slated to inherit leadership of the family. Although the source of their psionic power remains a mystery, even amongst the nobles of Alastia, scholars and priests alike agree that there is an undeniable alien presence in their bloodline. 
 
 Rumor has it that there is an informal competition amongst the scions, who are now racing against one another for the right of succession. For those in the business of knowing such matters, Raphael can be said to be firmly in the lead. 
 
+###### Personality
+Raphael is driven to fulfil his family's mysterious mission, and is under tremendous pressure to do so. After all, none of the others in contention for succession were part of the "Golden Cohort" - the colloquial term used to refer to the most talented group of sorcerers the Society of the Six ever produced. 
+
+To that end, he understands that leadership requires power. Not just magical prowess or organizational competence, but the power of secrets and information often wielded in noble circles. He takes his mission seriously, and would plan for the most effective solution before acting.
+
 ###### Character Details
-![](https://i.imgur.com/IHUweQA.jpeg)
+![](https://i.imgur.com/sWEsfIh.jpeg)
 
 ### Shao Ping
-![](https://1drv.ms/i/c/e626d77259d66621/IQTdunXohD9_QbzUYdeBwXtoAdqEiAXNGFdRlvKQPU_I8yY?width=2676&height=3205)
+###### Biography
+Wang Lei should not be alive. Abandoned in the Russett Jungles when he was a little boy, the fact that he is is nothing short of a miracle. He was fortunately found by Castellan Raimond, commander of the Imperial forces in the Jungle and leader of Summer's Outpost, who took him in and raised him as his own. 
 
-### Siew Han is Hazel, a Guide of the Russett Jungle
+With his natural talents, and under the rigorous guidance from his foster father, Wang Lei enlisted in the Victorian Revolutionary Guard and climbed the ranks at an astounding pace. By 16, he earned the rank of a Lietenant, becoming Deputy Commander of Summer's Outpost under his father. During this time, while training in the Jungle, he found a tiger cub, who had similarly been orphaned by the cruelty of the world. As his foster father once did, Wang Lei took the cub in and trained it.
+
+Now, Wang Lei and his tiger, lead the charge into the heart of the Jungle. To keep the Empire safe, they hunt the monsters in the treeline and civilize the wild for travelers. As part of his duties, Wang Lei frequently hired Hazel to track and capture brigands and bandits in the forest. Lately, the two of them have been tracking a charlatan, known only as the Monkey King, who has been pulling off small cons in Coatlan.
+
 ###### Personality
-Hazel is cocksure; despite being bad at navigation, she is strangely unaware of her own failings and has unfounded confidence in her own pathfinding abilities.
+Unlike traditional knights, Wang Lei is much more easygoing. Coming from a small town, camaraderie is something he holds dearly. He prefers to lead with humor and honesty, which earned him the respect of his subordinates. He communicates openly and directly, which is both a strength in leadership but a flaw in politics. 
 
-While she occasionally prioritizes herself over others, Hazel is often happy to lend a hand in times of need. She has a tic of gnawing on her paw pads, particularly when she's nervous.
+###### Character Details
+![](https://i.imgur.com/TpWhFM5.jpeg)
 
-Having no formal arcane education or magical training, she is insecure in her clerical abilities and often refers to her gifts as "little tricks."
-
+### Siew Han is Hazel, a Naive Guide of the Russett Jungle
 ###### Biography
 Born into a family of guides in the warrens of the Russett Jungle, Hazel has never left the ambit of her local forest. As a kit, she discovered the Grimoire of the Mad Hatter in an abandoned hollow near her den. Having pored through the Grimoire, she has gained the ability to manifest magic and cast basic spells through natural talent without any classical training.
 
@@ -42,8 +58,29 @@ After reaching maturity, she has been plying her family's trade as a forest guid
 
 Sir Wang Lei, Deputy Castellan of Summer's Outpost and Lieutenant of the Imperial Army garrisoned in the Jungle, frequently hired Hazel to track and capture brigands and bandits in the forest. Lately, the two of them have been tracking a charlatan, known only as the Monkey King, who has been pulling off small cons in Coatlan.
 
-### Xian Hao
-![](https://1drv.ms/i/c/e626d77259d66621/IQTdunXohD9_QbzUYdeBwXtoAdqEiAXNGFdRlvKQPU_I8yY?width=2676&height=3205)
+###### Personality
+Hazel is cocksure; despite being bad at navigation, she is strangely unaware of her own failings and has unfounded confidence in her own pathfinding abilities.
 
-### Sidekick?
+While she occasionally prioritizes herself over others, Hazel is often happy to lend a hand in times of need. She has a tic of gnawing on her paw pads, particularly when she's nervous.
+
+Having no formal arcane education or magical training, she is insecure in her clerical abilities and often refers to her gifts as "little tricks."
+
+###### Character Details
+![](https://i.imgur.com/qWSv00Y.jpeg)
+
+### Xian Hao is Salazar Black, Amnesiac Member of the Ring of Silver
+###### Biography
+Salazar Black is an amnesiac; he does not remember anything about his past. His first memory was waking up in the streets of Leonitar. Hungry and alone, he started wandering around the city, eventually chancing upon a young boy cast a *Prestidigitation* spell to sell his parents' wares. This sparked in him a desire to learn magic. When he turned up at the grounds of the Hexeverel he met Professor Hermione McGonagall, a powerful wizard who convinced the prestigious university to take him in despite him having absolutely nothing to his name.
+
+Seven years later, Salazar Black graduated with flying colors. His prodigious talent in the arcane arts earned him an invitation to the Ring of Silver, an offer he accepted almost instantaneously. He believes that the secrets to unlocking his memories lie in the restricted sections of the Ophidian Lyceum, and will do whatever it takes to regain his memories.
+
+Being a member of the Ring of Silver, Salazar comes into contact with other nobles regularly. He was recently involved with Vilde Amadeus of the Cervine Senate and Raphael Antarra from the Chamber of Lords-Advisory, as the three worked on a tripartite trade agreement to establish mines in the Russett Jungle. 
+
+###### Personality
+This is a placeholder.
+
+###### Character Details
+![](https://i.imgur.com/U0sO2As.jpeg)
+
+### Sidekicks
 ![](https://1drv.ms/i/c/e626d77259d66621/IQTMOle_87ScTqwok2ax5Ny0AVp3MLLHYXWn7vg5As2xlhI)
