@@ -36,4 +36,9 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 
 - [[2. The World/History/The Timeline\| Timeline]]
 - [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]
+- [[2. The World/People/Victoria Parcival\|Victoria Parcival]]
 - [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]]
+- [[2. The World/Organisations/Ring of Gold\|Ring of Gold]]
+- [[2. The World/Organisations/The High Syndicacy\|The High Syndicacy]]
+- [[2. The World/Organisations/Clan Ladon\|Clan Ladon]]
+- [[2. The World/Organisations/The Cervine Senate\|The Cervine Senate]]
