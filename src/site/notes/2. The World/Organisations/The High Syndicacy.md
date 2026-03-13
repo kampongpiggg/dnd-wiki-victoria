@@ -13,7 +13,7 @@
 > Race | Human |
 > Members | Darius Khorvaire (formerly) · Ovina Torunn (formerly) · Eitri Lancaster |
 
-**The High Syndicacy** were the eight guild leaders who govern [[2. The World/Locations/The Rarquet Assembly\|The Rarquet Assembly]]. They hold court in the High Hall of the Citadel.
+**The High Syndicacy** were the eight guild leaders who govern [[2. The World/Nations/The Rarquet Assembly\|The Rarquet Assembly]]. They hold court in the High Hall of the Citadel.
 
 ## History
 
@@ -21,7 +21,7 @@ During the Alastian succession crisis, the High Syndicacy maintained neutrality,
 
 As [[2. The World/History/The Sundering War\| the Sundering War]] broke out, the guilds of the High Syndicacy began selling arms, armour and automatons, mostly to Alastia. However, on top of that, Chancellor Ovina Torunn had already secured deals with the Republic beforehand, and was thus able to gain an overwhelming market share. As the only guild selling to both sides of the war, the Tin Titans' profits skyrocketed, allowing the Chancellor to gain a majority of the votes. With a dominant amount of power, she became the defacto Rarquet head-of-state.
 
-In 752 AY, Alastia discovered the sale of automatons to Cer'Dorei and denounced Rarquet for profiting off the war. The Dowager Queen refused to buy automatons, a devastating economic blow to the Assembly. In an attempt to draw [[2. The World/Locations/Ophidia\|Ophidia]] into the war to drive sales, Ovina sent her agents Vaxildan and Vexalia into Ophidia, [[2. The World/History/Attack on the Kryn Ward\| bombing the Kryn Ward with a powerful arcane device]].
+In 752 AY, Alastia discovered the sale of automatons to Cer'Dorei and denounced Rarquet for profiting off the war. The Dowager Queen refused to buy automatons, a devastating economic blow to the Assembly. In an attempt to draw [[2. The World/Nations/Ophidia\|Ophidia]] into the war to drive sales, Ovina sent her agents Vaxildan and Vexalia into Ophidia, [[2. The World/History/Attack on the Kryn Ward\| bombing the Kryn Ward with a powerful arcane device]].
 
 While the attack on the Kryn Ward was successful, Vaxildan and Vexalia were apprehended and interrogated. They revealed that their patron - the Chancellor Ovina Torunn - was responsible for the attack, putting a target on Rarquet.
 

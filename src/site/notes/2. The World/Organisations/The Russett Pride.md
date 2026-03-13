@@ -13,7 +13,7 @@
 > Race | Human |
 > Members | Skald Qreqerr |
 
-**The Russett Pride** was a coalition of clans who sought dominion over the [[2. The World/Locations/The Verdant Reach\|The Verdant Reach]]. 
+**The Russett Pride** was a coalition of clans who sought dominion over the [[2. The World/Nations/The Verdant Reach\|The Verdant Reach]]. 
 
 ## History
 After the empowerment of several Alastian houses through cosmic exposure, the Imperator sent out diplomatic envoys to treat with tribes in the Verdant Reach to try and gain an edge in [[2. The World/History/The Sundering War\| the Sundering War]]. 

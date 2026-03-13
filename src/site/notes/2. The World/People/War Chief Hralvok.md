@@ -23,7 +23,7 @@
 > Alignment | True Neutral |
 > Class | Barbarian |
 
-**War Chief Hralvok** is the tribal leader of [[2. The World/Organisations/Clan Ladon\|Clan Ladon]], the current governing body of [[2. The World/Locations/The Verdant Reach\| The Verdant Reach]]. He ascended to his station and unified the Reach during [[2. The World/History/The Sundering War\| the Sundering War]]. 
+**War Chief Hralvok** is the tribal leader of [[2. The World/Organisations/Clan Ladon\|Clan Ladon]], the current governing body of [[2. The World/Nations/The Verdant Reach\|The Verdant Reach]]. He ascended to his station and unified the Reach during [[2. The World/History/The Sundering War\| the Sundering War]]. 
 
 ## Description
 Having descended from black dragons, Hralvok possessed a sharp, elongated snout with black-and-grey toned scales. Heavily muscled with a thick neck and broad chest, Hralvok's massive arms were covered in intricate tribal tattoos.

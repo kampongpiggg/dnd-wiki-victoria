@@ -38,7 +38,7 @@
 > Exports | Grain, livestock, dyes, wine|
 > Imports | Grain, livestock, leather goods, ceramics |
 
-**Syllamere** was a large border town in [[2. The World/Locations/The Cer'Dorei Republic\|The Cer'Dorei Republic]], most famous for its heritage as the site of defeat of the [[2. The World/People/Julian Yaeldrin\| Imperator Julian Yaeldrin]] at the end of [[2. The World/History/The Sundering War\| The Sundering War]] by [[2. The World/People/Victoria Parcival\|General Victoria Parcival]].
+**Syllamere** was a large border town in [[2. The World/Nations/The Cer'Dorei Republic\|../Nations/The Cer'Dorei Republic]], most famous for its heritage as the site of defeat of the [[2. The World/People/Julian Yaeldrin\| Imperator Julian Yaeldrin]] at the end of [[2. The World/History/The Sundering War\| The Sundering War]] by [[2. The World/People/Victoria Parcival\|General Victoria Parcival]].
 
 ## Description
 Filled with sprawling villas, amphitheaters and symmetrical plazas, Syllamere's beauty was not uncommon in the Republic. Beautifully decorated marble colonnades adorned buildings, a graceful and elegant display of the signature staple in Cer'Dorei design.
@@ -64,4 +64,4 @@ The fighting lasted hours; as the sun began its descent, the outcome of the batt
 ## Aftermath
 The battle was the decisive engagement of the six-year long war. Upon the Imperator's defeaat, Pompeia Ganamede called for a ceasefire and surrendered; the Republic Legion was immediately taken as prisoners-of-war. Peace talks began immediately that night, although terms would not be finalized until two weeks later, in [[2. The World/Locations/Leonitar\|Leonitar]].
 
-The peace talks, now known as the Concord, saw the establishment of [[2. The World/Locations/The Victorian Empire\| a new Empire]] with its capital in Leonitar. The sorcerers of Alastia, who moderated the Concord, were subsequently installed as the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] to administer the new capital city.
+The peace talks, now known as the Concord, saw the establishment of [[2. The World/Nations/The Victorian Empire\| a new Empire]] with its capital in Leonitar. The sorcerers of Alastia, who moderated the Concord, were subsequently installed as the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] to administer the new capital city.
