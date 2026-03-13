@@ -3,7 +3,7 @@
 ---
 
 
-A group of unlikely allies, the Party is made up of five heroes who seek to make the world a better place. 
+A group of unlikely allies, the Party is made up of six heroes who seek to make the world a better place. 
 
 ### Alexia is Vilde Amadeus, Rising Daughter of Senator Amadeus
 ###### Biography
