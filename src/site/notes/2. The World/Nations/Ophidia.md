@@ -39,7 +39,7 @@
 > Imports | Grains, livestock, gems, honey, sweet oil, ivory, incense, ore |
 
 
-**Ophidia** is a nation in [[2. The World/Nations/The Victorian Empire\|../Nations/The Victorian Empire]]. Located on the western seaboard, Ophidia is an extremely advanced technological and magical state who often advocates for the freedom of science and the arcane arts. They are ruled by the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]]. 
+**Ophidia** is a nation in [[2. The World/Nations/The Victorian Empire\| The Victorian Empire]]. Located on the western seaboard, Ophidia is an extremely advanced technological and magical state who often advocates for the freedom of science and the arcane arts. They are ruled by the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]]. 
 
 Interestingly, their capital city is also called Ophidia.
 
@@ -63,7 +63,7 @@ A place of enlightenment, Ophidians hold freedom very closely to their hearts. T
 Religion is practiced in the nation, but to an extremely small extent. While not persecuted legally, most citizens see religion as a distraction from learning about the world, and often looked down on those who professed that the gods have all the answers. Thus, worship is often in secret or quiet.
 
 ## History
-During the initial outbreak of [[2. The World/History/The Sundering War\| the Sundering War]], while Ophidia condemned the coup of the Dowager Queen and the subsequent invasion by the Republic, they remained neutral in the war. However, after the [[2. The World/History/Attack on the Kryn Ward\|Attack on the Kryn Ward]] which saw the death of the Archmage [[2. The World/People/Maribel Merewyn\|Maribel Merewyn]], Ophidia decided to enter the war, siding with [[2. The World/Nations/The Kingdom of Alastia\|../Nations/The Kingdom of Alastia]] against [[2. The World/Nations/The Rarquet Assembly\|../Nations/The Rarquet Assembly]] and [[2. The World/Nations/The Cer'Dorei Republic\|../Nations/The Cer'Dorei Republic]]. 
+During the initial outbreak of [[2. The World/History/The Sundering War\| the Sundering War]], while Ophidia condemned the coup of the Dowager Queen and the subsequent invasion by the Republic, they remained neutral in the war. However, after the [[2. The World/History/Attack on the Kryn Ward\|Attack on the Kryn Ward]] which saw the death of the Archmage [[2. The World/People/Maribel Merewyn\|Maribel Merewyn]], Ophidia decided to enter the war, siding with [[2. The World/Nations/The Kingdom of Alastia\| the Kingdom of Alastia]] against [[2. The World/Nations/The Rarquet Assembly\| the Rarquet Assembly]] and [[2. The World/Nations/The Cer'Dorei Republic\| the Cer'Dorei Republic]]. 
 
 The entry into Ophidia into the Sundering War facilitated the liberation of Ryoko and Coatlan, driving out Republic and Assembly forces from the cities they were occupying. In secret, the Ring of Gold also tasked [[2. The World/Organisations/Force Grey\|Force Grey]] to began preparations for a [[2. The World/History/Operation Chisel\| covert military operation]].
 

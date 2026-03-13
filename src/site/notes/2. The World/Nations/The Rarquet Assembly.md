@@ -36,7 +36,7 @@
 > Imports | Grains, livestock, wine, furs and pelts |
 
 
-**The Rarquet Assembly** is a nation in [[2. The World/Nations/The Victorian Empire\|../Nations/The Victorian Empire]]. Located on the eastern seaboard, Rarquet is a state that specializes in mining and mass production. Such is their strength in mass production that the artificers of Rarquet are able to produce magical arms, armour, automatons and elixirs at a volume that can meet the majority of the demand of the nations in the Empire. They are ruled by [[2. The World/Organisations/The High Syndicacy\|The High Syndicacy]].
+**The Rarquet Assembly** is a nation in [[2. The World/Nations/The Victorian Empire\| The Victorian Empire]]. Located on the eastern seaboard, Rarquet is a state that specializes in mining and mass production. Such is their strength in mass production that the artificers of Rarquet are able to produce magical arms, armour, automatons and elixirs at a volume that can meet the majority of the demand of the nations in the Empire. They are ruled by [[2. The World/Organisations/The High Syndicacy\|The High Syndicacy]].
 
 ## Description
 A key characteristic of the Assembly would be the dull, red glow of all its towns and cities; the soft glow of ember from all of the forges seem to go on at all times of the day as production continues continuously in the state. 

@@ -18,4 +18,4 @@
 > Guilds & Groups | The Black Bear |
 > Temples | NIL |
 
-The **Kryn Ward** was a district in the city of Ophidia, which was the capital of the nation of [[2. The World/Nations/Ophidia\|../Nations/Ophidia]]. An entertainment district, it was packed with taverns, bars and carnivals. Street performers were not uncommon. 
+The **Kryn Ward** was a district in the city of Ophidia, which was the capital of the nation of [[2. The World/Nations/Ophidia\|Ophidia]]. An entertainment district, it was packed with taverns, bars and carnivals. Street performers were not uncommon. 

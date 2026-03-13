@@ -32,7 +32,7 @@
 > Exports | Gems, Ivory, fur, pelts, exotic herbs and spices |
 > Imports | Iron, wine, salt, water |
 
-**The Verdant Reach** is a nation in [[2. The World/Nations/The Victorian Empire\|../Nations/The Victorian Empire]]. Located on the northeastern part of the Leucaria continent, they were unified after [[2. The World/History/The Sundering War\| the Sundering War]] and are currently ruled by the [[2. The World/People/War Chief Hralvok\| War Chief Hralvok.]]
+**The Verdant Reach** is a nation in [[2. The World/Nations/The Victorian Empire\| The Victorian Empire]]. Located on the northeastern part of the Leucaria continent, they were unified after [[2. The World/History/The Sundering War\| the Sundering War]] and are currently ruled by the [[2. The World/People/War Chief Hralvok\| War Chief Hralvok.]]
 
 ## Description
 The Verdant Reach is a place of incredible diversity; dense, thick vegetation in the jungles of Russett contrast sharply against the burning heat of the Scorching Sands. The difference in biomes facilitated the growth and life of various types of beastfolks, giving rise to the rich racial diversity in the Reach.
