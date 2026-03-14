@@ -84,7 +84,11 @@ Seven years later, Salazar Black graduated with flying colors. His prodigious ta
 Being a member of the Ring of Silver, Salazar comes into contact with other nobles regularly. He was recently involved with Vilde Amadeus of the Cervine Senate and Raphael Antarra from the Chamber of Lords-Advisory, as the three worked on a tripartite trade agreement to establish mines in the Russett Jungle. 
 
 ###### Personality
-This is a placeholder.
+Salazar’s altruism developed mainly because of his amnesia and his time at Hexeverel. Having no recollection of his past, he feels strongly that the only thing within his control is who chooses to be now, and being heavily influenced by Professor McGonagall — someone whom he revered — he chooses to be good.  
+
+Bearing no past memories of conflicts, he is inclusive and open-minded. Firmly aware that everyone has their differences, he believes that what truly matters is their actions and intentions.  
+
+Salazar always thought of himself as someone who is brave given his sense of righteousness and aptitude in magic - he knows that no matter what comes his way, he will always be able take them on with a spell, even if it is something that he's not familiar with. Some may say that he trusts his instincts a little too much though, that is never at the expense of belittling others.
 
 ###### Character Details
-![](https://i.imgur.com/IWLtfm2.jpeg)
+![](https://i.imgur.com/3n4VbKR.jpeg)
