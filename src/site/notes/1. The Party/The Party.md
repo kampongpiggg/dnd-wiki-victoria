@@ -5,7 +5,7 @@
 
 A group of unlikely allies, the Party is made up of six heroes who seek to make the world a better place. 
 
-### Alexia is Vilde Amadeus, Rising Daughter of Senator Amadeus
+### Alexia is Vilde Amadeus, Heir to Senator Amadeus
 ###### Biography
 By all accounts, Vilde Amadeus is the graceful daughter of Senator Arianwen Amadeus, a noble elf most known for her populist policies. Senator Arianwen Amadeus has introduced grain subsidies, judicial reforms and even, controversially, sought to redistribute public land to landless citizens. Her focus on combating the social inequality between the high elves and the wood elves has made her a contentious figure in the Senate. Consequently, word on the floor is that Vilde is set to follow in her mother's footsteps. 
 
@@ -14,7 +14,9 @@ And yet, rumors about Vilde's true parentage has surfaced; many believe her skin
 ###### Personality
 Vilde is a natural leader. Bright, resourceful and charismatic, she has earned the respect and confidence of her peers. While not yet a Senator, few doubt her ability to succeed in the role.
 
-Like most elves, Vilde can be condescending to other races, in particular the Beastfolk. Unknown to most, she struggles with kleptomania.
+After all, as the only heir to Arianwen and Angwyn Amadeus, Vilde has been groomed since young to take over her mother's Senate position. She has been taught to be level-headed and composed when faced with various scenarios, but is susceptible to the occasional illogical decision due to her insecurity about having to prove that she's earned her spot.
+
+Like most elves, Vilde can be condescending to other races and thinks that she's better than everyone else. However, like her parents, she is kind to those she meets and would help those she deems worse off than her (which, to be honest, is most people).
 
 ###### Character Details
 ![](https://i.imgur.com/H9ExskL.jpeg)
