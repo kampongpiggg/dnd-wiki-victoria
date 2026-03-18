@@ -39,3 +39,5 @@ To facilitate this, the Lord Commander - usually a sitting member of the [[2. Th
 - Dame Naradriel Silverhand
 - Sir Lucan Rothenel
 - Sir Rendar Bolt
+- Castellan Eddard Raimond
+- Sir Wang Lei
