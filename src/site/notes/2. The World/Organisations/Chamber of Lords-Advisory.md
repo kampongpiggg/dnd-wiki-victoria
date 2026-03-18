@@ -20,7 +20,7 @@ The Chamber of Lords-Advisory is made up of the six noble and highly magical fam
 
 After the loss of [[2. The World/Locations/Dashund's Lea\|Dashund's Lea]] in [[2. The World/History/The Siege of Dashund's Lea\| the Siege of Dashund's Lea]], the survivors of House Tychonis, the former rulers of the town, fled back to the capital. In a bid to break the Republic's upper hand and as punishment for having lost the city, the [[2. The World/People/Eleanor Hamilton\| Dowager Queen Eleanor Hamilton]] forcefully exposed the young heir of the house - Ymir Tychonis - to the Shadowfell, a dimension formed following the imprisonment of the Ksha'aravi, the Primordial of Shadow by the gods. The exposure supercharged her, imbuing her soul with powerful dark magic and turning her into the first sorcerer. The success of the experimentation pushed other vassal houses to join the experimentation, granting them various sorcerous abilities.
 
-With the establishment of the Concord, their skill in diplomacy earned them key positions in institutions throughout the Empire.
+With the establishment of the Concord, their skill in diplomacy earned them key positions in institutions throughout the Empire. Additionally, to promote deeper alliances within each other, they established [[2. The World/Organisations/The Society of the Six\|The Society of the Six]].
 
 ## The Houses
 These are the houses that serve in the Chamber of the Lords-Advisory:
