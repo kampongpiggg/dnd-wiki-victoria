@@ -21,6 +21,16 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 | Salazar Black   | Human    | Wizard (School of Abjuration) | Noble      | Xian Hao          |
 
 # The Graying
+
+<div style="width: 100%; background-color: #333; border-radius: 10px; padding: 3px;">
+  <div style="width: 34%; background-color: darkgreen; height: 20px; border-radius: 8px; text-align: center; color: white; font-size: 14px; font-weight: bold; line-height: 20px;">
+    67 HP / 102
+  </div>
+</div>
+<p style="text-align: center; color: gray; font-size: 12px; margin-top: 5px;">
+  67 Weeks Remaining | 34% Corrupted
+</p>
+
 ```countdown-to
 title: The Empress's Vitality
 startDate: 2025-07-16
