@@ -21,35 +21,25 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 | Salazar Black   | Human    | Wizard (School of Abjuration) | Noble      | Xian Hao          |
 
 # The Graying
-
+The Empress's Vitality
 <div style="width: 100%; background-color: #333; border-radius: 10px; padding: 3px;">
-  <div style="width: 34%; background-color: darkgreen; height: 20px; border-radius: 8px; text-align: center; color: white; font-size: 14px; font-weight: bold; line-height: 20px;">
-    67 HP / 102
+  <div style="width: 82.84%; background-color: darkgreen; height: 20px; border-radius: 8px; text-align: center; color: white; font-size: 14px; font-weight: bold; line-height: 20px;">
+    169 / 204
   </div>
 </div>
 <p style="text-align: center; color: gray; font-size: 12px; margin-top: 5px;">
-  67 Weeks Remaining | 34% Corrupted
+  169 Days Remaining | 17% Corrupted
 </p>
 
-```countdown-to
-title: The Empress's Vitality
-startDate: 2025-07-16
-endDate: 2029-06-13
-type: semicircle
-color: darkgreen
-infoFormat: {percent}% Health Lost
-onCompleteText: "The Empress is dead. The Curse has done its work."
-```
-
-```countdown-to
-title: Professor McGonagall's Vitality
-startDate: 2025-07-16
-endDate: 2027-06-30
-type: line
-color: darkgreen
-infoFormat: Unknown Health Remaining
-onCompleteText: "The Professor has fallen. The Curse has done its work."
-```
+Professor Hermione McGonagall's Vitality
+<div style="width: 100%; background-color: #333; border-radius: 10px; padding: 3px;">
+  <div style="width: 65.68%; background-color: darkgreen; height: 20px; border-radius: 8px; text-align: center; color: white; font-size: 14px; font-weight: bold; line-height: 20px;">
+    ??? / ???
+  </div>
+</div>
+<p style="text-align: center; color: gray; font-size: 12px; margin-top: 5px;">
+  ??? Days Remaining | ??% Corrupted
+</p>
 
 # The World
 
