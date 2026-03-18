@@ -19,6 +19,28 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 | Wang Lei        | Human    | Paladin (Oath of Prosperity)  | Soldier    | Shao Ping |
 | Hazel           | Harengon | Cleric (Trickery Domain)      | Guide      | Siew Han  |
 | Salazar Black   | Human    | Wizard (School of Abjuration) | Noble      | Xian Hao          |
+
+# The Graying
+```countdown-to
+title: The Empress's Vitality
+startDate: 2025-07-16
+endDate: 2029-06-13
+type: semicircle
+color: darkgreen
+infoFormat: {percent}% Health Lost
+onCompleteText: "The Empress is dead. The Curse has done its work."
+```
+
+```countdown-to
+title: Professor McGonagall's Vitality
+startDate: 2025-07-16
+endDate: 2027-06-30
+type: line
+color: darkgreen
+infoFormat: Unknown Health Remaining
+onCompleteText: "The Professor has fallen. The Curse has done its work."
+```
+
 # The World
 
 ![../z_Attachments/The Known World.jpg](/img/user/z_Attachments/The%20Known%20World.jpg)
