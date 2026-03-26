@@ -15,24 +15,11 @@
 
 The **Ytepka Society** are a secret society dedicated to the protection of Kroonstad and [[2. The World/Locations/Port M'Kaze\|Port M'Kaze]] from foreigners.
 
-## Organizational Structure
-In peacetime, the Revolutionary Guard is charged with the protection of the Concord and the Emperor; on a daily basis, this entails training recruits, commanding and staffing Imperial garrisons throughout the continent, investigating potential threats to the Concord and the protection of the Emperor.
+## Activities
+The Ytepka carefully monitored all happenings in Kroonstad. They keep a close eye on both their fellow Kroonstadians as well as foreigners, notably hostile foreign factions, pirates, explorers and adventurers. Their primary task was to ensure that the natural and social order of Kroonstad was not upset. Particularly active in Port M'Kaze, they controlled the loading and unloading of ships and had spies amongst the dockworkers to keep tabs on visitors.
 
-In war, the Guard is expected to command the levied Imperial forces against rebelling nation states. They also to coordinate between participating national forces.
-
-To facilitate this, the Lord Commander - usually a sitting member of the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]] - oversees the many garrisons and branches of the Imperial Army. The Army is made up of three branches:
-- The Cadet Corps is responsible for the recruitment and training of the soldiers that would join the Revolutionary Guard. They are led by the Chief Instructor, Dame Brienne Tarth.
-- The Castellanate commands the Imperial Army garrisoned throughout the continent. While their primary responsibility is to defend against threats to the Concord and the Emperor, often in the form of insurrections and rebellions, sometimes they lend the strength of the Imperial Army to deal with problems locally, such as monsters terrorizing a village or a horde of undead marching on a town. Each garrison is commanded by a Castellan, who reports directly to the Lord Commander.
-- The Eyes of the Emperor is the investigative and intelligence branch of the Guard, often tasked with investigating plots or mysteries that could potentially threaten the Concord. To do this, they often shed their white and gold armour for plain clothes. They are led by the Sightwarden, Sir Maladark Blade.
+If the Society noticed a problematic individual - either one who had disrupted the social fabric of Port M'Kaze or was potentially going to commit a crime - they would leave an iron token at the home or abode of the individual in question. If the marked person ignored the warning, the Ytepka Society would take punitive action.
 
 
 ## Notable Members
-- Lord Commander Otto Einsensturm
-- Sir Maladark Blade
-- Dame Brienne Tarth
-- Dame Thaisha Fang
-- Dame Naradriel Silverhand
-- Sir Lucan Rothenel
-- Sir Rendar Bolt
-- Castellan Eddard Raimond
-- Sir Wang Lei
+- Zindar the Harbour Master
