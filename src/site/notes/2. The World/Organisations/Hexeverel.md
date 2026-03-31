@@ -32,3 +32,4 @@ Following the unification of the continent after the Sundering War, it is common
 - Founder Arthur Eggford
 - Founder Isaac Newton
 - Dean Grace
+- [[2. The World/People/Professor Hermione McGonagall\| Professor Hermione McGonagall]]
