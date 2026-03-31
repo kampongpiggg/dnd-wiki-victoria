@@ -35,6 +35,6 @@ The latest of these expeditions is [[1. The Party/0. The Party\|the 52nd Expedit
 
 ## Notable Individuals Afflicted
 - The Empress [[2. The World/People/Victoria Parcival\|Victoria Parcival]]
-- Professor Hermione McGonagall
+- [[2. The World/People/Professor Hermione McGonagall\|Professor Hermione McGonagall]]
 - Dame Naradriel Silverhand
 - Merchant Prince Ekene-Afar
