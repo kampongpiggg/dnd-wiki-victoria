@@ -21,7 +21,7 @@ Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian E
 | Salazar Black   | Human    | Wizard (School of Abjuration) | Noble      | Xian Hao          |
 
 # The Graying
-Of all the known individuals suffering from the Graying, their current health status is tracked below:
+Of all the known individuals suffering from [[2. The World/History/The Graying\| the Graying]], their current health status is tracked below:
 
 <div style="width: 100%; background: #1a1a1a; border: 2px solid #2d5a27; border-radius: 8px; overflow: hidden; position: relative;">
   <div style="width: 82.35%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
