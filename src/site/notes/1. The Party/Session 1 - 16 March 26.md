@@ -3,3 +3,8 @@
 ---
 
 <iframe src="/img/user/3.%20Session%20Recaps/Session%201%20Recap.pdf" width="100%" height="900px" title="Session 1 Recap" style="border:1px solid #ccc;"></iframe>
+
+```button
+name Next Session
+type link
+url [[1. The Party/Session 2 - 23 March 26\|Session 2 - 23 March 26]]
