@@ -56,6 +56,17 @@ Of all the known individuals suffering from the Graying, their current health st
   ?? Days Remaining | ??% Corrupted
 </p>
 
+<div style="width: 100%; background: #1a1a1a; border: 2px solid #2d5a27; border-radius: 8px; overflow: hidden; position: relative;">
+  <div style="width: 74.82%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
+    <div style="color: white; font-family: 'Georgia', serif; font-weight: bold; text-align: center; line-height: 25px; text-shadow: 1px 1px 2px black;">
+      Merchant Prince Ekene-Afar's Vitality
+    </div>
+  </div>
+</div>
+<p style="text-align: center; color: gray; font-size: 12px; margin-top: 5px;">
+  103 Days Remaining | 25% Corrupted
+</p>
+
 # The World
 
 ![../z_Attachments/The Known World.jpg](/img/user/z_Attachments/The%20Known%20World.jpg)
