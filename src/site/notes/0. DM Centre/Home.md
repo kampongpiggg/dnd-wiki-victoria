@@ -31,7 +31,7 @@ Of all the known individuals suffering from [[2. The World/History/The Graying\|
   </div>
 </div>
 <p style="text-align: center; color: gray; font-size: 12px; margin-top: 5px;">
-  169 Days Remaining | 17% Corrupted
+  168 Days Remaining | 17% Corrupted
 </p>
 
 <div style="width: 100%; background: #1a1a1a; border: 2px solid #2d5a27; border-radius: 8px; overflow: hidden; position: relative;">
@@ -83,6 +83,7 @@ Of all the known individuals suffering from [[2. The World/History/The Graying\|
 # Quick Links
 
 - [[2. The World/History/The Timeline\| Timeline]]
+- [[2. The World/History/The Graying\|The Graying]]
 - [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]
 - [[2. The World/People/Victoria Parcival\|Victoria Parcival]]
 - [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]]
