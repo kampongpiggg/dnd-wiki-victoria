@@ -4,7 +4,7 @@
 
 
 > [!abstract]+ Quote 
-> *""* - **Castellan Eddard Raimond**
+> *"We are the reason why people can sleep well at night, and the reason bandits and brigands fear the lion's flag. We are the law in the Jungle."* - **Castellan Eddard Raimond**
 
 
 > [!infobox]
