@@ -11,6 +11,6 @@
 > ---|---|
 > Bases of Operation | Ophidia |
 > Race | Tieflings, humans, half-elves, half-orcs |
-> Members | Felicity (formerly) · Grace |
+> Members | Felicity (formerly) · Grace · Salazar Black |
 
 The **Ring of Silver** were the sixteen apprentices of the Archmages of the [[2. The World/Organisations/Ring of Gold\|Ring of Gold]]. They are referred to their title of "High Mage" and often wear masks.
