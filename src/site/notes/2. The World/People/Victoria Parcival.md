@@ -40,7 +40,7 @@ After the fall of [[2. The World/Locations/Dashund's Lea\|Dashund's Lea]], the D
 Training was tough, but Victoria proved tougher. What she lacked in physical strength, she made up for in pure tenacity. Her refusal to give up and resilience earned her the respect of her comrades, who often looked to her for leadership. 
 
 ###### Raid on Coatlan
-In 751 AY, while under the command of Sir Galahad Phillips defending the western front, Victoria went against her orders and led a raid into Coatlan, raiding the city and freeing the surviving members of House Xicoatl who had been held against their will by Cer'Dorei forces. While reprimanded, the operation was a critical success, earning her own command.
+In 751 AY, while under the command of Sir Galahad Phillips defending the western front, Victoria went against her orders and led a raid into Coatlan. With the assistance of her squire [[2. The World/People/Castellan Eddard Raimond\|Eddard Raimond]], her team raided the city and freed the surviving members of House Xicoatl, who had been held against their will by Cer'Dorei forces. While reprimanded, the operation was a critical success, earning her own command.
 
 ###### Diplomacy in the Reach
 After [[2. The World/Organisations/The Russett Pride\|The Russett Pride]] joined [[2. The World/Nations/The Cer'Dorei Republic\|The Cer'Dorei Republic]], [[2. The World/Organisations/Clan Ladon\|Clan Ladon]] sought to enter the war to ensure their own survival. The newly promoted Captain Victoria Parcival was dispatched to negotiate terms with their leader [[2. The World/People/War Chief Hralvok\|War Chief Hralvok]], so as to bolster Alastian forces.

@@ -12,7 +12,7 @@
 > Info |  Description |
 > ---|---|
 > Home | Leonitar |
-> Group | The Kingdom of Alasia |
+> Group | The Kingdom of Alastia |
 > Sex | Female |
 > Race | Human |
 > Age | 65 |
