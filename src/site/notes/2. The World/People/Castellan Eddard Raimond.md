@@ -23,7 +23,7 @@
 > Alignment | Lawful Good |
 > Class | Wizard |
 
-**Castellan Eddard Raimond** is the head of [[2. The World/Locations/Summer's Outpost\|Summer's Outpost]], and serves as a mentor to Lieutenant Wang Lei. 
+**Castellan Eddard Raimond** is a commander in the [[2. The World/Organisations/The Victorian Revolutionary Guard\|The Victorian Revolutionary Guard]] and the head of [[2. The World/Locations/Summer's Outpost\|Summer's Outpost]]. and serves as a mentor to Lieutenant Wang Lei. 
 
 ## The Graying
 Having been a seasoned adventurer herself, the Professor was afflicted by the widespread curse known as [[2. The World/History/The Graying\|The Graying]]. When the Eyes of the Emperor identified that the source of the curse was a necromantic device known as the Devourer located in Kroonstad, [[2. The World/Organisations/The Victorian Revolutionary Guard\|The Victorian Revolutionary Guard]] began commissioning expeditions to locate and destroy the device. 

@@ -10,6 +10,7 @@
 Welcome! This wikipedia is an encyclopedic guide to the world of The Victorian Empire, our homebrew D&D campaign setting. It also serves as a record of the lore and shenanigans of our heroes as they go on adventures in this world.
 
 # The Party
+Assembled by the *Eyes of the Emperor* to destroy the Devourer, this motley crew of unlikely allies form [[1. The Party/0. The Party\|the 52nd Expedition]]. 
 
 | Character Name  | Species  | Class (Subclass)              | Background | Player    |
 | --------------- | -------- | ----------------------------- | ---------- | --------- |
