@@ -76,6 +76,9 @@ Surrounded by a jungle teeming with undead, the city also constructed a high sto
 
 Without a standing army, the city is incapable of claiming more land from the undead infested wilds. The guards paid for by the Merchant Princes man the walls, patrol the streets, watch the markets, but primarily guard their personal interests. These guards do little to defend the people in the slums outside the walls. As such, many residents in Malar's Throat organise their own volunteer Citizens' Brigade, sounding warning horns in the event of an undead attack to get people to flee through the gates to safety.
 
+## Geography
+![](https://i.imgur.com/BRvdbL3.jpeg)
+
 ## Notable Inhabitants
 - Merchant Prince Ekene-Afar
 - Merchant Prince Wakanga W'Kabi

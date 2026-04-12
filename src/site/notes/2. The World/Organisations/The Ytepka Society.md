@@ -13,7 +13,7 @@
 > Race | Human, elves, half-elves, dragonborn |
 > Leader | Zindar the Harbourmaster |
 
-The **Ytepka Society** are a secret society dedicated to the protection of Kroonstad and [[2. The World/Locations/Port M'Kaze\|Port M'Kaze]] from foreigners.
+The **Ytepka Society** are a secret society dedicated to the protection of Kroonstad and [[2. The World/Locations/Port M'Kaze\|../Locations/Port M'Kaze]] from foreigners.
 
 ## Activities
 The Ytepka carefully monitored all happenings in Kroonstad. They keep a close eye on both their fellow Kroonstadians as well as foreigners, notably hostile foreign factions, pirates, explorers and adventurers. Their primary task was to ensure that the natural and social order of Kroonstad was not upset. Particularly active in Port M'Kaze, they controlled the loading and unloading of ships and had spies amongst the dockworkers to keep tabs on visitors.
