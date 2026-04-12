@@ -32,7 +32,7 @@ While small, the castle was of strategic significance to the Victorian Empire. T
 ## The Graying
 In 790 AY, upon the onset of the widespread curse known as the Graying, Empress [[2. The World/People/Victoria Parcival\|Victoria Parcival]] begun commissioning expeditions into the jungle continent of Kroonstad to locate and destroy the necromantic device known as the Devourer. Many of such expeditions were unsuccessful, with almost all going into the jungle vanishing.
 
-Under the advisement of the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], the Lieutenant of Summer's Outpost, Wang Lei, was selected to be part of the [[1. The Party/0. The Party\|52nd Expedition]]. In his stead, the Chamber of Lords-Advisory sent the fresh Lieutenant Henry Thia to stand-in as Deputy Commander of Summer's Outpost.
+Under the advisement of the [[2. The World/Organisations/Chamber of Lords-Advisory\|Chamber of Lords-Advisory]], the Lieutenant of Summer's Outpost, Wang Lei, was selected to be part of the [[1. The Party/The Party\|52nd Expedition]]. In his stead, the Chamber of Lords-Advisory sent the fresh Lieutenant Henry Thia to stand-in as Deputy Commander of Summer's Outpost.
 
 ## Notable Inhabitants
 - [[2. The World/People/Castellan Eddard Raimond\|Castellan Eddard Raimond]]
