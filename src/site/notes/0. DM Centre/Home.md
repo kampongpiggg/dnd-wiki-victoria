@@ -21,6 +21,8 @@ Assembled by the *Eyes of the Emperor* to destroy the Devourer, this motley crew
 | Hazel           | Harengon | Cleric (Trickery Domain)      | Guide      | Siew Han  |
 | Salazar Black   | Human    | Wizard (School of Abjuration) | Noble      | Xian Hao          |
 
+They have since made their way to [[2. The World/Locations/Port M'Kaze\|Port M'Kaze]], in search of information regarding the Devourer.
+
 # The Graying
 Of all the known individuals suffering from [[2. The World/History/The Graying\| the Graying]], their current health status is tracked below:
 
