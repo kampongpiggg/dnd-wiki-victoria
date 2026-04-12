@@ -76,8 +76,38 @@ Surrounded by a jungle teeming with undead, the city also constructed a high sto
 
 Without a standing army, the city is incapable of claiming more land from the undead infested wilds. The guards paid for by the Merchant Princes man the walls, patrol the streets, watch the markets, but primarily guard their personal interests. These guards do little to defend the people in the slums outside the walls. As such, many residents in Malar's Throat organise their own volunteer Citizens' Brigade, sounding warning horns in the event of an undead attack to get people to flee through the gates to safety.
 
-## Geography
+## Points of Interest
 ![](https://i.imgur.com/BRvdbL3.jpeg)
+
+There are multiple points of interest in the city, as labelled below:
+
+| Label | Location                       | Description                                                                             |
+|:-----:|:------------------------------ |:--------------------------------------------------------------------------------------- |
+|   1   | **Beggars Palace** | A makeshift community hub for the city’s destitute and forgotten.                       |
+|   2   | **Executioner's Run** | A perilous gauntlet where the accused run for their lives to earn their freedom.        |
+|   3   | **Refuse Pit**  | The primary disposal site for the city's waste, often scavenged by the desperate.       |
+|   4   | **Goldenthrone**  | The majestic seat of government where the Merchant Princes conduct official business.   |
+|   5   | **Villas of the Merchant Princes** | Opulent, high-walled estates belonging to the city's elite ruling class. |
+|   6   | **Grand Souk** | The sprawling central marketplace where almost any legal good can be found.             |
+|   7   | **Temple of Savras** | A house of worship dedicated to the deity of divination and fate.|
+|   8   | **Temple of Gond**| A workshop-temple filled with inventors and devotees of the god of craft.|
+|   9   | **Temple of Sune** | A beautiful sanctuary focused on the appreciation of art, love, and physical beauty.|
+|  10   | **Jewel Market** | A high-security district specializing in the trade of precious stones and fine jewelry. |
+|  11   | **Royal Docks** | The primary deep-water port used for international trade and naval vessels.|
+|  12   | **Statue of Commerce**| A massive landmark honoring the city's foundation on trade and wealth.                  |
+|  13   | **Harbourmaster's Office**| Zindar's office.            |
+|  14   | **Lighthouse** | A vital beacon guiding ships through the treacherous coastal waters. |
+|  15   | **Fort Nyanzaru**| The city’s main military fortification and headquarters for the local militia.|
+|  16   | **Warehouse District** | A maze of stone buildings used to store the massive influx of trade goods.              |
+|  17   | **Dry Docks** | An engineering marvel used for the construction and repair of large seafaring vessels.  |
+|  18   | **Red Bazaar** | A bustling, chaotic market known primarily for its exotic meats and livestock.|
+|  19   | **Thundering Lizard** | A popular, rowdy tavern known for catering to explorers, adventurers, and mercenaries.                |
+|  20   | **Grand Coliseum** | An immense arena hosting gladiatorial games, races, and public spectacles.|
+|  21   | **Hall of Gold** | The city's primary counting house.|
+|  22   | **Public Bathhouse** | A communal space for relaxation, social networking, and hygiene. |
+|  23   | **Dye Works** | An industrial zone filled with vibrant vats used to color the city’s famous textiles.   |
+|  24   | **The Church of Caishenye** | A sacred space dedicated to the pursuit of prosperity and divine fortune. A rare safe haven in Malar's Throat.  |
+|  25   | **Dinosaur Pens** | Large enclosures used to house and train the city's reptilian beasts of burden.|
 
 ## Notable Inhabitants
 - Merchant Prince Ekene-Afar
