@@ -31,7 +31,7 @@ His true name is not known, and has been lost to history. Historians believe tha
 
 According to Vecna's own accounts, his mortal mother was a wholly evil woman who sacrificed animals and consorted with monstrous beings. It was her cruelty that shaped the man he was in life and undeath. 
 
-Eager to learn and unlock the secrets of the universe itself, Vecna purportedly began his quest for immortality. Recruiting his apprentice, the pair developed the process of constructing a phylactery and lichdom.
+Eager to learn and unlock the secrets of the universe itself, Vecna purportedly began his quest for immortality. Recruiting his apprentice, the pair begun developing the process of constructing a phylactery and lichdom. In 404 AY, they succeeded.
 
 As the first human to undergo such a transformation, the process was extremely experimental. It was believed that an unexpected surge of energy during the process of sealing his soul in the newly made phylactery rent his body asunder, leaving behind only his left eye and hand. Fortunately, the process was a success, allowing him to regenerate his body; however, the effects of the magic crippled him, preventing him from generating the lost eye and hand.
 

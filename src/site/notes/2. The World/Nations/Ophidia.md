@@ -94,4 +94,6 @@ While some of her cities are walled, some are not. Instead, these cities are pow
 - Unknown
 
 ## Notable Inhabitants
+- The Archmage [[2. The World/People/Felicity\|Felicity]] (deceased)
 - The Archmage Grace
+- The Archmage Karsus
