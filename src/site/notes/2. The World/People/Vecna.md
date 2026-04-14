@@ -17,7 +17,7 @@
 > Age | 386 |
 > Condition | Undead, Missing |
 
-**Vecna**, also known as the First Lich, the Whispered One, the Undying King, and the Lord of the Rotted Tower, was a once-human archmage of [[2. The World/Nations/Ophidia\|Ophidia]]. Along with his apprentice, the pair developed the process of constructing a phylactery and becoming a [[2. The World/Others/Lich\|lich]].
+**Vecna**, also known as the First Lich, the Whispered One, the Undying King, and the Lord of the Rotted Tower, was a once-human archmage of [[2. The World/Nations/Ophidia\|Ophidia]]. Along with his apprentice, the pair developed the *Ritual of Becoming*, a magical process meant to allow a mortal to become a [[2. The World/Others/Lich\|lich]].
 
 ## Description
 Given his extensive life as an undead lich, Vecna had a gaunt and skeletal frame. Withered flesh stretched tight across horribly visible bones. In addition to this decrepit form, Vecna was famously noted to be missing his left hand and left eye.
@@ -33,7 +33,7 @@ According to Vecna's own accounts, his mortal mother was a wholly evil woman who
 
 Eager to learn and unlock the secrets of the universe itself, Vecna purportedly began his quest for immortality. Recruiting his apprentice, the pair begun developing the process of constructing a phylactery and lichdom. In 404 AY, they succeeded.
 
-As the first human to undergo such a transformation, the process was extremely experimental. It was believed that an unexpected surge of energy during the process of sealing his soul in the newly made phylactery rent his body asunder, leaving behind only his left eye and hand. Fortunately, the process was a success, allowing him to regenerate his body; however, the effects of the magic crippled him, preventing him from generating the lost eye and hand.
+As the first human to undergo such a transformation, the *Ritual of Becoming* was extremely experimental. It was believed that an unexpected surge of energy during the process of sealing his soul in the newly made phylactery rent his body asunder, leaving behind only his left eye and hand. Fortunately, the procedure was a success, allowing him to regenerate his body; however, the effects of the magic permanently crippled him, preventing him from generating the lost eye and hand.
 
 ![../../z_Attachments/Hand_and_eye_of_vecna-5e.webp](/img/user/z_Attachments/Hand_and_eye_of_vecna-5e.webp)
 

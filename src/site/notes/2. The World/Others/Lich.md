@@ -17,12 +17,12 @@
 > Creature Type | Undead, Humanoid |
 
 > [!abstract]+ Quote 
-> *"The transition is not a death, but a shedding of the fragile. To become a god, one must first forget what it means to be mortal. "* - **Vecna the First Lich**
+> *"The transition is not a death, but a shedding of the fragile. To become a god, one must first forget what it means to be mortal. "* - **Vecna, the First Lich**
 
 A **Lich** is a universally nefarious undead spellcaster of great power. In life, they were typically wizards, but could possibly be sorcerers, warlocks or clerics. Generally, liches were feared by mortal beings for their almost complete mastery of dark magic, intelligence, and their willingness to embrace undeath for a chance to exist forever. Lichdom was arguably the most powerful known form of undeath.
 
 ## Becoming a Lich
-It is not uncommon for powerful arcane spellcasters to push the boundaries of what is possible and seek immortality. For those willing to dabble in the dark arts, the pursuit of lichdom can be enticing. 
+It is not uncommon for powerful arcane spellcasters to push the boundaries of what is possible and seek immortality. For those willing to dabble in the dark arts, the pursuit of lichdom can be enticing. The process of becoming a lich is known as the *Ritual of Becoming.*
 
 A prospective lich starts by making a phylactery. Making a phylactery was a highly expensive and taxing effort, requiring a high degree of spellcasting ability. The estimated cost for procuring all of the necessary arcane components was valued at 200,000 gold pieces. In theory, any object could be chosen to be a lich's phylactery, but objects made from a solid materials and be of high-quality craftsmanship were generally selected. It could be non-magical or already be a magical item, but must cost no less than 50,000 gold pieces.
 
