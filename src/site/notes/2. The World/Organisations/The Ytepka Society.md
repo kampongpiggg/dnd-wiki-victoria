@@ -22,4 +22,5 @@ If the Society noticed a problematic individual - either one who had disrupted t
 
 
 ## Notable Members
+- Guard Captain Azune
 - Zindar the Harbour Master
