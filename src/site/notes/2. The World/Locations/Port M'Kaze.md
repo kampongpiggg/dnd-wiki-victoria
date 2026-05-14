@@ -112,6 +112,9 @@ There are multiple points of interest in the city, as labelled below:
 ## Notable Inhabitants
 - Merchant Prince Ekene-Afar
 - Merchant Prince Wakanga W'Kabi
+- Merchant Prince Jobal N'Jobu
+- Merchant Prince Kwayothe
 - Zindar the Harbourmaster
+- Guard Captain Azune
 - Sister Clara 
 - Ellyna Govemi
