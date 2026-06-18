@@ -17,7 +17,7 @@ Assembled by the *Eyes of the Emperor* to destroy the Devourer, this motley crew
 | Vilde Amadeus   | Wood Elf | Rogue (Swashbuckler)          | Noble      | Alexia    |
 | Wukong          | Simian   | Paladin (Oath of Glory)       | Charlatan  | Brian     |
 | Raphael Antarra | Human    | Sorcerer (Aberrant Mind)      | Noble      | Peng Hong |
-| Wang Lei        | Human    | Paladin (Oath of Prosperity)  | Soldier    | Shao Ping |
+| Wang Lei        | Human    | Paladin (Oathbreaker) / Warlock  | Soldier    | Shao Ping |
 | Hazel           | Harengon | Cleric (Trickery Domain)      | Guide      | Siew Han  |
 | Salazar Black   | Human    | Wizard (School of Abjuration) | Noble      | Xian Hao          |
 
