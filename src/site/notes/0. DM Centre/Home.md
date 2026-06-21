@@ -24,21 +24,21 @@ Assembled by the *Eyes of the Emperor* to destroy the Devourer, this motley crew
 They have since made their way to [[2. The World/Locations/Port M'Kaze\|Port M'Kaze]], in search of information regarding the Devourer.
 
 # The Graying
-Of all the known individuals suffering from [[2. The World/History/The Graying\| the Graying]], their current health status is tracked below:
+The Graying has been active for 53 days. Of all the known individuals suffering from [[2. The World/History/The Graying\| the Graying]], their current health status is tracked below:
 
 <div style="width: 100%; background: #1a1a1a; border: 2px solid #2d5a27; border-radius: 8px; overflow: hidden; position: relative;">
-  <div style="width: 79.41%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
+  <div style="width: 74.02%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
     <div style="color: white; font-family: 'Georgia', serif; font-weight: bold; text-align: center; line-height: 25px; text-shadow: 1px 1px 2px black;">
       The Empress's Vitality
     </div>
   </div>
 </div>
 <p style="text-align: center; color: gray; font-size: 12px; margin-top: 5px;">
-  162 Days Remaining | 20% Corrupted
+  151 Days Remaining | 26% Corrupted
 </p>
 
 <div style="width: 100%; background: #1a1a1a; border: 2px solid #2d5a27; border-radius: 8px; overflow: hidden; position: relative;">
-  <div style="width: 58.81%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
+  <div style="width: 48.02%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
     <div style="color: white; font-family: 'Georgia', serif; font-weight: bold; text-align: center; line-height: 25px; text-shadow: 1px 1px 2px black;">
       Professor McGonagall's Vitality
     </div>
@@ -49,7 +49,7 @@ Of all the known individuals suffering from [[2. The World/History/The Graying\|
 </p>
 
 <div style="width: 100%; background: #1a1a1a; border: 2px solid #2d5a27; border-radius: 8px; overflow: hidden; position: relative;">
-  <div style="width: 69.78%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
+  <div style="width: 61.87%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
     <div style="color: white; font-family: 'Georgia', serif; font-weight: bold; text-align: center; line-height: 25px; text-shadow: 1px 1px 2px black;">
       Dame Naradriel's Vitality
     </div>
@@ -60,14 +60,14 @@ Of all the known individuals suffering from [[2. The World/History/The Graying\|
 </p>
 
 <div style="width: 100%; background: #1a1a1a; border: 2px solid #2d5a27; border-radius: 8px; overflow: hidden; position: relative;">
-  <div style="width: 72.94%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
+  <div style="width: 65.85%; background: linear-gradient(90deg, #1b4d16, #2d5a27); height: 25px; animation: pulse 3s infinite ease-in-out;">
     <div style="color: white; font-family: 'Georgia', serif; font-weight: bold; text-align: center; line-height: 25px; text-shadow: 1px 1px 2px black;">
       Merchant Prince Ekene-Afar's Vitality
     </div>
   </div>
 </div>
 <p style="text-align: center; color: gray; font-size: 12px; margin-top: 5px;">
-  98 Days Remaining | 27% Corrupted
+  87 Days Remaining | 34% Corrupted
 </p>
 
 # The World
