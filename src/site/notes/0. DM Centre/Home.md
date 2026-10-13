@@ -70,6 +70,8 @@ The Graying has been active for 66 days. Of all the known individuals suffering 
   74 Days Remaining | 43% Corrupted
 </p>
 
+In addition, it has been **6** days since the death of [[2. The World/People/Senator Arianwen Amadeus\|Senator Arianwen Amadeus]].
+
 # The World
 
 ![../z_Attachments/The Known World.jpg](/img/user/z_Attachments/The%20Known%20World.jpg)
