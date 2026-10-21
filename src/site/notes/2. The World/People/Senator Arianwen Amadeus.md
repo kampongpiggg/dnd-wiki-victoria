@@ -21,7 +21,7 @@
 > Info | Description |
 > ---|---|
 > Alignment | Lawful Neutral |
-> Class | Rogue |
+> Class | Fighter / Ranger |
 
 Senator Arianwen Amadeus is a member of [[2. The World/Organisations/The Cervine Senate\|The Cervine Senate]] and mother to Vilde Amadeus. A shrewd politician, Arianwen has risen to power through meritorious service and a campaign predicated on progressivism and socialism. Her most notable policies included grain subsidies, substantial judicial reforms and, controversially, redistribution of public land to landless citizens. Her focus on combating the social inequality between the high elves and the wood elves has made her a contentious figure in the Senate. 
 
