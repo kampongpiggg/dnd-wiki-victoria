@@ -87,6 +87,7 @@ In addition, it has been **6** days since the death of [[2. The World/People/Sen
 
 # Quick Links
 
+- [Bastions](https://stronghold-the-victorian-empire.vercel.app/)
 - [[2. The World/History/The Timeline\| Timeline]]
 - [[2. The World/History/The Graying\|The Graying]]
 - [[2. The World/People/The Victorian Emperor\|The Victorian Emperor]]
